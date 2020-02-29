@@ -1,4 +1,4 @@
-﻿$input = "$PSScriptRoot\livelist.m3u"
+﻿$input = "$PSScriptRoot\..\list.m3u"
 Get-Content $input | Where-Object {$_ -match "^http*"} | ForEach-Object {
     try{
         $response = invoke-webrequest $_ -DisableKeepAlive 
