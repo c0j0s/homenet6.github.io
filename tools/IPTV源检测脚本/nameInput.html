@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <input type='file' accept='text/plain' onchange='openFile(event)'>
+        <hr>
+        <p id="current"></p>
+        <video id="video" src="" style="max-height: 480px; min-height: 480px" autoplay="autoplay"></video>
+        <br>
+        <input type="text" name="channelname" id="channelname" value="">
+        <button onclick="nextChannel()">Next</button>
+        <button onclick="nullChannel()">Null</button>
+        <button onclick="jump()">Jump</button>
+        <hr>
+        <div id="output"></div>
+        <hr>
+        <div id="outputM3U"></div>
+        <hr>
+        <div id="null"></div>
+    </body>
+<script>
+    var video = document.getElementById("video")
+    var iplist;
+    var index = 0;
+    var lines;
+
+    var openFile = function(event) {
+            var input = event.target;
+
+            var reader = new FileReader();
+            reader.onload = function(){
+                iplist = reader.result;
+                lines = iplist.split('\n');
+                startLink()
+            };
+            reader.readAsText(input.files[0]);
+    };
+
+    function startLink(){
+        video.setAttribute("src",lines[index])
+        if(lines[index] === ""){
+            alert("END")
+        }else{
+            $("#current").val(index + " " + lines[index])
+        }
+    }
+
+    function nextChannel(){
+        prependChannelTitle()
+        index++;
+        startLink()
+    }
+
+    function nullChannel(){
+        $("#null").append("<p>"+ lines[index] + "</p>")
+        index++;
+        startLink()
+    }
+
+    function jump(){
+        index = $("#channelname").html()
+        startLink()
+    }
+
+    function prependChannelTitle(){
+        //outputM3U
+        var input = $("#channelname").val()
+        $("#output").append("<p>"+ input + "," + lines[index] + "</p>")
+        $("#outputM3U").append('<p>#EXTINF:0 type="stream" channelId="-1", '+ input + "<br>" + lines[index] + "</p>")
+        $("#channelname").val("")
+    }
+</script>
+</html>
+

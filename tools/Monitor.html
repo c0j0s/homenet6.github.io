@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>IPTV Monitor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <div class="">
+        <div class="">
+            <h2>IPTV</h2>
+            <input type='file' accept='text/m3u' onchange='openFile(event)'>
+            <!-- <button class="btn" id='testChannel'>Test 10</button> -->
+        </div>
+        <div id="tvcontainer" class="card-group row bg-secondary">
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <script>
+        var channelList = []
+
+        var openFile = function(event) {
+            var input = event.target;
+
+            var reader = new FileReader();
+            reader.onload = function(){
+                var iplist = reader.result;
+                var lines = iplist.split('\n').filter(extractHttpUrl);
+                var info = iplist.split('\n').filter(extractInfo);
+                lines.forEach((url,index) => {
+                    var title = info[index].split(",")
+                    $('#tvcontainer').append('<div class="col-sm-3  d-flex align-items-stretch" ><div class="card" ><div class="card-body"><h3>'+ title[1] +'</h3><video autopaly="autoplay" id="stream-'+index+'" src="'+ url +'"  muted="autoplay" style="width:100%; height:auto; min-width: 100%; min-height: 100%;  " ></video></div></div></div>')
+                });
+            };
+            reader.readAsText(input.files[0]);
+        };
+
+        var extractHttpUrl = function(text){
+            return text.startsWith('http')
+        }
+
+        var extractInfo = function(text){
+            return text.startsWith('#EXTINF')
+        }
+        var start = 0;
+        $('#testChannel').click(function(){
+            var end = start + 10;
+            for (let index = 0; index < end; index++) {
+                $('#stream-'+index).attr('autoplay','autoplay');
+                $('#stream-'+(index-10)).attr('autoplay','autoplay');
+            }
+        })
+    </script>
+</body>
+</html>

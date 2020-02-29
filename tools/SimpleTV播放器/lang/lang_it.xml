@@ -1,0 +1,5845 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+                                                          
+<SimpleTVlang ver="2.1">
+<language>
+  <item tag="it" name="italiano" author="Alex Ivanovich, 31 May 2012 - Versione tradotta SimpleTV 0.4.6r (VLC 2.0.1)" /> 
+</language>
+
+<!-- common  -->
+<common_button_ok>
+ <ru text="Ok"/>
+ <en text="Ok"/>
+ <it text="Ok"/>
+</common_button_ok>
+
+<common_button_cancel>
+ <ru text="Отмена"/>
+ <en text="Cancel"/>
+ <it text="Cancella"/>
+</common_button_cancel>
+
+<common_button_apply>
+ <ru text="Применить"/>
+ <en text="Apply"/>
+ <it text="Applicare"/>
+</common_button_apply>
+
+<common_button_close>
+ <ru text="Закрыть"/>
+ <en text="Close"/>
+ <it text="Chiudere"/>
+</common_button_close>
+
+<common_str_default>
+ <ru text="По умолчанию"/>
+ <en text="By default"/>
+ <it text="Impostazione Predefinita"/>
+</common_str_default>
+
+<common_str_all>
+ <ru text="Все"/>
+ <en text="All"/>
+ <it text="Tutti"/>
+</common_str_all>
+
+<common_str_auto>
+ <ru text="Авто"/>
+ <en text="Auto"/>
+ <it text="Auto"/>
+</common_str_auto>
+
+<common_str_auto1>
+ <ru text="авто"/>
+ <en text="auto"/>
+ <it text="auto"/>
+</common_str_auto1>
+
+<common_str_no>
+ <ru text="нет"/>
+ <en text="no"/>
+ <it text="no"/>
+</common_str_no>
+
+<common_str_no1>
+ <ru text="нет"/>
+ <en text="none"/>
+ <it text="no"/>
+</common_str_no1>
+
+<common_str_own1>
+ <ru text="свой"/>
+ <en text="own"/>
+ <it text="suo"/>
+</common_str_own1>
+
+<common_str_mono>
+ <ru text="моно"/>
+ <en text="mono"/>
+ <it text="mono"/>
+</common_str_mono>
+
+<common_str_stereo>
+ <ru text="стерео"/>
+ <en text="stereo"/>
+ <it text="stereo"/>
+</common_str_stereo>
+
+<common_str_track>
+ <ru text="дорожка "/>
+ <en text="track "/>
+ <it text="traccia "/>
+</common_str_track>
+
+<common_str_download_file>
+ <ru text="Загрузка файла"/>
+ <en text="Download file"/>
+ <it text="Scaricare un file"/>
+</common_str_download_file>
+
+<common_str_enter_file_name>
+ <ru text="Введите имя файла"/>
+ <en text="Enter the file name"/>
+ <it text="Immettere il nome file"/>
+</common_str_enter_file_name>
+
+<common_str_restart_need>
+ <ru text="Изменения вступят в силу после перезапуска программы"/>
+ <en text="Changes take effect after restarting the program"/>
+ <it text="Le modifiche avranno effetto dopo il riavvio del programma"/>
+</common_str_restart_need>
+
+<common_str_folder_already_present>
+ <ru text="Папка '%s' уже существует.\nПереписать содержимое ?"/>
+ <en text="The folder '%s' already exists.\nOverwrite ?"/>
+ <it text="La cartella '%s' esiste già.\nSovrascrivi ?"/>
+</common_str_folder_already_present>
+
+<common_str_cancel_by_user>
+ <ru text="Отменено пользователем"/>
+ <en text="Cancel by user"/>
+ <it text="Annullato dall'utente"/>
+</common_str_cancel_by_user>
+ 
+<common_str_record_error_1>
+ <ru text="ошибка(не могу создать папку для записи)"/>
+ <en text="error (can't create folder for recording)"/>
+ <it text="errore (Non riesco a creare una cartella per la registrazione)"/>
+</common_str_record_error_1>
+
+<common_str_record_error_2>
+ <ru text="ошибка(проверте папку для записи)"/>
+ <en text="error (check folder for recording)"/>
+ <it text="errore (controllare la cartella per la registrazione)"/>
+</common_str_record_error_2>
+ 
+<!--             -->
+<common_str_gradient_smooth>
+ <ru text="Однородный"/>
+ <en text="Smooth"/>
+ <it text="Omogeneo"/>
+</common_str_gradient_smooth> 
+
+<common_str_gradient_horz>
+ <ru text="Горизонтальный градиент"/>
+ <en text="Horizontal gradient"/>
+ <it text="Orizzontale gradiente"/>
+</common_str_gradient_horz> 
+
+<common_str_gradient_vert>
+ <ru text="Вертикальный градиент"/>
+ <en text="Vertical gradient"/>
+ <it text="Verticale gradiente"/>
+</common_str_gradient_vert> 
+
+<common_str_gradient_diag>
+ <ru text="Диагональный градиент"/>
+ <en text="Diagonal gradient"/>
+ <it text="Diagonale gradiente"/>
+</common_str_gradient_diag> 
+
+<common_str_gradient_round>
+ <ru text="Круговой градиент"/>
+ <en text="Circular gradient"/> 
+ <it text="Circulare gradiente"/> 
+</common_str_gradient_round> 
+
+<!--          -->
+<common_str_files_found>
+ <ru text="Файлов найдено"/>
+ <en text="Files found"/>
+ <it text="Files trovati"/>
+</common_str_files_found>
+<!--   -->
+<common_str_picture_filter>
+ <ru text="картинки(bmp,jpg,jpeg,gif,png)|*.bmp;*.jpg;*.jpeg;*.gif;*.png|все файлы(*.*)|*.*||"/>
+ <en text="picture(bmp,jpg,jpeg,gif,png)|*.bmp;*.jpg;*.jpeg;*.gif;*.png|all files(*.*)|*.*||"/>
+ <it text="foto(bmp,jpg,jpeg,gif,png)|*.bmp;*.jpg;*.jpeg;*.gif;*.png|tutti i file(*.*)|*.*||"/>
+</common_str_picture_filter>
+
+<common_str_media_filter>
+ <ru text="Media files|*.avi;*.mpg;*.mpeg;*.wmv;*.mp4;*.mkv;*.vob;*.asf;*.flv;*.mov;|Все файлы|*.*||"/>
+ <en text="Media files|*.avi;*.mpg;*.mpeg;*.wmv;*.mp4;*.mkv;*.vob;*.asf;*.flv;*.mov;|All files|*.*||"/>
+ <it text="File multimediali|*.avi;*.mpg;*.mpeg;*.wmv;*.mp4;*.mkv;*.vob;*.asf;*.flv;*.mov;|tutti i file|*.*||"/>
+</common_str_media_filter>
+
+<common_str_sub_filter>
+ <ru text="Файлы субтитров|*.cdg;*.idx;*.srt;*.sub;*.utf;*.ass;*.ssa;*.aqt;*.jss;*.psb;*.rt;*.smi;|Все файлы|*.*||"/>
+ <en text="Subtitle files|*.cdg;*.idx;*.srt;*.sub;*.utf;*.ass;*.ssa;*.aqt;*.jss;*.psb;*.rt;*.smi;|All files|*.*||"/>
+ <it text="Sottotitoli file|*.cdg;*.idx;*.srt;*.sub;*.utf;*.ass;*.ssa;*.aqt;*.jss;*.psb;*.rt;*.smi;|tutti i file|*.*||"/>
+</common_str_sub_filter>
+
+<!--   -->
+<common_str_use_common_loading>
+<ru text="Загрузка..."/>
+ <en text="Loading..."/>
+ <it text="Caricamento..."/>
+</common_str_use_common_loading>
+
+<common_str_use_common_safe_mode>
+<ru text="Безопасный режим"/>
+ <en text="Safe mode"/>
+ <it text="Modalità provvisoria"/>
+</common_str_use_common_safe_mode>
+
+<!--   -->
+<common_str_use_common_setting>
+<ru text="использовать общие настройки"/>
+ <en text="use common setting"/>
+ <it text="utilizzare le impostazioni generali"/>
+</common_str_use_common_setting>
+
+<!-- common  days -->
+<str_day_sunday>
+ <ru text="Воскресенье"/>
+ <en text="Sunday"/>
+ <it text="Domenica"/>
+</str_day_sunday>
+
+<str_day_monday>
+ <ru text="Понедельник"/>
+ <en text="Monday"/>
+ <it text="Lunedi"/>
+</str_day_monday> 
+
+<str_day_tuesday>
+ <ru text="Вторник"/>
+ <en text="Tuesday"/>
+ <it text="Martedi"/>
+</str_day_tuesday> 
+
+<str_day_wednesday>
+ <ru text="Среда"/>
+ <en text="Wednesday"/>
+ <it text="Mercoledi"/>
+</str_day_wednesday> 
+
+ <str_day_thursday>
+ <ru text="Четверг"/>
+ <en text="Thursday"/> 
+ <it text="Giovedi"/> 
+</str_day_thursday> 
+ 
+<str_day_friday>
+ <ru text="Пятница"/>
+ <en text="Friday"/>
+ <it text="Venerdi"/>
+</str_day_friday> 
+
+<str_day_saturday>
+ <ru text="Суббота"/>
+ <en text="Saturday"/>
+ <it text="Sabato"/>
+</str_day_saturday> 
+<!-- short -->
+<str_day_sunday_short>
+ <ru text="Вс"/>
+ <en text="Sun"/>
+ <it text="Dom"/>
+</str_day_sunday_short>
+
+<str_day_monday_short>
+ <ru text="Пн"/>
+ <en text="Mon"/>
+ <it text="Lun"/>
+</str_day_monday_short> 
+
+<str_day_tuesday_short>
+ <ru text="Вт"/>
+ <en text="Tue"/>
+ <it text="Mar"/>
+</str_day_tuesday_short> 
+
+<str_day_wednesday_short>
+ <ru text="Ср"/>
+ <en text="Wed"/>
+ <it text="Mer"/>
+</str_day_wednesday_short> 
+
+ <str_day_thursday_short>
+ <ru text="Чт"/>
+ <en text="Thu"/> 
+ <it text="Gio"/> 
+</str_day_thursday_short> 
+ 
+<str_day_friday_short>
+ <ru text="Пт"/>
+ <en text="Fri"/>
+ <it text="Ven"/>
+</str_day_friday_short> 
+
+<str_day_saturday_short>
+ <ru text="Сб"/>
+ <en text="Sat"/>
+ <it text="Sab"/>
+</str_day_saturday_short> 
+<!-- short_u -->
+<str_day_sunday_u_short>
+ <ru text="ВС"/>
+ <en text="SUN"/>
+ <it text="DOM"/>
+</str_day_sunday_u_short>
+
+<str_day_monday_u_short>
+ <ru text="ПН"/>
+ <en text="MON"/>
+ <it text="LUN"/>
+</str_day_monday_u_short> 
+
+<str_day_tuesday_u_short>
+ <ru text="ВТ"/>
+ <en text="TUE"/>
+ <it text="MAR"/>
+</str_day_tuesday_u_short> 
+
+<str_day_wednesday_u_short>
+ <ru text="СР"/>
+ <en text="WED"/>
+ <it text="MER"/>
+</str_day_wednesday_u_short> 
+
+ <str_day_thursday_u_short>
+ <ru text="ЧТ"/>
+ <en text="THU"/> 
+ <it text="GIO"/> 
+</str_day_thursday_u_short> 
+ 
+<str_day_friday_u_short>
+ <ru text="ПТ"/>
+ <en text="FRI"/>
+ <it text="VEN"/>
+</str_day_friday_u_short> 
+
+<str_day_saturday_u_short>
+ <ru text="СБ"/>
+ <en text="SAT"/>
+ <it text="SAB"/>
+</str_day_saturday_u_short> 
+<!--   -->
+
+<!-- MAIN MENU -->
+<main_menu_file>
+ <ru text="Файл"/>
+ <en text="File"/>
+ <it text="File"/>
+</main_menu_file>
+
+<main_menu_file_open_file>
+ <ru text="Открыть файл"/>
+ <en text="Open File"/>
+ <it text="Apri il file"/>
+</main_menu_file_open_file>
+
+<main_menu_file_open_url>
+ <ru text="Открыть URL"/>
+ <en text="Open URL"/>
+ <it text="Apri URL"/>
+</main_menu_file_open_url>
+
+<main_menu_file_exit>
+ <ru text="Выход"/>
+ <en text="Exit"/>
+ <it text="Uscita"/>
+</main_menu_file_exit>
+
+<main_menu_control>
+ <ru text="Управление"/>
+ <en text="Control"/>
+ <it text="Gestione"/>
+</main_menu_control>
+
+<main_menu_control_play>
+ <ru text="Плей/пауза"/>
+ <en text="Play/Pause"/>
+ <it text="Play/Pausa"/>
+</main_menu_control_play>
+
+<main_menu_control_stop>
+ <ru text="Стоп"/>
+ <en text="Stop"/>
+ <it text="Stop"/>
+</main_menu_control_stop>
+
+<main_menu_control_faster>
+ <ru text="Увеличить скорость воспроизведения"/>
+ <en text="Increase the speed"/>
+ <it text="Aumentare la velocità"/>
+</main_menu_control_faster>
+
+<main_menu_control_slow>
+ <ru text="Уменьшить скорость воспроизведения"/>
+ <en text="Decrease speed"/>
+ <it text="Diminuire la velocità"/>
+</main_menu_control_slow>
+
+<main_menu_control_ff>
+ <ru text="Перемотка вперед"/>
+ <en text="Skip forward"/>
+ <it text="Salta avanti"/>
+</main_menu_control_ff>
+
+<main_menu_control_rew>
+ <ru text="Перемотка вперед"/>
+ <en text="Skip Backward"/>
+ <it text="Salta indietro"/>
+</main_menu_control_rew>
+
+<main_menu_control_longff>
+ <ru text="Длинная перемотка вперед"/>
+ <en text="Long Skip Forward"/>
+ <it text="Lungo Salto Avanti"/>
+</main_menu_control_longff>
+ 
+<main_menu_control_longrew>
+ <ru text="Длинная перемотка назад"/>
+ <en text="Long Skip Backward"/>
+ <it text="Lungo Salto Indietro"/>
+</main_menu_control_longrew>
+ 
+<main_menu_control_fast>
+ <ru text="Быстро"/>
+ <en text="Fast Play"/>
+ <it text="Play Veloce"/>
+</main_menu_control_fast>
+
+<main_menu_control_norm>
+ <ru text="Нормальная скорость"/>
+ <en text="Normal Speed"/>
+ <it text="Velocità Normale"/>
+</main_menu_control_norm>
+ 
+<main_menu_control_restart>
+ <ru text="Рестарт"/>
+ <en text="Restart"/>
+ <it text="Riavvia"/>
+</main_menu_control_restart>
+ 
+<main_menu_control_addbook>
+ <ru text="Добавить закладку"/>
+ <en text="Add Bookmark"/>
+ <it text="Aggiungi Segnalibro"/>
+</main_menu_control_addbook>
+
+<main_menu_control_osdbook>
+ <ru text="Закладки на OSD"/>
+ <en text="OSD Bookmarks"/>
+ <it text="Segnalibro su OSD"/>
+</main_menu_control_osdbook>
+ 
+<main_menu_control_multiadress_show>
+ <ru text="Список серий на OSD"/>
+ <it text="Elenco delle serie su OSD"/>
+</main_menu_control_multiadress_show>
+
+<main_menu_channels>
+ <ru text="Плейлист"/>
+ <it text="Playlist"/>
+</main_menu_channels>
+
+
+ <main_menu_channels>
+ <ru text="Плейлист"/>
+ <en text="Playlist"/>
+ <it text="Playlist"/>
+</main_menu_channels>
+ 
+ <main_menu_channels_back>
+ <ru text="Канал назад"/>
+ <en text="Move Channel Backward"/>
+ <it text="Spostare Canale Indietro"/>
+ </main_menu_channels_back>
+
+ <main_menu_channels_ff>
+ <ru text="Канал вперед"/>
+ <en text="Move Channel Forward"/>
+ <it text="Spostare Canale Avanti"/>
+ </main_menu_channels_ff>
+
+ <main_menu_channels_prev>
+  <ru text="Предыдущий канал"/>
+  <en text="Previous Channel"/>
+  <it text="Canale Precedente"/>
+</main_menu_channels_prev>
+ 
+<main_menu_channels_openpls>
+ <ru text="Показать/Спрятать плейлист"/>
+ <en text="Show/Hide Playlist"/>
+ <it text="Mostra/Nascondi Playlist"/>
+</main_menu_channels_openpls>
+
+ <main_menu_channels_swtype>
+  <ru text="Переключение вкладок плейлиста"/>
+  <en text="Switching playlist tabs"/>
+  <it text="Passa a playlist schede"/>
+ </main_menu_channels_swtype>
+
+<main_menu_channels_fav>
+ <ru text="Любимые каналы/медиафайлы"/>
+ <en text="Favorite channels/Media"/>
+ <it text="Canali preferiti/ Media"/>
+ </main_menu_channels_fav>
+
+<main_menu_channels_extfilterosd> 
+ <ru text="Расширенный фильтр на OSD"/>
+ <en text="ExtFilter on OSD"/>
+ <it text="ExtFilter su OSD"/>
+</main_menu_channels_extfilterosd> 
+
+<main_menu_channels_pip>
+ <ru text="Картинка в картинке (PiP)"/>
+ <en text="Picture in Pictures (PiP)"/>
+ <it text="Picture in Pictures (PiP)"/>
+</main_menu_channels_pip> 
+
+<main_menu_channels_mpip>
+ <ru text="Мульти PiP"/>
+ <en text="Multi PiP"/>
+ <it text="Multi PiP"/>
+</main_menu_channels_mpip>
+
+<main_menu_channels_info>
+ <ru text="Информация"/>
+ <en text="Information"/>
+ <it text="Informazioni"/>
+</main_menu_channels_info>
+
+<main_menu_channels_loadpls>
+ <ru text="Загрузить плейлист"/>
+ <en text="Load playlist"/>
+ <it text="Carica playlist"/>
+</main_menu_channels_loadpls>
+
+<main_menu_channels_unloadpls>
+ <ru text="Выгрузить плейлист"/>
+ <en text="Export playlist to file"/>
+ <it text="Esporta playlist in un file"/>
+</main_menu_channels_unloadpls>
+
+<main_menu_channels_refreshpls>
+ <ru text="Обновить плейлист"/>
+ <en text="Refresh playlist"/>
+ <it text="Ricarica playlist"/>
+</main_menu_channels_refreshpls>
+ 
+<main_menu_channels_scan>
+ <ru text="Поиск каналов"/>
+ <en text="Searching channels"/>
+ <it text="Ricerca canali"/>
+</main_menu_channels_scan>
+
+<main_menu_record>
+ <ru text="Запись"/>
+ <en text="Record"/>
+ <it text="Registra"/>
+</main_menu_record>
+
+<main_menu_record_quick>
+ <ru text="Быстрая запись"/>
+ <en text="Quick recording"/>
+ <it text="Registrazione veloce"/>
+</main_menu_record_quick>
+
+<main_menu_record_pipquick>
+ <ru text="Быстрая запись с PiP"/>
+ <en text="Quick recording from PiP"/>
+ <it text="Registrazione veloce da PiP"/>
+</main_menu_record_pipquick>
+
+<main_menu_record_stopquick>
+ <ru text="Остановить быструю запись"/>
+ <en text="Stop Quick Recording"/>
+ <it text="Stop Registrazione veloce"/>
+</main_menu_record_stopquick>
+
+<main_menu_record_osdinfo>
+ <ru text="Таймер и Записи на OSD"/>
+ <en text="Timer &amp;&amp; Recording on OSD"/>
+ <it text="Timer &amp;&amp; Registrazione sull' OSD"/>
+</main_menu_record_osdinfo>
+
+<main_menu_record_info>
+ <ru text="Таймер и Записи"/>
+ <en text="Timer &amp;&amp; Recording"/>
+ <it text="Timer &amp;&amp; Registrazione"/>
+</main_menu_record_info>
+
+<main_menu_record_snapshot>
+ <ru text="Сохранить кадр"/>
+ <en text="Snapshot"/>
+ <it text="Scatta foto"/>
+</main_menu_record_snapshot>
+ 
+<main_menu_record_openfolder> 
+ <ru text="Открыть папку записей"/>
+ <en text="Open Recording Folder"/>
+ <it text="Apri Cartella Registrazione"/>
+</main_menu_record_openfolder> 
+
+<main_menu_record_dump> 
+ <ru text="Сохранить в файл"/>
+ <it text="Salvare il file con VLC (Dump to the file)"/>
+</main_menu_record_dump> 
+
+ 
+<main_menu_setup>  
+ <ru text="Настройки"/>
+ <en text="Preferences"/>
+ <it text="Impostazioni"/>
+</main_menu_setup>  
+
+<main_menu_setup_open>
+ <ru text="Окно настроек"/>
+ <en text="Open Preferences"/>
+ <it text="Apri Preferenze"/>
+</main_menu_setup_open>
+
+<main_menu_view>
+ <ru text="Вид"/>
+ <en text="View"/>
+ <it text="Vista"/>
+</main_menu_view>
+ 
+<main_menu_view_ontop>
+ <ru text="Поверх всех окон"/>
+ <en text="Always on Top"/>
+ <it text="Sempre in Primo Piano"/>
+</main_menu_view_ontop>
+
+<main_menu_view_fullscr>
+ <ru text="Полноэкранный режим"/>
+ <en text="Fullscreen Mode"/>
+ <it text="Modalità Schermo Intero"/>
+</main_menu_view_fullscr>
+
+<main_menu_view_compact>
+ <ru text="Компактный режим"/>
+ <en text="Compact Mode"/>
+ <it text="Modalità compatta"/>
+</main_menu_view_compact>
+
+<main_menu_view_tray>
+ <ru text="Свернуть в трей"/>
+ <en text="Minimize to Tray"/>
+ <it text="Riduci a icona nella Tray"/>
+</main_menu_view_tray> 
+
+<main_menu_view_controlpanel>
+ <ru text="Панель управления"/>
+ <en text="Control Panel"/>
+ <it text="Pannello di Controllo"/>
+</main_menu_view_controlpanel>
+ 
+<main_menu_view_scale>
+ <ru text="Масштабирование видео под размер окна"/>
+ <en text="Scaling video to fit window"/>
+ <it text="Scala video per adattarlo alla finestra"/>
+</main_menu_view_scale>
+
+<main_menu_view_winsize>
+ <ru text="Размер окна"/>
+ <it text="Dimensione della finestra"/>
+</main_menu_view_winsize>
+
+<main_menu_view_winsize_1>
+ <ru text="Оригинальный размер видео"/>
+ <it text="Dimensione del video originale"/>
+</main_menu_view_winsize_1>
+
+<main_menu_view_winsize_05>
+ <ru text="Оригинальный размер видео/2"/>
+ <it text="Dimensione del video originale/2"/>
+</main_menu_view_winsize_05>
+
+<main_menu_view_winsize_2>
+ <ru text="Оригинальный размер видео*2"/>
+ <it text="Dimensione del video originale*2"/>
+</main_menu_view_winsize_2>
+
+
+<main_menu_epg>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</main_menu_epg>
+
+<main_menu_epg_show>
+ <ru text="Показать"/>
+ <en text="Show EPG"/>
+ <it text="Mostra EPG"/>
+</main_menu_epg_show>
+
+<main_menu_epg_showosd>
+ <ru text="Показать на OSD"/>
+ <en text="Show OSD EPG"/>
+ <it text="Mostra OSD EPG"/>
+</main_menu_epg_showosd>
+
+<main_menu_epg_refresh>
+ <ru text="Обновить"/>
+ <en text="Update EPG"/>
+ <it text="Aggiorna EPG"/>
+</main_menu_epg_refresh>
+
+<main_menu_epg_refreshcurr>
+ <ru text="Обновить для текущего канала"/>
+ <en text="Update EPG for Current Channel"/>
+ <it text="Aggiorna EPG per il canale corrente"/>
+</main_menu_epg_refreshcurr>
+
+<main_menu_power>
+ <ru text="Выключение"/>
+ <en text="Power"/>
+ <it text="Power (Alimentazione"/>
+</main_menu_power>
+ 
+<main_menu_power_sleep>
+ <ru text="Сон/Гибернация"/>
+ <en text="Sleep/Hibernate"/>
+ <it text="Sospensione/Ibernazione"/>
+</main_menu_power_sleep>
+
+<main_menu_power_off>
+ <ru text="Выключить компьютер"/>
+ <en text="Shut Down Computer"/>
+ <it text="Spegni il Computer"/>
+</main_menu_power_off>
+
+<main_menu_power_sleeptimer>
+ <ru text="Таймер сна"/>
+ <en text="Sleep Timer"/>
+ <it text="Sospensione Timer"/>
+</main_menu_power_sleeptimer>
+
+<main_menu_power_exittimer>
+ <ru text="Таймер выхода"/>
+ <it text="Uscita Timer"/>
+</main_menu_power_exittimer>
+
+
+<main_menu_subtitles>
+ <ru text="Субтитры"/>
+ <en text="Subtitles"/>
+ <it text="Sottotitoli"/>
+</main_menu_subtitles>
+
+<main_menu_subtitles_auto>
+ <ru text="Автоопределение"/>
+ <en text="Autodetect"/>
+ <it text="Automatico"/>
+</main_menu_subtitles_auto> 
+
+<main_menu_subtitles_track>
+ <ru text="Дорожка"/>
+ <en text="Track"/>
+ <it text="Traccia"/>
+</main_menu_subtitles_track>
+ 
+<main_menu_subtitles_load>
+ <ru text="Загрузить файл"/>
+ <en text="Load File"/>
+ <it text="Carica File"/>
+</main_menu_subtitles_load>
+
+<main_menu_video>
+ <ru text="Видео"/>
+ <en text="Video"/>
+ <it text="Video"/>
+</main_menu_video>
+
+<main_menu_video_track>
+ <ru text="Дорожка"/>
+ <en text="Track"/>
+ <it text="Traccia"/>
+</main_menu_video_track>
+
+<main_menu_video_deint>
+ <ru text="Деинтерлейс"/>
+ <en text="Deinterlacing"/>
+ <it text="Deinterlaccia"/>
+</main_menu_video_deint>
+
+<main_menu_video_crop>
+ <ru text="Обрезка"/>
+ <en text="Cropping"/>
+ <it text="Ritaglio (Cropping)"/>
+</main_menu_video_crop>
+
+<main_menu_video_aspect>
+ <ru text="Формат"/>
+ <en text="Aspect Ratio"/>
+ <it text="Formato (Aspect Ratio)"/>
+</main_menu_video_aspect>
+
+<main_menu_audio>
+ <ru text="Аудио"/>
+ <en text="Audio"/>
+ <it text="Audio"/>
+</main_menu_audio>
+
+<main_menu_audio_track>
+ <ru text="Дорожка"/>
+ <en text="Track"/>
+ <it text="Traccia"/>
+</main_menu_audio_track>
+  
+<main_menu_audio_type>
+ <ru text="Тип"/>
+ <en text="Audio device"/>
+ <it text="Dispositivo audio"/>
+</main_menu_audio_type>
+ 
+<main_menu_help> 
+ <ru text="Помощь"/>
+ <en text="Help"/>
+ <it text="Aiuto"/>
+</main_menu_help>
+
+<main_menu_help_about>
+ <ru text="О программе"/>
+ <en text="About"/>
+ <it text="Informazioni sul programma"/>
+</main_menu_help_about>
+
+<main_menu_help_update>
+ <ru text="Проверить обновления"/>
+ <en text="Check for Update"/>
+ <it text="Controlla aggiornamenti"/>
+</main_menu_help_update>
+
+<main_menu_help_home>
+ <ru text="Сайт программы"/>
+ <en text="Homepage"/>
+ <it text="Vai sul Sito Web del programma"/>
+</main_menu_help_home>
+
+<main_menu_help_bugtracker>
+ <ru text="Багтрекер"/>
+ <en text="Bugtracker"/>
+ <it text="Bugtracker (Sito Web)"/>
+</main_menu_help_bugtracker>
+
+<main_menu_playlist>
+ <ru text="Cписок каналов/медиафайлов"/>
+ <en text="Channels/Мedia List"/>
+ <it text="Canali/ Мedia Lista"/>
+</main_menu_playlist>
+<!--Main menu end-->
+
+<!-- tray menu-->
+<tray_menu_restore>
+ <ru text="Восстановить"/>
+ <en text="Restore"/>
+ <it text="Ripristinare"/>
+</tray_menu_restore>
+
+<tray_menu_currentrecords>
+ <ru text="Текущие записи"/>
+ <en text="Current Records"/>
+ <it text="Registrazioni correnti"/>
+</tray_menu_currentrecords>
+
+<tray_menu_exit>
+ <ru text="Завершить все записи и выйти"/>
+ <en text="Stop All Records and Exit"/>
+ <it text="Arresta tutte le Registrazioni ed esci"/>
+</tray_menu_exit>
+
+<str_tray_number_timer>
+ <ru text="таймер(а)"/>
+ <en text="timer(s)"/>
+ <it text="Timer(s)"/>
+</str_tray_number_timer>
+
+<str_tray_number_records>
+ <ru text="запись(и)"/>
+ <en text="record(s)"/>
+ <it text="Registrazioni(s)"/>
+</str_tray_number_records>
+
+<str_tray_play_pause>
+<ru text="Воспроизведение/Пауза"/>
+<en text="Play/Pause"/>
+<it text="Play/Pausa"/>
+</str_tray_play_pause>
+
+<str_tray_stop>
+<ru text="Стоп"/>
+<en text="Stop"/>
+<it text="Stop"/>
+</str_tray_stop>
+
+<str_tray_playlst>
+<ru text="Список каналов/медиафайлов"/>
+<en text="Channels/Media List"/>
+<it text="Canali/Media Lista"/>
+</str_tray_playlst>
+<!--Playlist-->
+
+<playlist_menu_new>
+<ru text="Новый канал/медиафайл"/>
+<en text="New Channel/Media"/>
+<it text="Nuovo Canale/Media"/>
+</playlist_menu_new>
+
+<playlist_menu_newgroup>
+<ru text="Новая группа"/>
+<en text="New Group"/>
+<it text="Nuovo Gruppo"/>
+</playlist_menu_newgroup>
+
+<playlist_menu_move>
+<ru text="Отправить в группу"/>
+<en text="Move to Group"/>
+<it text="Sposta in Gruppo"/>
+</playlist_menu_move>
+
+<playlist_menu_addfile>
+<ru text="Добавить файл"/>
+<en text="Add Files"/>
+<it text="Aggiungi File"/>
+</playlist_menu_addfile>
+
+<playlist_menu_adddir>
+<ru text="Добавить директорию"/>
+<en text="Add Folder"/>
+<it text="Aggiungi Cartella"/>
+</playlist_menu_adddir>
+
+<playlist_menu_opendir>
+<ru text="Открыть папку"/>
+<en text="Open Folder"/>
+<it text="Apri Cartella"/>
+</playlist_menu_opendir>
+
+<playlist_menu_del>
+<ru text="Удалить"/>
+<en text="Delete"/>
+<it text="Cancella"/>
+</playlist_menu_del>
+
+<playlist_menu_delall>
+<ru text="Удалить все"/>
+<en text="Delete All"/>
+<it text="Cancella Tutti"/>
+</playlist_menu_delall>
+
+<playlist_menu_epg>
+<ru text="Программа"/>
+<en text="Show EPG"/>
+<it text="Mostra EPG"/>
+</playlist_menu_epg>
+
+<playlist_menu_setup>
+<ru text="Настройки"/>
+<en text="Channel Settings"/>
+<it text="Impostazioni Canale"/>
+</playlist_menu_setup>
+
+<playlist_menu_updateepg>
+<ru text="Обновить программу"/>
+<en text="Update EPG"/>
+<it text="Aggiorna EPG"/>
+</playlist_menu_updateepg>
+
+<playlist_menu_updateepgselect>
+<ru text="Обновить программу для выделенного канала"/>
+<en text="Update EPG for Selected Channels"/>
+<it text="Aggiorna EPG per i canali selezionati"/>
+</playlist_menu_updateepgselect>
+
+<playlist_menu_loadpls>
+<ru text="Загрузить список каналов"/>
+<en text="Load Playlist"/>
+<it text="Carica Playlist"/>
+</playlist_menu_loadpls>
+
+<playlist_menu_unloadpls>
+<ru text="Выгрузить список каналов"/>
+<en text="Export Playlist to File"/>
+<it text="Esporta Playlist in un File"/>
+</playlist_menu_unloadpls>
+
+<playlist_menu_refreshpls>
+<ru text="Обновить плейлист"/>
+<en text="Refresh Playlist"/>
+<it text="Aggiorna Playlist"/>
+</playlist_menu_refreshpls>
+
+<playlist_menu_toolbar>
+<ru text="Панель кнопок"/>
+<en text="Show Toolbar"/>
+<it text="Mostra Toolbar"/>
+</playlist_menu_toolbar>
+
+<playlist_menu_qprog>
+<ru text="Быстрая программа"/>
+<en text="Show Current Program"/>
+<it text="Mostra Programma corrente"/>
+</playlist_menu_qprog>
+
+<playlist_menu_qprog_no>	
+<ru text="Нет"/>
+<en text="Disable"/>
+<it text="Disabilita"/>
+</playlist_menu_qprog_no>		
+
+<playlist_menu_qprog_beside>		
+<ru text="Сбоку"/>
+<en text="Beside"/>
+<it text="Di lato"/>
+</playlist_menu_qprog_beside>
+
+<playlist_menu_qprog_bottom>
+<ru text="Снизу"/>
+<en text="Below"/>
+<it text="Sotto"/>
+</playlist_menu_qprog_bottom>
+
+<playlist_menu_misc>
+<ru text="Дополнительно"/>
+<en text="Miscellaneous"/>
+<it text="Vari"/>
+</playlist_menu_misc>
+
+<playlist_menu_misc_sort>
+<ru text="Сортировка"/>
+<en text="Sorting"/>
+<it text="Ordinamento"/>
+ </playlist_menu_misc_sort>
+
+<playlist_menu_misc_sort_no>
+<ru text="Нет"/>
+<en text="No"/>
+<it text="No"/>
+</playlist_menu_misc_sort_no>
+
+<playlist_menu_misc_sort_name>		
+<ru text="По имени"/>
+<en text="By Name"/>
+<it text="Per Nome"/>
+</playlist_menu_misc_sort_name>
+
+<playlist_menu_misc_sort_namedesc>
+<ru text="По имени (обратная)"/>
+<en text="By Name (desc)"/>
+<it text="Per Nome (desc)"/>
+</playlist_menu_misc_sort_namedesc>
+
+<playlist_menu_misc_sort_adr>
+<ru text="По адресу"/>
+<en text="By Address"/>
+<it text="Per Indirizzo"/>
+</playlist_menu_misc_sort_adr>
+
+<playlist_menu_misc_sort_adrdesc>
+<ru text="По адресу (обратная)"/>
+<en text="By Address (desc)"/>
+<it text="Per Indirizzo (desc)"/>
+</playlist_menu_misc_sort_adrdesc>
+
+<playlist_menu_misc_sort_number>
+<ru text="По номеру"/>
+<en text="By Number"/>
+<it text="Per Numero"/>
+</playlist_menu_misc_sort_number>
+
+<playlist_menu_misc_sort_numberdesc>
+<ru text="По номеру (обратная)"/>
+<en text="By Number (desc)"/>
+<it text="Per Numero (desc)"/>
+</playlist_menu_misc_sort_numberdesc>
+
+<playlist_menu_misc_showadr>
+<ru text="Показывать адрес"/>
+<en text="Show address"/>
+<it text="Mostra indirizzo"/>
+</playlist_menu_misc_showadr>
+
+<playlist_menu_misc_record>
+<ru text="Запись"/>
+<en text="Record"/>
+<it text="Registra"/>
+</playlist_menu_misc_record>
+
+<playlist_menu_misc_check>
+<ru text="Проверить выделенные каналы"/>
+<en text="Check Selected Channels"/>
+<it text="Verificare i canali selezionati"/>
+</playlist_menu_misc_check>
+
+<playlist_menu_misc_clear_last_pos>
+<ru text="Сбросить позицию"/>
+<it text="Cancella ultima posizione"/>
+</playlist_menu_misc_clear_last_pos>
+
+
+<playlist_menu_filterbyname>
+<ru text="Фильтр по названию"/>
+<en text="Filter by Name"/>
+<it text="Filtra per Nome"/>
+</playlist_menu_filterbyname>
+
+<playlist_menu_delfilterbyname>
+<ru text="Удалить фильтр"/>
+<en text="Delete Filter"/>
+<it text="Cancella Filtro"/>
+</playlist_menu_delfilterbyname>
+
+<playlist_menu_selectall>
+<ru text="Выделить все"/>
+<en text="Select All"/>
+<it text="Seleziona Tutto"/>
+</playlist_menu_selectall>
+
+<!-- Playlist menu extfilter -->
+<playlist_extfilter_menu_up>
+<ru text="Вверх"/>
+<en text="Up"/>
+<gr text="Sù"/>
+</playlist_extfilter_menu_up>
+
+<playlist_extfilter_menu_down>
+<ru text="Вниз"/>
+<en text="Down"/>
+<it text="Giù"/>
+</playlist_extfilter_menu_down>
+
+<playlist_extfilter_menu_new>
+<ru text="Новый"/>
+<en text="New"/>
+<it text="Nuovo"/>
+</playlist_extfilter_menu_new>
+
+<playlist_extfilter_menu_edit>
+<ru text="Редактировать"/>
+<en text="Edit"/>
+<it text="Modifica"/>
+</playlist_extfilter_menu_edit>
+
+<playlist_extfilter_menu_del>
+<ru text="Удалить фильтр"/>
+<en text="Delete ExtFilter"/>
+<it text="Cancella ExtFilter %s"/>
+</playlist_extfilter_menu_del>
+
+<playlist_extfilter_menu_delall>
+<ru text="Удалить фильтр и все каналы"/>
+<en text="Delete ExtFilter and All Channels"/>
+<it text="Cancella ExtFilter %s e tutti i canali"/>
+</playlist_extfilter_menu_delall>
+
+<playlist_extfilter_menu_swtype>
+<ru text="Тип переключения"/>
+<en text="ExtFilter Switcher"/>
+<it text="ExtFilter Cambia"/>
+</playlist_extfilter_menu_swtype>
+
+<playlist_extfilter_menu_swtype_checked>
+<ru text="Выбор по несколько"/>
+<en text="Checked"/>
+<it text="Verificato"/>
+</playlist_extfilter_menu_swtype_checked>
+
+<playlist_extfilter_menu_swtype_radio>	
+<ru text="Выбор по одному"/>
+<en text="Radio"/>
+<it text="Radio"/>
+</playlist_extfilter_menu_swtype_radio>		
+
+<playlist_extfilter_menu_showgroup>	
+<ru text="Всегда показывать группы"/>
+<en text="Always Show Group"/>
+<it text="Mostra sempre il Gruppo"/>
+</playlist_extfilter_menu_showgroup>	
+
+<playlist_extfilter_dialog_name>
+<ru text="Название"/>
+<en text="Name"/>
+<it text="Nome"/>
+</playlist_extfilter_dialog_name>
+
+<playlist_extfilter_dialog_logo>
+<ru text="Лого"/>
+<en text="Logo"/>
+<it text="Logo"/>
+</playlist_extfilter_dialog_logo>
+
+<!-- Playlist toolbar menu -->
+
+<playlist_toolbar_menu_view_default>	
+<ru text="Стандартный"/>
+<en text="Default"/>
+<it text="Predefinito"/>
+</playlist_toolbar_menu_view_default>	
+
+<playlist_toolbar_menu_view_epg>	
+<ru text="Программа"/>
+<en text="Show EPG"/>
+<it text="Mostra EPG"/>
+</playlist_toolbar_menu_view_epg>	
+
+<playlist_toolbar_menu_view_setup>	
+<ru text="Настройки"/>
+<en text="Channel Settings"/>
+<it text="Impostazioni Canale"/>
+</playlist_toolbar_menu_view_setup>	
+
+<str_playlist_toolbar_empty_filter>	
+<ru text="Фильтр"/>
+<en text="Filter"/>
+<it text="Filtro"/>
+</str_playlist_toolbar_empty_filter>	
+
+<!-- Playlist EPG menu -->
+<playlist_epg_menu_record>	
+<ru text="Записать"/>
+<en text="Recording"/>
+<it text="Registrazione"/>
+</playlist_epg_menu_record>	
+
+<playlist_epg_menu_timer>	
+<ru text="Поставить таймер"/>
+<en text="Set a timer"/>
+<it text="Impostare il timer"/>
+</playlist_epg_menu_timer>	
+
+<playlist_epg_menu_timermarg>	
+<ru text="Поставить таймер c запасом"/>
+<en text="Set a timer with a margin"/>
+<it text="Impostare il timer con un margine"/>
+</playlist_epg_menu_timermarg>	
+
+<playlist_epg_menu_alert>	
+<ru text="Напомнить"/>
+<en text="Set a alert"/>
+<it text="Impostare un allarme"/>
+</playlist_epg_menu_alert>	
+
+<playlist_epg_menu_delete>	
+<ru text="Удалить таймер"/>
+<en text="Delete a timer"/>
+<it text="Eliminazione di un timer"/>
+</playlist_epg_menu_delete>	
+
+<!-- Playlist Common -->
+<str_epg_updating>
+<ru text="Идет обновление"/>
+<en text="Updating"/>
+<it text="Aggiornamento"/>
+</str_epg_updating>
+
+<str_epg_nodata>
+<ru text="Нет данных"/>
+<en text="No data"/>
+<it text="Nessun dato"/>
+</str_epg_nodata>
+
+<str_epg_timeformat>
+<ru text="%Hч %Mм"/>
+<en text="%Hh %Mm"/>
+<it text="%Hh %Mm"/>
+</str_epg_timeformat>
+
+<str_out_group>
+ <ru text="Вне группы"/>
+ <en text="Outside the group"/>
+ <it text="All'esterno del gruppo"/>
+</str_out_group>
+
+<str_delete_selected>
+<ru text="Удалить выделенное?"/>
+<en text="Delete selected?"/>
+<it text="Elimina selezionati?"/>
+</str_delete_selected>	    
+
+<str_delete_group>
+<ru text="Удалить группу '%s' и все каналы группы?"/>
+<en text="Delete group '%s' and all items in group?"/>
+<it text="Elimina gruppo '%s' e tutti gli elementi nel gruppo?"/>
+</str_delete_group>
+
+<str_delete_item>
+<ru text="Удалить канал '%s'?"/>
+<en text="Delete item '%s'?"/>
+<it text="Elimina elemento '%s'?"/>
+</str_delete_item>
+		
+<str_delete_all>		
+<ru text="Удалить всё?"/>
+<en text="Delete all?"/>
+<it text="Elimina tutto?"/>
+</str_delete_all>		
+
+<str_create_new_group>		
+<ru text="Новая Группа"/>
+<en text="New group"/>
+<it text="Nuovo gruppo"/>
+</str_create_new_group>		
+
+<str_create_new_item>		
+<ru text="Новый канал"/>
+<en text="New item"/>
+<it text="Nuovo elemento"/>
+</str_create_new_item>		
+
+<str_chose_folder>		
+<ru text="Выберите директорию"/>
+<en text="Choose folder"/>
+<it text="Scegli cartella"/>
+</str_chose_folder>		
+
+<!-- Playlist Tooltip -->
+<tooltip_pls_auto_epg>
+ <ru text="Авто поиск программы"/>
+ <en text="EPG auto search"/>
+ <it text="Ricerca automatica EPG"/>
+</tooltip_pls_auto_epg>
+ 
+<tooltip_pls_del_epg>
+ <ru text="Удалить программу"/>
+ <en text="Delete EPG"/>
+ <it text="Cancella EPG"/>
+</tooltip_pls_del_epg> 
+  
+<tooltip_pls_auto_logo>
+ <ru text="Авто поиск логотипа"/>
+ <en text="Logotype auto search"/>
+ <it text="Ricerca automatica Logotype "/>
+</tooltip_pls_auto_logo> 
+ 
+<tooltip_pls_del_number>
+ <ru text="Удалить номер"/>
+ <en text="Delete number"/>
+ <it text="Cancella il numero"/>
+</tooltip_pls_del_number> 
+ 
+<tooltip_pls_auto_num>
+ <ru text="Авто нумерация"/>
+ <en text="Automatic numbering"/>
+ <it text="Numerazione automatica"/>
+</tooltip_pls_auto_num> 
+ 
+<tooltip_pls_logo_manual>
+ <ru text="Искать вручную"/>
+ <en text="Manual searching"/>
+ <it text="Ricerca manuale"/>
+</tooltip_pls_logo_manual> 
+ 
+ 
+<tooltip_pls_brightness>
+ <ru text="Яркость"/>
+ <en text="Brightness"/>
+ <it text="Luminosità"/>
+</tooltip_pls_brightness> 
+ 
+<tooltip_pls_contrast>
+ <ru text="Контраст"/>
+ <en text="Contrast"/>
+ <it text="Contrasto"/>
+</tooltip_pls_contrast> 
+ 
+<tooltip_pls_saturation>
+ <ru text="Насыщенность"/>
+ <en text="Saturation"/>
+ <it text="Saturazione"/>
+</tooltip_pls_saturation> 
+ 
+<tooltip_pls_color>
+ <ru text="Оттенок"/>
+ <en text="Color"/>
+ <it text="Colore"/>
+</tooltip_pls_color> 
+ 
+<tooltip_pls_gamma>
+ <ru text="Гамма"/>
+ <en text="Gamma"/>
+ <it text="Gamma"/>
+</tooltip_pls_gamma> 
+ 
+<tooltip_pls_scale>
+ <ru text="Масштаб"/>
+ <en text="Scale"/>
+ <it text="Scala"/>
+</tooltip_pls_scale> 
+ 
+<tooltip_pls_sharpness>
+ <ru text="Резкость"/>
+ <en text="Sharpness"/>
+ <it text="Nitidezza"/>
+</tooltip_pls_sharpness> 
+ 
+<tooltip_pls_voloume>
+ <ru text="Громкость"/>
+ <en text="Volume"/>
+ <it text="Volume"/>
+</tooltip_pls_voloume> 
+ 
+<tooltip_pls_del_logo>
+ <ru text="Удалить логотип"/>
+ <en text="Delete logotype"/>
+ <it text="Cancella logotype"/>
+</tooltip_pls_del_logo>
+ 
+<!-- Records window -->
+
+<record_menu_pause>
+<ru text="Пауза"/>
+<en text="Pause"/>
+<it text="Pausa"/>
+</record_menu_pause>
+
+<record_menu_resume>
+<ru text="Продолжить"/>
+<en text="Resume"/>
+<it text="Riprendi"/>
+</record_menu_resume>
+
+<record_menu_delete>
+<ru text="Удалить"/>
+<en text="Delete"/>
+<it text="Cancella"/>
+</record_menu_delete>
+
+<record_menu_up>
+<ru text="Вверх"/>
+<en text="Sù"/>
+<it text="Gore"/>
+</record_menu_up>
+
+<record_menu_down>
+<ru text="Вниз"/>
+<en text="Down"/>
+<it text="Giù"/>
+</record_menu_down>
+
+<record_menu_toolbar>
+<ru text="Панель кнопок"/>
+<en text="Toolbar"/>
+<it text="Toolbar"/>
+</record_menu_toolbar>
+
+<!--  -->
+
+<record_toolbar_pause>
+ <ru text="Пауза"/>
+ <en text="Pause"/>
+ <it text="Pausa"/>
+</record_toolbar_pause>
+ 
+<record_toolbar_continue_record>
+ <ru text="Продолжить запись"/>
+ <en text="Restore record"/> 
+ <it text="Ripristino Registrazione"/> 
+</record_toolbar_continue_record>
+ 
+<record_toolbar_delete>
+ <ru text="Удалить"/>
+ <en text="Delete"/>
+ <it text="Cancella"/>
+</record_toolbar_delete> 
+ 
+<record_toolbar_up>
+ <ru text="Вверх"/>
+ <en text="Up"/>
+ <it text="Sù"/>
+</record_toolbar_up>
+ 
+<record_toolbar_down>
+ <ru text="Вниз"/>
+ <en text="Down"/>
+ <it text="Giù"/>
+</record_toolbar_down> 
+  
+ 
+ 
+
+<!-- Config window -->
+
+<config_window_caption>
+ <ru text="Настройки"/>
+ <en text="Preferences"/>
+ <it text="Preferenze"/>
+</config_window_caption>
+
+<config_tree_root>
+ <ru text="Настройки"/>
+ <en text="Preferences"/>
+ <it text="Impostazioni"/>
+</config_tree_root>
+
+<config_tree_picture>
+ <ru text="Изображение"/>
+ <en text="Picture"/>
+ <it text="Immagine"/>
+</config_tree_picture>
+
+<config_tree_control>
+ <ru text="Управление"/>
+ <en text="Control"/>
+ <it text="Controllo"/>
+ </config_tree_control>
+
+ <config_tree_control_winlirc>
+ <ru text="WinLirc"/>
+ <en text="WinLirc"/>
+ <it text="WinLirc"/>
+ </config_tree_control_winlirc>
+
+ <config_tree_control_mouse>
+ <ru text="Мышь"/>
+ <en text="Mouse"/>
+ <it text="Mouse"/>
+ </config_tree_control_mouse>
+
+<config_tree_control_other> 
+ <ru text="Дополннительно"/>
+ <en text="Others Options"/>
+ <it text="Altre Opzioni"/>
+</config_tree_control_other> 
+
+<config_tree_network>
+ <ru text="Настройка сети"/>
+ <en text="Network"/>
+ <it text="Rete"/>
+</config_tree_network>
+
+<config_tree_network_cach>
+ <ru text="Кеширование"/>
+ <en text="Caching Options"/>
+ <it text="Opzioni di memorizzazione della cache"/>
+</config_tree_network_cach>
+
+<config_tree_network_proxy>
+ <ru text="UDP to HTTP прокси"/>
+ <en text="UDP to HTTP Proxy"/>
+ <it text="UDP a HTTP Proxy"/>
+</config_tree_network_proxy>
+
+<config_tree_network_proxy_http>
+ <ru text="HTTP прокси"/>
+ <it text="HTTP Proxy"/>
+</config_tree_network_proxy_http>
+
+<config_tree_osd>
+ <ru text="OSD"/>
+ <en text="OSD"/>
+ <it text="OSD"/>
+</config_tree_osd>
+
+<config_tree_osd_pip>
+ <ru text="Картинка в картинке (PiP)"/>
+ <en text="Picture in Pictures (PiP)"/>
+ <it text="Picture in Pictures (PiP)"/>
+</config_tree_osd_pip>
+
+<config_tree_osd_mpip>
+ <ru text="Мульти PiP"/>
+ <en text="Multi PiP"/>
+ <it text="Multi PiP"/>
+</config_tree_osd_mpip>
+
+<config_tree_osd_cpanel>
+ <ru text="Панель управления"/>
+ <en text="Control Panel"/>
+ <it text="Pannello di Controllo"/>
+</config_tree_osd_cpanel>
+
+<config_tree_view>
+ <ru text="Вид"/>
+ <en text="View"/>
+ <it text="Vista"/>
+</config_tree_view>
+
+<config_tree_view_wallpaper>
+ <ru text="Обои"/>
+ <en text="Wallpaper"/>
+ <it text="Sfondo"/>
+</config_tree_view_wallpaper>
+
+<config_tree_view_pls> 
+ <ru text="Плейлист"/>
+ <en text="Playlist"/>
+ <it text="Playlist"/>
+</config_tree_view_pls> 
+
+<config_tree_view_skin>
+ <ru text="Скин"/>
+ <en text="Skin"/>
+ <it text="Skin"/>
+</config_tree_view_skin>
+
+<config_tree_sound>
+ <ru text="Звук"/>
+ <en text="Audio"/>
+ <it text="Audio"/>
+</config_tree_sound>
+
+<config_tree_video>
+ <ru text="Видео"/>
+ <en text="Video"/>
+ <it text="Video"/>
+</config_tree_video>
+ 
+<config_tree_video_out>
+ <ru text="Вывод"/>
+ <en text="Output"/>
+ <it text="Uscita"/>
+</config_tree_video_out> 
+
+<config_tree_video_directx>
+ <ru text="DirectX"/>
+ <en text="DirectX"/>
+ <it text="DirectX"/>
+</config_tree_video_directx>
+
+<config_tree_video_modules>
+ <ru text="Модули"/>
+ <en text="Modules"/>
+ <it text="Moduli"/>
+</config_tree_video_modules>
+
+<config_tree_video_decoders>
+ <ru text="Декодеры"/>
+ <en text="Decoders"/>
+ <it text="Decoders"/>
+</config_tree_video_decoders>
+
+<config_tree_video_decoders_ffmpeg>
+ <ru text="ffmpeg"/>
+ <en text="ffmpeg"/>
+ <it text="ffmpeg"/>
+</config_tree_video_decoders_ffmpeg>
+
+<config_tree_record>
+ <ru text="Настройки записи"/>
+ <en text="Recording"/>
+ <it text="Registrazione"/>
+</config_tree_record>
+
+<config_tree_epg>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</config_tree_epg>
+
+<config_tree_playback>
+ <ru text="Воспроизведение"/>
+ <en text="Playback"/>
+ <it text="Riproduzione"/>
+</config_tree_playback>
+
+<config_tree_timeshift>
+ <ru text="Таймшифт"/>
+ <en text="Timeshift"/>
+ <it text="Timeshift"/>
+</config_tree_timeshift>
+ 
+<config_tree_system>
+ <ru text="Система"/>
+ <en text="System"/>
+ <it text="Sistema"/>
+</config_tree_system>
+
+<config_tree_import>
+ <ru text="Импорт"/>
+ <en text="Import"/>
+ <it text="Importare"/>
+</config_tree_import>
+
+<config_tree_export>
+ <ru text="Экспорт"/>
+ <en text="Export"/>
+ <it text="Esportare"/>
+</config_tree_export>
+
+<config_tree_ext>
+ <ru text="Дополнительно"/>
+ <en text="Extended"/>
+ <it text="Extra"/>
+</config_tree_ext>
+
+<!-- Playlist channel config dialog -->
+<dialog_pls_config_chname>
+ <ru text="Название"/>
+ <en text="Name"/>
+ <it text="Nome"/>
+</dialog_pls_config_chname>
+
+<dialog_pls_config_static_ch1>
+ <ru text="Настройки канала"/>
+ <en text="Channel settings"/>
+ <it text="Impostazioni canale"/>
+</dialog_pls_config_static_ch1>
+
+<dialog_pls_config_use_common_setting>
+ <ru text="Использовать общие настройки"/>
+ <en text="Use common setting"/>
+ <it text="Utilizzare le impostazioni comuni"/>
+</dialog_pls_config_use_common_setting>
+
+<dialog_pls_config_adress>
+ <ru text="Адрес"/>
+ <en text="Address"/>
+ <it text="Indirizzo"/>
+</dialog_pls_config_adress>
+
+<dialog_pls_config_adress_pip>
+ <ru text="Адрес mPiP/PiP"/>
+ <en text="Address mPiP/PiP"/>
+ <it text="Indirizzo mPiP/PiP"/>
+</dialog_pls_config_adress_pip>
+
+<dialog_pls_config_ratio>
+ <ru text="Формат"/>
+ <en text="Aspect ratio"/>
+ <it text="Proporzioni"/>
+</dialog_pls_config_ratio>
+
+<dialog_pls_config_crop>
+ <ru text="Обрезка"/>
+ <en text="Cropping"/>
+ <it text="Ritaglio"/>
+</dialog_pls_config_crop>
+
+<dialog_pls_config_deint>
+ <ru text="Деинтерлэйс"/>
+ <en text="Deinterlacing"/>
+ <it text="Deinterlaccia"/>
+</dialog_pls_config_deint>
+
+<dialog_pls_config_atrack>
+ <ru text="Звуковая дорожка"/>
+ <en text="Sound track"/>
+ <it text="Traccia Suono"/>
+</dialog_pls_config_atrack>
+
+<dialog_pls_config_vtrack>
+ <ru text="Видео дорожка"/>
+ <en text="Video track"/>
+ <it text="Traccia Video"/>
+</dialog_pls_config_vtrack>
+
+<dialog_pls_config_number>
+ <ru text="Номер"/>
+ <en text="Number"/>
+ <it text="Numero"/>
+</dialog_pls_config_number>
+
+<dialog_pls_config_static_ch2>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</dialog_pls_config_static_ch2>
+
+<dialog_pls_config_time_offset>
+ <ru text="Сдвиг времени"/>
+ <en text="Time offset"/>
+ <it text="Differenza orario"/>
+</dialog_pls_config_time_offset>
+
+<dialog_pls_config_epgname>
+ <ru text="Программа"/>
+ <en text="EPG name"/>
+ <it text="EPG nome"/>
+</dialog_pls_config_epgname>
+
+<dialog_pls_config_logo>
+ <ru text="Логотип"/>
+ <en text="Logo"/>
+ <it text="Logo"/>
+</dialog_pls_config_logo>
+
+<dialog_pls_config_static_ch3>
+ <ru text="Настройки"/>
+ <en text="Picture setting"/>
+ <it text="Impostazione Immagine"/>
+</dialog_pls_config_static_ch3>
+
+<dialog_pls_config_save>
+ <ru text="Сохранить"/>
+ <en text="Save"/>
+ <it text="Salva"/>
+</dialog_pls_config_save>
+
+<dialog_pls_config_combo_str_nologo>
+<ru text="Нет логотипа"/>
+ <en text="No logo"/>
+ <it text="No logo"/>
+</dialog_pls_config_combo_str_nologo>
+
+<dialog_pls_config_combo_str_noepg>
+ <ru text="Нет программы"/>
+ <en text="No EPG"/>
+ <it text="No EPG"/>
+</dialog_pls_config_combo_str_noepg>
+
+<dialog_pls_config_combo_str_timeformat>
+ <ru text="ч"/>
+ <en text="h"/>
+ <it text="h"/>
+</dialog_pls_config_combo_str_timeformat>
+
+<dialog_pls_config_combo_str_logonotfound>
+ <ru text="Логотип не найден. Загрузить из интернета?"/>
+ <en text="Logo not found. Download from net?"/>
+ <it text="Logo non trovato. Scaricare da Internet?"/>
+</dialog_pls_config_combo_str_logonotfound>
+
+<dialog_pls_config_combo_str_select_more_channels>
+ <ru text="Выберите несколько каналов"/>
+ <en text="Select more than one channel"/>
+ <it text="Selezionare più di un canale"/>
+</dialog_pls_config_combo_str_select_more_channels> 
+
+<dialog_pls_config_combo_str_processing>
+ <ru text="Обработка"/>
+ <en text="Processing"/>
+ <it text="Elaborazione"/>
+</dialog_pls_config_combo_str_processing>
+
+<dialog_pls_config_ffmpeg_caption>
+ <ru text="Локальные настройки ffmpeg"/>
+ <en text="Local settings ffmpeg"/>
+ <it text="Impostazioni locali ffmpeg"/>
+</dialog_pls_config_ffmpeg_caption>
+
+<dialog_pls_config_ffmpeg_warn>
+ <ru text="ffmpeg - изменение параметров сильно  влияет на скорость/качество"/>
+ <en text="ffmpeg - change parameters strongly influences the speed / quality"/>
+ <it text="ffmpeg - La modifica dei parametri influenzano fortemente la velocità / qualità"/>
+</dialog_pls_config_ffmpeg_warn>
+
+<dialog_pls_config_ffmpeg_frameskip>
+ <ru text="пропуск кадров"/>
+ <en text="skip frames"/>
+ <it text="Tralasciare fotogrammi"/>
+</dialog_pls_config_ffmpeg_frameskip>
+
+ <dialog_pls_config_ffmpeg_skipidct>
+ <ru text="пропуск idct"/>
+ <en text="skip idct"/>
+ <it text="Tralasciare idct"/>
+</dialog_pls_config_ffmpeg_skipidct>
+ 
+<dialog_pls_config_ffmpeg_loopfilter>
+ <ru text="пропуск loop-filter"/>
+ <en text="skip loop-filter"/>
+ <it text="Tralasciare loop-filter"/>
+</dialog_pls_config_ffmpeg_loopfilter> 
+ 
+ <dialog_pls_config_ffmpeg_resolution>
+ <ru text="разрешение"/>
+ <en text="resolution"/>
+ <it text="Risoluzione"/>
+</dialog_pls_config_ffmpeg_resolution> 
+ 
+ <dialog_pls_config_ffmpeg_resolution_hi>
+ <ru text="Высокое"/>
+ <en text="High"/>
+ <it text="Alta"/>
+</dialog_pls_config_ffmpeg_resolution_hi> 
+ 
+<dialog_pls_config_ffmpeg_resolution_mid>
+ <ru text="Среднее"/>
+ <en text="Middle"/>
+ <it text="Media"/>
+</dialog_pls_config_ffmpeg_resolution_mid>
+
+<dialog_pls_config_ffmpeg_resolution_low>
+ <ru text="Низкое"/>
+ <en text="Low"/>
+ <it text="Bassa"/>
+</dialog_pls_config_ffmpeg_resolution_low>
+
+<dialog_pls_config_auto_num_caption>
+ <ru text="Авто нумерация"/>
+ <en text="Auto numbering"/>
+ <it text="Numerazione automatica"/>
+</dialog_pls_config_auto_num_caption>
+
+<dialog_pls_config_auto_num_start_with>
+ <ru text="Начать с номера"/>
+ <en text="Start with the number"/>
+ <it text="Inizia con il numero"/>
+</dialog_pls_config_auto_num_start_with>
+
+<dialog_pls_scan_result>
+ <ru text="Проверено - %u,не ответили - %u"/>
+ <en text="Checked - %u,not respond - %u"/>
+ <it text="Verificato - %u,non risponde - %u"/>
+</dialog_pls_scan_result>
+
+<dialog_pls_check_dialog_caption>
+ <ru text="Параметры проверки каналов"/>
+ <en text="Setting of scanning"/>
+ <it text="Impostazione di scansione"/>
+</dialog_pls_check_dialog_caption> 
+ 
+<dialog_pls_check_dialog_timeout>
+ <ru text="Таймаут"/>
+ <en text="Timeout"/>
+ <it text="Timeout (pausa)"/>
+</dialog_pls_check_dialog_timeout>
+ 
+<dialog_pls_check_dialog_sec>
+ <ru text="сек"/>
+ <en text="s"/>
+ <it text="s"/>
+</dialog_pls_check_dialog_sec>
+ 
+<dialog_pls_check_dialog_typequery>
+ <ru text="Канал найден, если"/>
+ <en text="Channel is found, if"/>
+ <it text="Il canale è trovato, se"/>
+</dialog_pls_check_dialog_typequery> 
+
+<dialog_pls_check_dialog_typequery_1>
+ <ru text="Установлено соединение"/>
+ <en text="Connected"/>
+ <it text="Collegato"/>
+</dialog_pls_check_dialog_typequery_1> 
+ 
+<dialog_pls_check_dialog_typequery_2>
+ <ru text="Воспроизведение видеопотока"/>
+ <en text="Playing video"/>
+ <it text="Riproduzione video"/>
+</dialog_pls_check_dialog_typequery_2>  
+
+<!-- playlist EPG -->
+<dialog_pls_epg_now>
+ <ru text="сейчас"/>
+ <en text="now"/>
+ <it text="ora"/>
+</dialog_pls_epg_now>
+
+<dialog_pls_epg_details>
+ <ru text="Подробности"/>
+ <en text="Details"/>
+ <it text="Dettagli"/>
+</dialog_pls_epg_details>
+
+<dialog_pls_epg_listbox_time>
+ <ru text="Время"/>
+ <en text="Time"/>
+ <it text="Tempo"/>
+</dialog_pls_epg_listbox_time> 
+
+ <dialog_pls_epg_listbox_title>
+ <ru text="Передача"/>
+ <en text="Title"/>
+ <it text="Titolo"/>
+ </dialog_pls_epg_listbox_title>
+ 
+ <dialog_pls_epg_listbox_description>
+ <ru text="Описание"/>
+ <en text="Description"/>
+ <it text="Descrizione"/>
+</dialog_pls_epg_listbox_description> 
+ 
+<dialog_pls_epg_listbox_duration>
+ <ru text="Длительность"/>
+ <en text="Duration"/>
+ <it text="Durata"/>
+</dialog_pls_epg_listbox_duration>
+
+<!-- playlist toolbar -->
+<toolbar_pls_loadpls>
+ <ru text="Загрузить плейлист"/>
+ <en text="Load playlist"/>
+ <it text="Carica playlist"/>
+</toolbar_pls_loadpls>
+ 
+<toolbar_pls_refresh_pls>
+ <ru text="Обновить плейлист"/>
+ <en text="Refresh playlist"/>
+ <it text="Aggiorna playlist"/>
+</toolbar_pls_refresh_pls> 
+
+<toolbar_pls_fav>
+ <ru text="Любимые каналы/медиафайлы"/>
+ <en text="Favorite channels/media"/> 
+ <it text="Canali preferiti/media"/> 
+</toolbar_pls_fav>
+ 
+<toolbar_pls_on_group>
+ <ru text="Вид с группами"/>
+ <en text="Enable grouping"/> 
+ <it text="Abilita raggruppamento"/> 
+</toolbar_pls_on_group> 
+
+<toolbar_pls_off_group>
+ <ru text="Вид с группами"/>
+ <en text="Disable grouping"/> 
+ <it text="Disabilita raggruppamento"/> 
+</toolbar_pls_off_group> 
+ 
+<toolbar_pls_new>
+ <ru text="Добавить канал"/>
+ <en text="New channel/media"/>
+ <it text="Nuovo canale/media"/>
+</toolbar_pls_new> 
+ 
+<toolbar_pls_new_group>
+ <ru text="Добавить группу"/>
+ <en text="New group"/>
+ <it text="Nuovo gruppo"/>
+</toolbar_pls_new_group> 
+ 
+<toolbar_pls_delete>
+ <ru text="Удалить"/>
+ <en text="Delete"/>
+ <it text="Cancella"/>
+</toolbar_pls_delete>
+ 
+<toolbar_pls_delete_all>
+ <ru text="Удалить все"/>
+ <en text="Delete all"/> 
+ <it text="Cancella Tutti"/>
+</toolbar_pls_delete_all> 
+
+<toolbar_pls_epg>
+ <ru text="Быстрая программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</toolbar_pls_epg> 
+ 
+<toolbar_pls_type_view>
+ <ru text="Вид(программа,настройки)"/>
+ <en text="Switcher (EPG, Channel Settings)"/> 
+ <it text="Passa (EPG, Impostazioni canale)"/> 
+</toolbar_pls_type_view> 
+
+<toolbar_pls_check_items>
+ <ru text="Проверить выделенные каналы"/>
+ <en text="Check selected channels"/> 
+ <it text="Controllare canali selezionati"/> 
+</toolbar_pls_check_items>
+ 
+<toolbar_pls_del_filter>
+ <ru text="Удалить фильтр"/>
+ <en text="Delete filter"/> 
+ <it text="Elimina filtro"/> 
+</toolbar_pls_del_filter> 
+ 
+<toolbar_pls_auto_filter_off>
+ <ru text="Авто фильтр выключен"/>
+ <en text="Enable autofilter"/> 
+ <it text="Auto filtro disattivato"/> 
+</toolbar_pls_auto_filter_off> 
+
+<toolbar_pls_auto_filter_on>
+ <ru text="Авто фильтр включен"/>
+ <en text="Disable autofilter"/> 
+ <it text="Auto filtro attivato"/> 
+</toolbar_pls_auto_filter_on> 
+ 
+<toolbar_pls_scan_hide_panel>
+ <ru text="Скрыть панель"/>
+ <en text="Hide panel"/> 
+ <it text="Nascondere il pannello"/> 
+</toolbar_pls_scan_hide_panel>
+
+<toolbar_pls_scan_stop>
+ <ru text="Остановить сканирование"/>
+ <en text="Stop scanning"/>
+ <it text="Stop scansione"/>
+</toolbar_pls_scan_stop>
+ 
+<toolbar_pls_scan_setting>
+ <ru text="Настройки сканирования"/>
+ <en text="Settings of scanning"/>  
+ <it text="Impostazioni di scansione"/>  
+</toolbar_pls_scan_setting> 
+ 
+<toolbar_pls_scan_show_notwork>
+ <ru text="Показать неработающие"/>
+ <en text="Show not working channels list"/> 
+ <it text="Mostra lista dei canali non funzionanti"/> 
+</toolbar_pls_scan_show_notwork> 
+ 
+<!-- dialog scan window -->
+<dialog_scan_caption>
+ <ru text="Поиск каналов"/>
+ <en text="Scan channels"/>
+ <it text="Scansione canali"/>
+</dialog_scan_caption>
+
+<dialog_scan_ip_from>
+ <ru text="с"/>
+ <en text="from"/>
+ <it text="da"/>
+</dialog_scan_ip_from>
+
+ <dialog_scan_ip_to>
+ <ru text="по"/>
+ <en text="to"/>
+ <it text="a"/>
+</dialog_scan_ip_to>
+
+ <dialog_scan_port_from>
+ <ru text="порт с"/>
+ <en text="port from"/>
+ <it text="porta da"/>
+ </dialog_scan_port_from>
+
+ <dialog_scan_port_to>
+ <ru text="по"/>
+ <en text="to"/>
+ <it text="a"/>
+ </dialog_scan_port_to>
+
+ <dialog_scan_port_prefix>
+ <ru text="префикс порта"/>
+ <en text="port prefix"/>
+ <it text="prefisso porta"/>
+ </dialog_scan_port_prefix>
+
+ <dialog_scan_timeout>
+ <ru text="таймаут"/>
+ <en text="timeout"/>
+ <it text="timeout"/>
+ </dialog_scan_timeout>
+
+ <dialog_scan_prefix>
+ <ru text="префикс"/>
+ <en text="prefix"/>
+ <it text="prefisso"/>
+ </dialog_scan_prefix>
+
+<dialog_scan_postfix>
+ <ru text="постфикс"/>
+ <it text="postfix"/>
+ </dialog_scan_postfix>
+ 
+ 
+ <dialog_scan_Info>
+ <ru text="Для сохранения - выберите каналы и нажмите сохранить.\nДля просмотра - двойной клик на канале."/>
+ <en text="For save - mark channels and press save.\nFor view - double click on channel."/>
+ <it text="Per salvare - Segna canali e premere salva.\nPer vedere - fare doppio clic sul canale."/>
+ </dialog_scan_Info>
+ 
+ <dialog_scan_button_del>
+ <ru text="удалить"/>
+ <en text="delete"/>
+ <it text="Cancella"/>
+ </dialog_scan_button_del>
+ 
+ <dialog_scan_button_save>
+ <ru text="сохранить"/>
+ <en text="save"/>
+ <it text="Salva"/>
+ </dialog_scan_button_save>
+ 
+ <dialog_scan_button_stop>
+ <ru text="остановить"/>
+ <en text="stop"/>
+ <it text="Stop"/>
+</dialog_scan_button_stop>
+
+ <dialog_scan_button_scan>
+ <ru text="сканировать"/>
+ <en text="scan"/>
+ <it text="scansione"/>
+ </dialog_scan_button_scan>
+  
+<dialog_scan_str_check_ip>
+ <ru text="Проверьте IP адреса"/>
+ <en text="Check ip"/>
+ <it text="Controllare l'indirizzo IP"/>
+</dialog_scan_str_check_ip>
+ 
+<dialog_scan_str_check_port>
+ <ru text="Проверьте порты"/>
+ <en text="Check ports"/>
+ <it text="Controllare le porte"/>
+ </dialog_scan_str_check_port>
+ 
+<dialog_scan_str_scanning>
+ <ru text="Сканирую"/>
+ <en text="Scanning"/>
+ <it text="Scansione"/>
+</dialog_scan_str_scanning>
+ 
+ <dialog_scan_str_found_results>
+ <ru text="Найдено %u канал(ов), неработающих %u"/>
+ <en text="Found %u channel(s), not working %u"/>
+ <it text="Trovato %u Canale(s), non funziona %u"/>
+ </dialog_scan_str_found_results>
+ 
+ <dialog_scan_str_channel>
+ <ru text="Канал"/>
+ <en text="Channel"/>
+ <it text="Canale"/>
+ </dialog_scan_str_channel>
+
+<dialog_scan_str_new_channel>
+ <ru text="Новый канал"/>
+ <en text="New channel"/>
+ <it text="Nuovo Canale"/>
+</dialog_scan_str_new_channel>
+
+<dialog_scan_str_view>
+ <ru text="Просмотр"/>
+ <en text="View"/>
+ <it text="Vista"/>
+</dialog_scan_str_view>
+
+<dialog_scan_str_tree_new_channel>
+ <ru text="Новые каналы/медиафайлы"/>
+ <en text="New channels/media"/>
+ <it text="Nuovi canali/media"/>
+</dialog_scan_str_tree_new_channel>
+
+ <dialog_scan_str_tree_channel_in_base>
+ <ru text="Каналы уже есть в базе"/>
+ <en text="Channels already in the database"/>
+ <it text="Canali già nel database"/>
+</dialog_scan_str_tree_channel_in_base>
+ 
+<dialog_scan_str_tree_channel_mpip>
+ <ru text="Каналы MultiPiP"/>
+ <en text="Channels MultiPiP"/>
+ <it text="Canali MultiPiP"/>
+</dialog_scan_str_tree_channel_mpip> 
+ 
+<dialog_scan_str_tree_channel_notwork>
+ <ru text="Неработающие каналы"/>
+ <en text="Not responding channels"/>
+ <it text="Canali non rispondono"/>
+</dialog_scan_str_tree_channel_notwork> 
+ 
+ <!-- Open url dialog -->
+<dialog_open_url_caption>
+ <ru text="Открыть URL"/>
+ <en text="Open URL"/>
+ <it text="Apri URL"/>
+</dialog_open_url_caption>
+ 
+ <dialog_open_url_enter>
+ <ru text="Введите URL"/>
+ <en text="Enter URL"/>
+ <it text="Inserire URL"/>
+</dialog_open_url_enter>
+ 
+ <!--  Record dialog -->
+ 
+<dialog_records_caption>
+ <ru text="Таймер &amp; Записи"/>
+ <en text="Timers &amp; Records"/>   
+ <it text="Timers &amp; Registrazioni"/> 
+</dialog_records_caption>
+ 
+<dialog_records_onoff>
+ <ru text="Включить таймер"/>
+ <en text="On timer"/>
+ <it text="Timer abilitato"/>
+</dialog_records_onoff>
+ 
+<dialog_records_more>
+ <ru text="больше &gt;&gt;"/>
+ <en text="more  &gt;&gt;"/>
+ <it text="di più  &gt;&gt;"/>
+</dialog_records_more>
+
+<dialog_records_less>
+ <ru text="&lt;&lt; меньше"/>
+ <en text="&lt;&lt;  less"/>
+ <it text="&lt;&lt;  meno"/>
+</dialog_records_less>
+ 
+ <dialog_records_str_name>
+ <ru text="Название"/>
+ <en text="Name"/>
+ <it text="Nome"/>
+</dialog_records_str_name>
+
+<dialog_records_str_channel>
+ <ru text="Канал"/>
+ <en text="Channel"/>
+ <it text="Canale"/>
+</dialog_records_str_channel>
+ 
+ <dialog_records_str_start>
+ <ru text="Начало"/>
+ <en text="Start"/>,
+ <it text="Avvio"/>
+</dialog_records_str_start>
+ 
+<dialog_records_str_len>
+ <ru text="Длина"/>
+ <en text="Length"/>
+ <it text="Lunghezza"/>
+</dialog_records_str_len> 
+ 
+ <dialog_records_str_time_elapsed>
+ <ru text="Прошло времени"/>
+ <en text="Elapsed time"/>,
+ <it text="Tempo trascorso"/>
+</dialog_records_str_time_elapsed>
+ 
+ <dialog_records_str_epg>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</dialog_records_str_epg>
+
+<!-- Record ext dialog --> 
+ <dialog_records_ext_static_details>
+ <ru text="Подробности"/>
+ <en text="Details"/>
+ <it text="Dettagli"/>
+ </dialog_records_ext_static_details>
+
+ <dialog_records_ext_name>
+ <ru text="Название"/>
+ <en text="Name"/>
+ <it text="Nome"/>
+</dialog_records_ext_name>
+
+<dialog_records_ext_start>
+ <ru text="Начало"/>
+ <en text="Start"/>
+ <it text="Avvio"/>
+</dialog_records_ext_start>
+
+<dialog_records_ext_by_days>
+ <ru text="по дням"/>
+ <en text="by days"/>
+ <it text="Per giorno"/>
+</dialog_records_ext_by_days>
+
+<dialog_records_ext_end>
+ <ru text="Окончание"/>
+ <en text="End"/>
+ <it text="Fine"/>
+</dialog_records_ext_end>
+
+<dialog_records_ext_len>
+ <ru text="Длительность"/>
+ <en text="Duration"/>
+ <it text="Durata"/>
+</dialog_records_ext_len>
+
+<dialog_records_ext_type>
+ <ru text="Тип"/>
+ <en text="Type"/>,
+ <it text="Tipo"/>
+</dialog_records_ext_type>
+ 
+<dialog_records_ext_channel>
+ <ru text="Канал"/>
+ <en text="Channel"/>
+ <it text="Canale"/>
+</dialog_records_ext_channel>
+
+<dialog_records_ext_epg>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</dialog_records_ext_epg> 
+
+<dialog_records_ext_end_action>
+ <ru text="По окончанию"/>
+ <en text="At the end of"/> 
+ <it text="Alla fine del"/>
+</dialog_records_ext_end_action>
+ 
+<dialog_records_ext_del_after> 
+ <ru text="Удалить после завершения"/>
+ <en text="Remove after"/> 
+ <it text="Rimuovere dopo"/>
+</dialog_records_ext_del_after> 
+ 
+<dialog_records_ext_copy>
+ <ru text="Копировать"/>
+ <en text="Copy"/>
+ <it text="Copia"/>
+</dialog_records_ext_copy> 
+ 
+<dialog_records_ext_save>
+ <ru text="Сохранить"/>
+ <en text="Save"/> 
+ <it text="Salva"/> 
+</dialog_records_ext_save> 
+
+<dialog_records_ext_str_new>
+ <ru text="Новый1"/>
+ <en text="New1"/> 
+ <it text="Nuovo1"/> 
+</dialog_records_ext_str_new>
+ 
+<!--   --> 
+ <dialog_records_ext_type_timer_timer>
+ <ru text="Таймер"/>
+ <en text="Timer"/> 
+ <it text="Timer"/> 
+</dialog_records_ext_type_timer_timer> 
+ 
+<dialog_records_ext_type_timer_alert>
+ <ru text="Напоминание"/>
+ <en text="Reminder"/> 
+ <it text="Promemoria"/> 
+</dialog_records_ext_type_timer_alert>
+ 
+ <dialog_records_ext_type_timer_record>
+ <ru text="Быстрая запись"/>
+ <en text="Quick record"/> 
+ <it text="Registrazione veloce"/> 
+</dialog_records_ext_type_timer_record>
+ 
+<dialog_records_ext_type_timer_update_epg>
+ <ru text="Обновление программы"/>
+ <en text="Update EPG"/> ,
+ <it text="Aggiorna EPG"/> 
+</dialog_records_ext_type_timer_update_epg>
+ 
+<dialog_records_ext_type_timer_sleep>
+ <ru text="Sleep"/>
+ <en text="Sleep"/> 
+ <it text="Sospensione"/> 
+</dialog_records_ext_type_timer_sleep> 
+
+ <!--   --> 
+<dialog_records_ext_type_end_action_nothing>
+ <ru text="Ни чего не делать"/>
+ <en text="Nothing"/>
+ <it text="Non non cosa fare"/>
+</dialog_records_ext_type_end_action_nothing> 
+
+<dialog_records_ext_type_end_action_exit>
+ <ru text="Выход"/>
+ <en text="Exit"/>
+ <it text="Uscita"/>
+</dialog_records_ext_type_end_action_exit>
+ 
+<dialog_records_ext_type_end_action_tray>
+ <ru text="Свернуть в tray"/>
+ <en text="Minimize to tray"/> 
+ <it text="Riduci a icona nella tray"/> 
+</dialog_records_ext_type_end_action_tray> 
+ 
+<dialog_records_ext_type_end_action_shutdown>
+ <ru text="Выключить компьютер"/>
+ <en text="Shut down"/>
+ <it text="Spegnere"/>
+</dialog_records_ext_type_end_action_shutdown>
+  
+<!-- PiP -->  
+<pip_str_menu_close>
+  <ru text="Закрыть"/>
+  <en text="Close"/>
+  <it text="Chiudi"/>
+</pip_str_menu_close>
+  
+<pip_str_menu_clear>
+  <ru text="Очистить"/>
+  <en text="Clear"/>
+  <it text="Pulire"/>
+</pip_str_menu_clear>
+  
+<pip_str_menu_select_channel>
+  <ru text="Воспроизведение"/>
+  <en text="Select a channel"/>
+  <it text="Seleziona un canale"/>
+</pip_str_menu_select_channel>
+
+<pip_str_empty>
+  <ru text="Пусто"/>
+  <en text="Empty"/>
+  <it text="Vuoto"/>
+</pip_str_empty>
+  
+ <!-- skin string  --> 
+<skin_str_play>
+  <ru text="Воспроизведение"/>
+  <en text="Play"/>
+  <it text="Riproduci"/>
+</skin_str_play> 
+
+<skin_str_pause>
+  <ru text="Пауза"/>
+  <en text="Pause"/>
+  <it text="Pausa"/>
+</skin_str_pause> 
+
+<skin_str_faster>
+  <ru text="Увеличить скорость воспроизведения"/>
+  <en text="Increase playback speed"/>
+  <it text="Aumentare la velocità di riproduzione"/>
+</skin_str_faster>
+  
+<skin_str_ff>
+  <ru text="Перемотка вперед"/>
+  <en text="Skip forward"/>
+  <it text="Salta in avanti"/>
+</skin_str_ff>
+
+<skin_str_next>
+  <ru text="Следующий канал/медиафайл"/>
+  <en text="Next channel/media"/>
+  <it text="Canale successivo / media"/>
+</skin_str_next> 
+ 
+<skin_str_slow>
+  <ru text="Уменьшить скорость воспроизведения"/>
+  <en text="Decrease playback speed"/>
+  <it text="Diminuire la velocità di riproduzione"/>
+</skin_str_slow>  
+  
+<skin_str_rew>
+  <ru text="Перемотка назад"/>
+  <en text="Skip backward"/>
+  <it text="Salta all'indietro"/>
+</skin_str_rew>
+  
+<skin_str_prev>
+  <ru text="Предыдущий канал/медиафайл"/>
+  <en text="Previous channel/media"/>
+  <it text="Canale precedente / media"/>
+</skin_str_prev>
+  
+<skin_str_stop>
+  <ru text="Стоп"/>
+  <en text="Stop"/>
+  <it text="Stop"/>
+</skin_str_stop>  
+
+<skin_str_record>
+  <ru text="Запись"/>
+  <en text="Record"/>
+  <it text="Registra"/>
+</skin_str_record>  
+  
+<skin_str_open_pls>
+  <ru text="Открыть плейлист"/>
+  <en text="Open playlist"/>
+  <it text="Apri playlist"/>
+</skin_str_open_pls>
+  
+<skin_str_close_pls>
+  <ru text="Закрыть плейлист"/>
+  <en text="Close playlist"/>
+  <it text="Chiudi playlist"/>
+</skin_str_close_pls>
+  
+<skin_str_show_pip>
+  <ru text="Показать PiP"/>
+  <en text="Show PiP"/>
+  <it text="Mostra PiP"/>
+</skin_str_show_pip>
+  
+<skin_str_hide_pip>
+  <ru text="Скрыть PiP"/>
+  <en text="Hide PiP"/>
+  <it text="Nascondi PiP"/>
+</skin_str_hide_pip>
+  
+<skin_str_show_mpip>
+  <ru text="Показать MultiPiP"/>
+  <en text="Show MultiPiP"/>
+  <it text="Mostra MultiPiP"/>
+</skin_str_show_mpip>
+  
+<skin_str_hide_mpip>
+  <ru text="Скрыть MultiPiP"/>
+  <en text="Hide MultiPiP"/>
+  <it text="Nascondi MultiPiP"/>
+</skin_str_hide_mpip>
+  
+<skin_str_show_eq>
+  <ru text="Эквалайзер"/>
+  <en text="Show equalizer"/>
+  <it text="Mostra equalizzatore"/>
+</skin_str_show_eq>
+  
+<skin_str_hide_eq>
+  <ru text="Закрыть эквалайзер"/>
+  <en text="Hide equalizer"/>  
+  <it text="Nascondi equalizzatore"/>  
+</skin_str_hide_eq>
+  
+<skin_str_preferences>
+  <ru text="Настройки"/>
+  <en text="Preferences"/>  
+  <it text="Preferenze"/> 
+</skin_str_preferences>
+  
+<skin_str_exit>
+  <ru text="Выход"/>
+  <en text="Exit"/>  
+  <it text="Uscita"/>  
+</skin_str_exit>
+  
+<skin_str_minimize>
+  <ru text="Минимизировать"/>
+  <en text="Minimize"/>  
+  <it text="Minimizza"/> 
+</skin_str_minimize>
+  
+ <skin_str_to_tray>
+  <ru text="Свернуть в трей"/>
+  <en text="Minimize to tray"/> 
+  <it text="Riduci a icona nella tray"/> 
+</skin_str_to_tray>
+  
+<skin_str_fullscr>
+  <ru text="Полный экран"/>
+  <en text="Fullscreen mode"/>  
+  <it text="Modalità a schermo intero"/>  
+</skin_str_fullscr>
+  
+<skin_str_fulscr_exit>
+  <ru text="Выйти из полного экрана"/>
+  <en text="Exit Fullscreen mode"/>  
+  <it text="Uscire dalla modalità a schermo intero"/> 
+</skin_str_fulscr_exit>
+
+<skin_str_on_top>
+  <ru text="Поверх всех окон"/>
+  <en text="Enable Always on top"/>
+  <it text="Abilita Sempre in primo piano"/>
+</skin_str_on_top>
+
+<skin_str_dis_ontop>
+  <ru text="Отменить поверх всех окон"/>
+  <en text="Disable Always on top"/>
+  <it text="Disabilita Sempre in primo piano"/>
+</skin_str_dis_ontop>
+
+<skin_str_crop>
+  <ru text="Обрезка"/>
+  <en text="Cropping"/>
+  <it text="Ritaglio (Cropping)"/>
+</skin_str_crop>
+  
+<skin_str_ratio>
+  <ru text="Формат"/>
+  <en text="Aspect ratio"/>
+  <it text="Proporzioni"/>
+</skin_str_ratio>
+
+<skin_str_deint>
+  <ru text="Деинтерлейс фильтры"/>
+  <en text="Deinterlacing filters"/>
+  <it text="Filtri di deinterlacciamento"/>
+</skin_str_deint>
+
+<skin_str_type_audio>
+  <ru text="Тип аудио"/>
+  <en text="Switching audio mode"/>,
+  <it text="Commutazione modalità audio"/>
+</skin_str_type_audio>
+
+<skin_str_snapshot>
+  <ru text="Сохранить кадр"/>
+  <en text="Snapshot"/>
+  <it text="Scatta foto"/>
+</skin_str_snapshot>
+
+<skin_str_mute>
+  <ru text="Отключить звук"/>
+  <en text="Close audio"/>
+  <it text="Chiudi audio"/>
+</skin_str_mute>
+
+<skin_str_muteoff>
+  <ru text="Включить звук"/>
+  <en text="Mute off"/>
+  <it text="Attiva audio"/>
+</skin_str_muteoff>
+
+<skin_str_volume>
+  <ru text="Громкость $CURRENTVOLUMEPERSENT"/>
+  <en text="Volume $CURRENTVOLUMEPERSENT"/>
+  <it text="Volume $CURRENTVOLUMEPERSENT"/>
+</skin_str_volume>
+
+<skin_str_down_p_channels>
+ <ru text="Каналы"/>
+ <en text="Channels"/>
+ <it text="Canali"/>
+</skin_str_down_p_channels>
+
+<skin_str_down_p_files>
+ <ru text="Файлы"/>
+ <en text="Files"/>
+ <it text="Files"/>
+</skin_str_down_p_files>
+
+<skin_str_down_p_records>
+ <ru text="Записи"/>
+ <en text="Records"/>
+ <it text="Registrazioni"/>
+</skin_str_down_p_records>
+
+<skin_str_down_p_videolib> ALEX
+ <ru text="Видеотека"/>
+ <it text="Video"/>
+</skin_str_down_p_videolib>
+
+
+<skin_str_header_tree_osd_0>
+ <ru text="Плейлист ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <en text="Playlist ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <it text="Playlist ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_osd_0>
+ 
+<skin_str_header_tree_osd_1>
+ <ru text="Плейлист ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <en text="Playlist ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <it text="Playlist ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_osd_1>
+ 
+<skin_str_header_tree_0>
+ <ru text="Плейлист - $CURRENTMEDIAMODE($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <en text="Playlist - $CURRENTMEDIAMODE($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+ <it text="Playlist - $CURRENTMEDIAMODE($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_0> 
+
+<skin_str_slider_volume>
+ <ru text="Громкость"/>
+ <en text="Volume"/>
+ <it text="Volume"/>
+</skin_str_slider_volume> 
+
+<skin_str_slider_brightness>
+ <ru text="Яркость"/>
+ <en text="Brightness"/>
+ <it text="Luminosità"/>
+</skin_str_slider_brightness> 
+
+<skin_str_slider_contrast>
+ <ru text="Контраст"/>
+ <en text="Contrast"/>
+ <it text="Contrasto"/>
+</skin_str_slider_contrast> 
+
+<skin_str_slider_saturation>
+ <ru text="Насыщенность"/>
+ <en text="Saturation"/>
+ <it text="Saturazione"/>
+</skin_str_slider_saturation>
+ 
+<skin_str_slider_hue>
+ <ru text="Оттенок"/>
+ <en text="Hue"/>
+ <it text="Tonalità"/>
+</skin_str_slider_hue>
+ 
+<skin_str_slider_gamma>
+ <ru text="Гамма"/>
+ <en text="Gamma"/>
+ <it text="Gamma"/>
+</skin_str_slider_gamma>
+ 
+<skin_str_slider_scale>
+ <ru text="Масштаб"/>
+ <en text="Scale"/>
+ <it text="Scala"/>
+</skin_str_slider_scale>
+ 
+<skin_str_slider_sharpness>
+ <ru text="Четкость"/>
+ <en text="Sharpness"/>
+ <it text="Nitidezza"/>
+</skin_str_slider_sharpness>
+ 
+<!--  Dialog load playlist -->
+<dialog_load_pls_caption>
+ <ru text="Загрузка каналов"/>
+ <en text="Load playlist"/> 
+ <it text="Carica playlis"/> 
+</dialog_load_pls_caption> 
+ 
+<dialog_load_pls_auto_load>
+ <ru text="Автообновление при старте программы"/>
+ <en text="Automatic update on the program startup"/>
+ <it text="Aggiornamento automatico all'avvio"/>
+</dialog_load_pls_auto_load> 
+  
+<dialog_load_pls_ask_before_load>
+ <ru text="Спрашивать перед загрузкой"/>
+ <en text="Ask before loading"/>
+ <it text="Chiedete prima di caricare"/>
+</dialog_load_pls_ask_before_load> 
+  
+<dialog_load_pls_save_setting>
+ <ru text="Сохранить настройки"/>
+ <en text="Save setting"/>
+ <it text="Salva impostazioni"/>
+</dialog_load_pls_save_setting> 
+  
+<dialog_load_pls_load>
+ <ru text="Загрузить"/>
+ <en text="Load"/>
+ <it text="Carica"/>
+</dialog_load_pls_load> 
+ 
+<dialog_load_pls_from_mdb>
+ <ru text="Загрузить из базы SimpleTV"/>
+ <en text="Load from SimpleTV database"/>
+ <it text="Carica dal database SimpleTV"/>
+</dialog_load_pls_from_mdb> 
+ 
+<dialog_load_pls_from_m3u>
+ <ru text="Загрузка из m3u файла"/>
+ <en text="Load from m3u file"/>
+ <it text="Carica da file m3u"/>
+</dialog_load_pls_from_m3u> 
+ 
+<dialog_load_pls_from_xml>
+ <ru text="Загрузка из xml файла"/>
+ <en text="Load from xml file"/>
+ <it text="Carica da file XML"/>
+</dialog_load_pls_from_xml> 
+ 
+<dialog_load_pls_result>
+ <ru text="Всего обработано %i канал(ов)\nДобавлено %i канал(ов), обновлено  %i канал(ов)"/>
+ <en text="Total processed %i channel(s)\nAdded %i channel(s), updated %i channel(s)"/>
+ <it text="Totale esaminato %i canale(s)\nAggiunto %i canale(s), aggiornato %i canale(s)"/>
+</dialog_load_pls_result> 
+ 
+<dialog_load_pls_file_filter> 
+ <ru text="База данных(*.mdb)|*.mdb|Плейлист(*.m3u)|*.m3u|Файл xml(*.xml)|*.xml|Все файлы(*.*)|*.*||" />
+ <en text="Database(*.mdb)|*.mdb|Playlist(*.m3u)|*.m3u|File xml(*.xml)|*.xml|All files(*.*)|*.*||" />
+ <it text="Database(*.mdb)|*.mdb|Playlist(*.m3u)|*.m3u|File xml(*.xml)|*.xml|Tutti i files(*.*)|*.*||" />
+</dialog_load_pls_file_filter>  
+  
+ <dialog_load_mdb_border_1>
+ <ru text="Опции для SimpleTV base   " />
+ <en text="Settings for SimpleTV database" />
+ <it text="Impostazioni per SimpleTV database" />
+</dialog_load_mdb_border_1> 
+
+<dialog_load_mdb_alldelete>
+ <ru text="Полная загрузка (все текущие записи будут удалены)" />
+ <en text="Full load base (all data will be deleted)" />
+ <it text="Carico full database (tutti i dati verranno cancellati)" />
+</dialog_load_mdb_alldelete> 
+ 
+<dialog_load_mdb_group>
+ <ru text="Учитывать группы" />
+ <en text="Loading group" /> 
+ <it text="Caricamento gruppo" /> 
+</dialog_load_mdb_group> 
+ 
+<dialog_load_common_border_1>
+ <ru text="Если запись существует" />
+ <en text="If the data exists" />
+ <it text="Se esiste un record" />
+</dialog_load_common_border_1> 
+
+<dialog_load_common_skip>
+ <ru text="Пропускать если совпадает" />
+ <en text="Skip if the same" /> 
+ <it text="Passa se e ​​lo stesso" />
+</dialog_load_common_skip> 
+
+<dialog_load_common_update>
+ <ru text="Обновлять если совпадает" />
+ <en text="Update if the same" /> 
+ <it text="Aggiornare se e lo stesso" /> 
+</dialog_load_common_update> 
+
+<dialog_load_common_new>
+ <ru text="Пропускать если совпадает" />
+ <en text="Loading as a new" /> 
+ <it text="Caricamento come nuovo" /> 
+</dialog_load_common_new> 
+
+<dialog_load_common_name>
+ <ru text="Название" />
+ <en text="Name" /> 
+ <it text="Nome" /> 
+</dialog_load_common_name>
+
+<dialog_load_common_adr>
+ <ru text="Адрес" />
+ <en text="Address" /> 
+ <it text="Indirizzo" /> 
+</dialog_load_common_adr>
+
+<dialog_load_m3u_border_1>
+ <ru text="Опции для m3u файлов" />
+ <en text="Settings for m3u file" /> 
+ <it text="Impostazioni per il file m3u" /> 
+</dialog_load_m3u_border_1> 
+
+<dialog_load_m3u_del_before_load>
+ <ru text="Удалить текущие каналы  и загрузить" />
+ <en text="Delete current data and load new data" />  
+ <it text="Eliminare i dati attuali e caricare i nuovi dati" />
+</dialog_load_m3u_del_before_load> 
+ 
+<dialog_load_m3u_del_warn>
+ <ru text="Все текущие каналы и их настройки будут удалены" />
+ <en text="All current channels and theirs settings will be deleted" /> 
+ <it text="Tutti i canali attuali e le impostazioni verranno eliminate" />
+</dialog_load_m3u_del_warn> 
+ 
+<dialog_load_m3u_auto_find>
+ <ru text="Автоматически искать программу и логотипы" />
+ <en text="Autosearch EPG and logotype" />
+ <it text="Ricerca automatica EPG e logotype" />
+</dialog_load_m3u_auto_find> 
+ 
+<dialog_load_m3u_number>
+ <ru text="Учитывать номера из m3u" />
+ <en text="Loading the channels serial numbers from m3u" /> 
+ <it text="Caricamento dei canali con numeri seriali da m3u" /> 
+</dialog_load_m3u_number> 
+ 
+<dialog_load_m3u_group>
+ <ru text="Учитывать группы" />
+ <en text="Loading group" /> 
+ <it text="Caricamento gruppo" /> 
+</dialog_load_m3u_group> 
+ 
+<dialog_load_m3u_coding>
+ <ru text="Кодировка" />
+ <en text="Encoding" /> 
+ <it text="Codifica" /> 
+</dialog_load_m3u_coding> 
+
+<!-- Unload dialog -->
+<dialog_unload_caption>
+ <ru text="Выгрузка" />
+ <en text="Export playlist" /> 
+ <it text="Esporta playlist" /> 
+</dialog_unload_caption>
+ 
+<dialog_unload_export>
+ <ru text="Выгрузить" />
+ <en text="Export" />  
+ <it text="Esporta" /> 
+</dialog_unload_export> 
+ 
+<dialog_unload_file_filter>
+ <ru text="Плейлист(*.m3u)|*.m3u|Плейлист(*.xml)|*.xml|Все файлы(*.*)|*.*||"/>
+ <en text="Playlist(*.m3u)|*.m3u|Playlist(*.xml)|*.xml|All files(*.*)|*.*||" /> 
+ <it text="Playlist(*.m3u)|*.m3u|Popis reprodukcije(*.xml)|*.xml|Tutti i file(*.*)|*.*||" /> 
+</dialog_unload_file_filter> 
+ 
+<dialog_unload_in_m3u> 
+ <ru text="Выгрузть в m3u" />
+ <en text="Export in m3u" />  
+ <it text="Esporta in m3u" /> 
+</dialog_unload_in_m3u>  
+ 
+<dialog_unload_in_xml> 
+ <ru text="Выгрузть в xml" />
+ <en text="Export in xml" />  
+ <it text="Esporta in xml" /> 
+</dialog_unload_in_xml>   
+ 
+<dialog_unload_option>
+ <ru text="Опции" />
+ <en text="Option" /> 
+ <it text="Opzioni" />
+</dialog_unload_option> 
+ 
+<dialog_unload_type>
+ <ru text="Тип" />
+ <en text="Type" /> 
+ <it text="Tipo" /> 
+</dialog_unload_type>
+ 
+<dialog_unload_encoding>
+ <ru text="Кодировка" />
+ <en text="Encoding" />  
+ <it text="Codifica" />  
+</dialog_unload_encoding>
+ 
+<dialog_unload_with_number>
+ <ru text="Учитывать номера" />
+ <en text="With number" />  
+ <it text="Con il numero" />
+</dialog_unload_with_number>
+ 
+<dialog_unload_with_group>
+ <ru text="Учитывать группы" />
+ <en text="With group" />  
+ <it text="Con il gruppo" />  
+</dialog_unload_with_group>
+  
+<dialog_unload_xml_select_channels>
+ <ru text="Выберите каналы" />
+ <en text="Select the channel" />  
+ <it text="Selezionare il canale" />  
+</dialog_unload_xml_select_channels>
+
+<dialog_unload_xml_selected>
+ <ru text="Выделенное" />
+ <en text="Selected" />  
+ <it text="Selezionato" /> 
+</dialog_unload_xml_selected>
+
+<!-- Dialog new stuff -->
+<dialog_install_stuff_text>
+ <ru text="\nДополнительные плейлисты к плееру можно скачать с\n" />
+ <en text="\nMore playlists to the player can be downloaded from\n" />" />  
+ <it text="\nAltri playlist sul lettore possono essere scaricati dal\n" />" />  
+ </dialog_install_stuff_text>
+
+<dialog_install_stuff_button>
+ <ru text="Перейти на сайт" />
+ <it text="Go to site" />  
+</dialog_install_stuff_button>
+
+<!-- Dialog Check Update -->
+<dialog_check_update_go_homepage>
+ <ru text="Перейти на сайт" />
+ <en text="Go to site" />  
+ <it text="Vai al sito" />  
+</dialog_check_update_go_homepage> 
+
+<dialog_check_update_check_start>
+ <ru text="Проверять обновления при старте программы" />
+ <en text="Check for updates at startup" />  
+ <it text="Controlla aggiornamenti all'avvio" />  
+</dialog_check_update_check_start> 
+
+<dialog_check_update_checking>
+ <ru text="Идет проверка" />
+ <en text="Checking" />  
+ <it text="Verifico.." />  
+</dialog_check_update_checking> 
+
+<dialog_check_update_no_new>
+ <ru text="Нет новых версий" />
+ <en text="No new version" />  
+ <it text="Non ci sono nuove versioni" /> 
+</dialog_check_update_no_new> 
+
+<dialog_check_update_error>
+ <ru text="Ошибка соединения" />
+ <en text="Connection error" />  
+ <it text="Errore di connessione" />  
+</dialog_check_update_error>
+
+<dialog_check_update_error_new_avail>
+ <ru text="Доступна новая версия" />
+ <en text="New version is available" />  
+ <it text="Una nuova versione è disponibile" /> 
+</dialog_check_update_error_new_avail>
+ 
+<!-- OSD -->
+
+<osd_common_button_esc>
+ <ru text="Esc"/>
+ <en text="Esc"/>
+ <it text="Esci"/>
+</osd_common_button_esc>
+
+<osd_common_str_aspect>
+ <ru text="Формат: "/>
+ <en text="Aspect ratio: "/>
+ <it text="Proporzioni: "/>
+</osd_common_str_aspect> 
+ 
+<osd_common_str_crop>
+ <ru text="Обрезка: "/>
+ <en text="Cropping: "/>
+ <it text="Ritaglio: "/>
+</osd_common_str_crop> 
+ 
+<osd_common_str_deint>
+ <ru text="Деинтерлейс: "/>
+ <en text="Deinterlacing: "/>
+ <it text="Deinterllacio: "/>
+</osd_common_str_deint>
+ 
+<osd_common_str_sound>
+ <ru text="Звук: "/>
+ <en text="Sound: "/>
+ <it text="Suono: "/>
+</osd_common_str_sound> 
+ 
+<osd_common_str_sound_off>
+ <ru text="Звук: отключено"/>
+ <en text="Sound: off"/>
+ <it text="Suono: spento"/>
+</osd_common_str_sound_off> 
+ 
+ <osd_common_str_sound_track>
+ <ru text="Звук: дорожка "/>
+ <en text="Sound: track "/>
+ <it text="Suono: traccia "/>
+</osd_common_str_sound_track> 
+ 
+<osd_common_str_adress>
+ <ru text="Адрес: "/>
+ <en text="Address: "/>
+ <it text="Indirizzo: "/>
+</osd_common_str_adress> 
+ 
+<osd_common_str_speed>
+ <ru text="Скорость: "/>
+ <en text="Speed: "/>
+ <it text="velocità: "/>
+</osd_common_str_speed> 
+
+<osd_common_str_play>
+ <ru text="Воспроизведение"/>
+ <en text="Play"/>
+ <it text="Riproduci"/>
+</osd_common_str_play> 
+ 
+<osd_common_str_stop>
+ <ru text="Стоп"/>
+ <en text="Stop"/>
+ <it text="Stop"/>
+</osd_common_str_stop>  
+ 
+<osd_common_str_pause>
+ <ru text="Пауза"/>
+ <en text="Pause"/>
+ <it text="Pausa"/>
+</osd_common_str_pause> 
+ 
+<osd_common_str_snapshot>
+ <ru text="Снимок: "/>
+ <en text="Snapshot: "/>
+ <it text="Scatta foto: "/>
+</osd_common_str_snapshot>
+ 
+<osd_common_str_sub>
+ <ru text="Субтитры: "/>
+ <en text="Subtitle: "/>
+ <it text="Sottotitolo: "/>
+</osd_common_str_sub> 
+ 
+<osd_common_str_sub_off>
+ <ru text="Субтитры: отключено"/>
+ <en text="Subtitle: off"/>
+ <it text="Sottotitolo: spento"/>
+</osd_common_str_sub_off> 
+ 
+<osd_common_str_sub_track>
+ <ru text="Субтитры: дорожка "/>
+ <en text="Subtitle: track "/>
+ <it text="Sottotitolo: traccia "/>
+</osd_common_str_sub_track> 
+ 
+<osd_common_epg_updating>
+ <ru text="Идет обновление"/>
+ <en text="Updating"/>
+ <it text="Aggiornamento"/>
+</osd_common_epg_updating>
+ 
+<osd_common_epg_no_data>
+ <ru text="Нет данных"/>
+ <en text="No data"/>
+ <it text="Nessun dato"/>
+</osd_common_epg_no_data>
+ 
+<osd_common_epg_remains>
+ <ru text="Осталось "/>
+ <en text="Remains "/>
+ <it text="Rimane "/>
+</osd_common_epg_remains>
+  
+<osd_common_epg_next>
+ <ru text="Далее: "/>
+ <en text="Next: "/>
+ <it text="Prossimo: "/>
+</osd_common_epg_next>
+
+<osd_common_number_not_found>
+ <ru text="Номер не найден"/>
+ <en text="Number not found"/>
+ <it text="Numero non trovato"/>
+</osd_common_number_not_found>
+ 
+<osd_common_video>
+ <ru text="Видео: "/>
+ <en text="Video: "/>
+ <it text="Video: "/>
+</osd_common_video>
+ 
+<osd_common_video_off>
+ <ru text="Видео: отключено"/>
+ <en text="Video: off"/>
+ <it text="Video: spento"/>
+</osd_common_video_off> 
+ 
+<osd_common_video_track>
+ <ru text="Видео: дорожка "/>
+ <en text="Video: track "/>
+ <it text="Video: traccia "/>
+</osd_common_video_track>
+ 
+<osd_common_audio_type>
+ <ru text="Аудио тип: "/>
+ <en text="Audio type: "/>
+ <it text="Audio tipo: "/>
+</osd_common_audio_type>
+
+<osd_common_audio_bookmarkadd>
+ <ru text="Закладка добавлена - "/>
+ <en text="Bookmark added - "/>
+ <it text="Bookmark aggiunto - "/>
+</osd_common_audio_bookmarkadd>
+ 
+<!-- EPG strings --> 
+<epg_common_str_clean_warn>
+ <ru text="Нельзя очищать во время обновления"/>
+ <en text="You can not clean during the update"/>
+ <it text="Non è possibile pulire durante l'aggiornamento"/>
+</epg_common_str_clean_warn> 
+
+<epg_common_str_base_cleared>
+ <ru text="База очищена"/>
+ <en text="The database is cleared"/>
+ <it text="Il database viene cancellato"/>
+</epg_common_str_base_cleared> 
+ 
+<epg_common_str_error_clean>
+ <ru text="Ошибка при очистки данных"/>
+ <en text="Error while the data cleaning"/>
+ <it text="Errore durante la pulizia dei dati"/>
+</epg_common_str_error_clean> 
+ 
+<epg_common_str_epg_updating>
+ <ru text="Идет обновления программы"/>
+ <en text="Epg is updating"/>
+ <it text="Epg sta aggiornando"/>
+</epg_common_str_epg_updating> 
+
+<epg_common_str_udate_not_possible>
+ <ru text="Обновление невозможно"/>
+ <en text="Updating is not possible"/>
+ <it text="L'aggiornamento non è possibile"/>
+</epg_common_str_udate_not_possible> 
+
+<epg_common_str_epg_start_update>
+ <ru text="Начало обновления программы"/>
+ <en text="Start epg updates"/> 
+ <it text="Avvia aggiornamenti EPG"/> 
+</epg_common_str_epg_start_update> 
+ 
+<epg_common_str_epg_for>
+ <ru text=" для "/>
+ <en text=" for "/> 
+ <it text=" for "/> 
+</epg_common_str_epg_for> 
+  
+<epg_common_str_epg_update_complete>
+ <ru text="Обновления программы завершено"/>
+ <en text="EPG updating completed."/>  
+ <it text="Aggiornamento EPG completato."/> 
+</epg_common_str_epg_update_complete> 
+
+<!-- Timers strings --> 
+
+<timers_common_str_sleep_from>
+ <ru text="Выключение через "/>
+ <en text="Sleep after "/>
+ <it text="Sospendi dopo "/>
+</timers_common_str_sleep_from> 
+
+<timers_common_str_exit_from>
+ <ru text="Выход через "/>
+ <en text="Exit after "/>
+ <it text="Esci dopo "/> 
+</timers_common_str_exit_from>
+
+<timers_common_str_sleep_from_sec>
+ <ru text="Выключение через %s сек"/>
+ <en text="Sleep after %s sec"/>  
+ <it text="Sospendi dopo %s sec"/> 
+</timers_common_str_sleep_from_sec> 
+ 
+<timers_common_str_sleep_from_min>
+ <ru text="Выключение через %s мин"/>
+ <en text="Sleep after %s min"/> 
+ <it text="Sospendi dopo %s min"/> 
+</timers_common_str_sleep_from_min> 
+
+<timers_common_str_sleep_from_hours>
+ <ru text="Выключение через %s ч"/>
+ <en text="Sleep after %s h"/>     
+ <it text="Sospendi dopo %s h"/>
+</timers_common_str_sleep_from_hours>
+ 
+<timers_common_str_sleep_off>
+ <ru text="Таймер сна выключен"/>
+ <en text="Sleep timer off"/>      
+ <it text="Sospensione timer off"/>
+</timers_common_str_sleep_off> 
+
+<timers_common_str_reminder>
+ <ru text="Напоминание: "/>
+ <en text="Reminder: "/>  
+ <it text="Promemoria: "/>  
+</timers_common_str_reminder>
+
+<timers_common_str_record_stop_for>
+ <ru text="Запись остановлена. Канал - "/>
+ <en text="Recording is stopped. Channel - "/>  
+ <it text="La registrazione viene interrotta. Canale - "/> 
+</timers_common_str_record_stop_for> 
+
+<timers_common_str_record_stop>
+ <ru text="Запись остановлена"/>
+ <en text="Recording is stopped"/>  
+ <it text="La registrazione viene interrotta"/>  
+</timers_common_str_record_stop> 
+ 
+<timers_common_str_profile_not_found>
+ <ru text="Профиль записи (%s) не найден"/>
+ <en text="Profile record (%s) not found"/>  
+ <it text="Profilo di registrazione (%s) non trovato"/>  
+</timers_common_str_profile_not_found> 
+ 
+<timers_common_str_unknown_error>
+ <ru text="неизвестная ошибка"/>
+ <en text="unknown error"/>  
+ <it text="errore sconosciuto"/> 
+</timers_common_str_unknown_error> 
+
+<timers_common_str_cant_create_process>
+ <ru text="ошибка(не могу создать процесс для записи)"/>
+ <en text="error (can't create a process for recording)"/>  
+ <it text="errore (non è possibile creare un processo per la registrazione)"/>  
+</timers_common_str_cant_create_process> 
+
+<timers_common_str_start_record_for>
+ <ru text="Начало записи: Канал "/>
+ <en text="Start recording: Channel "/>   
+ <it text="Avvio Registrazione: Canale "/> 
+</timers_common_str_start_record_for>
+
+<timers_common_str_record>
+ <ru text="Запись: "/>
+ <en text="Recording: "/>    
+ <it text="Registrazione: "/>  
+</timers_common_str_record> 
+
+<!-- OSD Timer-->
+<osd_timers_caption>
+ <ru text="Таймер &amp; Записи"/>
+ <en text="Timers &amp; Records"/>    
+ <it text="Timers &amp; Registrazioni"/>
+</osd_timers_caption> 
+
+<osd_timers_str_name>
+ <ru text="Название"/>
+ <en text="Name"/>
+ <it text="Nome"/>
+</osd_timers_str_name>
+
+<osd_timers_str_channel>
+ <ru text="Канал"/>
+ <en text="Channel"/>
+ <it text="Canale"/>
+</osd_timers_str_channel>
+ 
+<osd_timers_str_start>
+ <ru text="Начало"/>
+ <en text="Start"/>
+ <it text="Avvio"/>
+</osd_timers_str_start>
+ 
+<osd_timers_str_len>
+ <ru text="Длина"/>
+ <en text="Length"/>
+ <it text="Lunghezza"/>
+</osd_timers_str_len> 
+ 
+<osd_timers_str_time_elapsed>
+ <ru text="Прошло времени"/>
+ <en text="Elapsed time"/>
+ <it text="Tempo trascorso"/>
+</osd_timers_str_time_elapsed>
+ 
+<osd_timers_str_epg>
+ <ru text="Программа"/>
+ <en text="EPG"/>
+ <it text="EPG"/>
+</osd_timers_str_epg>
+
+<osd_timers_button_play_pause>
+ <ru text="Воспроизведение/Пауза"/>
+ <en text="Play/Pause"/>
+ <it text="Riproduci/Pausa"/>
+</osd_timers_button_play_pause>
+
+<osd_timers_button_stop>
+ <ru text="Стоп - удалить"/>
+ <en text="Stop - delete"/>
+ <it text="Stop - cancella"/>
+</osd_timers_button_stop>
+
+<!-- OSD EPG  -->
+<osd_epg_str_time>
+ <ru text="Время"/>
+ <en text="Time"/>
+ <it text="Tempo"/>
+</osd_epg_str_time> 
+
+<osd_epg_str_title>
+ <ru text="Передача"/>
+ <en text="Title"/>
+ <it text="Titolo"/>
+</osd_epg_str_title> 
+
+<osd_epg_str_description>
+ <ru text="Описание"/>
+ <en text="Description"/>
+ <it text="Descrizione"/>
+</osd_epg_str_description> 
+ 
+<osd_epg_str_duration>
+ <ru text="Длительность"/>
+ <en text="Duration"/>
+ <it text="Durata"/>
+</osd_epg_str_duration> 
+  
+<osd_epg_button_ok>
+ <ru text="Ok - Подробности"/>
+ <en text="Ok - Details"/>   
+ <it text="Ok - Dettagli"/> 
+</osd_epg_button_ok> 
+  
+<osd_epg_button_play>
+ <ru text="Play - Поставить/снять таймер"/>
+ <en text="Play - Put/off timer"/>   
+ <it text="Riproduci - Mettere/off timer"/>  
+</osd_epg_button_play> 
+  
+<osd_epg_button_stop>
+ <ru text="Stop - Напомнить"/>
+ <en text="Stop - Reminder"/>   
+ <it text="Stop - Promemoria"/> 
+</osd_epg_button_stop> 
+  
+<osd_epg_str_details>
+ <ru text="Подробности - "/>
+ <en text="Details - "/>   
+ <it text="Dettagli - "/> 
+</osd_epg_str_details>
+  
+<osd_epg_str_epg_updating>
+ <ru text="Идет обновление"/>
+ <en text="Updating"/>   
+ <it text="Aggiornamento"/> 
+</osd_epg_str_epg_updating>
+  
+<osd_epg_str_no_data>
+ <ru text="Нет данных"/>
+ <en text="No data"/>   
+ <it text="Nessun dato"/>
+</osd_epg_str_no_data>
+  
+<!-- OSD Bookmark -->
+<osd_bookmark_str_caption>
+ <ru text="Закладки"/>
+ <en text="Bookmarks"/>   
+ <it text="Segnalibri"/> 
+</osd_bookmark_str_caption> 
+
+<osd_bookmark_str_name>
+ <ru text="Название"/>
+ <en text="Name"/>   
+ <it text="Nome"/>   
+</osd_bookmark_str_name> 
+ 
+<osd_bookmark_str_position>
+ <ru text="Позиция"/>
+ <en text="Position"/>   
+ <it text="Posizione"/>   
+</osd_bookmark_str_position> 
+
+<osd_bookmark_button_empty>
+ <ru text="Нет закладок"/>
+ <en text="No bookmarks"/>    
+ <it text="Non ci sono segnalibri"/> 
+</osd_bookmark_button_empty> 
+
+<osd_bookmark_button_ok>
+ <ru text="Ok - плей"/>
+ <en text="Ok - play"/> 
+ <it text="Ok - Avvio"/> 
+</osd_bookmark_button_ok> 
+
+<osd_bookmark_button_stop>
+ <ru text="Стоп - удалить"/>
+ <en text="Stop - delete"/>     
+ <it text="Stop - cancella"/> 
+</osd_bookmark_button_stop> 
+  
+<!-- OSD Ext filter -->
+<osd_extfilter_caption>
+ <ru text="Расширенный фильтр"/>
+ <en text="Advanced filter"/>     
+ <it text="Filtro avanzato"/> 
+</osd_extfilter_caption> 
+   
+<osd_extfilter_button_ok>
+ <ru text="Ok - Выбор"/>
+ <en text="Ok - Select"/>     
+ <it text="Ok - Selezionare"/>  
+</osd_extfilter_button_ok> 
+
+<!-- OSD Preferences -->
+<osd_preferences_str_video_track>
+ <ru text="Выбор видеопотока"/>
+ <en text="Select video track"/>     
+ <it text="Selezionare la traccia video"/>  
+</osd_preferences_str_video_track>
+ 
+<osd_preferences_str_auduo_track>
+ <ru text="Выбор аудиопотока"/>
+ <en text="Select audio track"/> 
+ <it text="Selezionare la traccia audio"/> 
+</osd_preferences_str_auduo_track>
+  
+<osd_preferences_str_type_audio>
+ <ru text="Выбор тип аудио"/>
+ <en text="Select audio type"/> 
+ <it text="Selezionare il tipo di audio"/>      
+</osd_preferences_str_type_audio> 
+ 
+<osd_preferences_str_sub_track>
+ <ru text="Выбор субтитров"/>
+ <en text="Select the subtitle track"/>      
+ <it text="Selezionare la traccia dei sottotitoli"/>  
+</osd_preferences_str_sub_track> 
+ 
+<osd_preferences_str_deint>
+ <ru text="Выбор деинтерлейса"/>
+ <en text="Select deinterlacing"/>      
+ <it text="Seleziona deinterlacciamento"/> 
+</osd_preferences_str_deint>
+ 
+<osd_preferences_str_crop>
+ <ru text="Выбор обрезки"/>
+ <en text="Select cropping"/>      
+ <it text="Seleziona ritaglio"/>   
+</osd_preferences_str_crop> 
+ 
+<osd_preferences_str_ratio>
+ <ru text="Выбор формата"/>
+ <en text="Select aspect ratio"/>      
+ <it text="Selezionare le proporzioni"/>  
+</osd_preferences_str_ratio> 
+ 
+<osd_preferences_str_caption>
+ <ru text="Выбор настроек"/>
+ <en text="Setting"/>      
+ <it text="Impostazione"/>   
+</osd_preferences_str_caption> 
+ 
+<osd_preferences_str_not_available>
+ <ru text="Недоступно"/>
+ <en text="Not available"/>      
+ <it text="Non disponibile"/>    
+</osd_preferences_str_not_available>
+  
+<osd_preferences_button_ok>
+ <ru text="Ok - Выбор"/>
+ <en text="Ok - Select"/>     
+ <it text="Ok - Seleziona"/>   
+</osd_preferences_button_ok> 
+  
+<!-- Config tooltip -->
+<tooltip_config_record_edit_profile>
+ <ru text="Редактировать профиль"/>
+ <en text="Edit profile"/>
+ <it text="Modifica il profilo"/>
+</tooltip_config_record_edit_profile> 
+
+<tooltip_config_record_open_folder_profile>
+ <ru text="Открыть папку с профилями"/>
+ <en text="Open profile folder"/> 
+ <it text="Apri cartella del profilo"/> 
+</tooltip_config_record_open_folder_profile>
+ 
+<tooltip_config_record_refresh_profiles>
+ <ru text="Обновить список профилей"/>
+ <en text="Update profile list"/> 
+ <it text="Aggiornamento elenco dei profili"/> 
+</tooltip_config_record_refresh_profiles> 
+ 
+<tooltip_config_record_enable_pause>
+ <ru text="Разрешает ставить запись на паузу(из окна Таймер and Записи или OSD)"/>
+ <en text="Allows to pause a record from window Timer and Records or OSD"/>
+ <it text="Permette di mettere una Registrazione per una pausa (dalla finestra del timer e memorizza su OSD)"/>
+</tooltip_config_record_enable_pause>
+ 
+<tooltip_config_record_margin>
+ <ru text="Укажите кол-во минут на которое будет увеличено время при установки таймера"/>
+ <en text="Specify number of minutes from which time will be increased when the setting timer"/> 
+ <it text="Specificare il numero di minuti di cui il tempo aumenta dopo l'impostazione del timer"/> 
+</tooltip_config_record_margin> 
+
+ <tooltip_config_record_enable_wake_from_sleep>
+ <ru text="Разрешает включение копмьютера из режима гибернации/сна для записи по таймеру"/>
+ <en text="Allows to wake computer from hibernation/sleep mode for timer recording"/>
+ <it text="Permette di riattivare computer dalla modalità di sospensione / modalità sleep timer per la registrazione"/>
+</tooltip_config_record_enable_wake_from_sleep> 
+ 
+<tooltip_config_wathdog>
+ <ru text="Wathdog - функция позволяющая контролировать выполнение программы.В случае критической ошибки или зависания программы позволяет восстановить нормальное состояние."/>
+ <en text="Wathdog - function allows you to monitor the state of application. In case a critical error or an unresponsive of program, allows you to restore normal state."/> 
+ <it text="Wathdog - funzione consente di monitorare lo stato di applicazione. Nel caso in cui un errore critico o uno che non risponde del programma, consente di ripristinare lo stato normale."/>
+</tooltip_config_wathdog>
+
+<tooltip_config_input_use_vkey>
+ <ru text="Использовать виртуальные коды клавиатуры вместо скан кодов. Включите эту опцию, если для управления программой используется стороние программы,эмулирующие нажатие клавиш."/>
+ <en text="Using the virtual key codes instead of the scan codes. Enable this option if, for program management will used third-party programs that emulate pressing a buttons."/> 
+ <it text="Utilizzare i virtual key codes invece del tasto di scansione dei codici. Attivare questa opzione se, per la gestione del programma sarà utilizzato programmi di terze parti che emulano premendo alcuni tasti."/> 
+</tooltip_config_input_use_vkey> 
+  
+<tooltip_config_input_save_profile>
+ <ru text="Сохранить профиль"/>
+ <en text="Save the profile"/> 
+ <it text="Salvare il profilo"/> 
+</tooltip_config_input_save_profile> 
+
+<tooltip_config_input_open_folder_profile>
+ <ru text="Открыть папку"/>
+ <en text="Open a folder"/> 
+ <it text="Aprire una cartella"/> 
+</tooltip_config_input_open_folder_profile> 
+ 
+ 
+<!-- Config dialogs-->
+<!-- Config dialog  pict -->
+<dialog_config_pict_ch1>
+ <ru text="Настройка изображения (по умолчанию)"/>
+ <en text="Video adjustment (Default)"/>  
+ <it text="Regolazione Video (Predefinito)"/> 
+</dialog_config_pict_ch1> 
+
+<dialog_config_pict_warn_1>
+ <ru text="Можно изменить настройки для каждого канала в &quot;плейлисте&quot;"/>
+ <en text="You can set individual settings for each channel in the &quot;Playlist&quot; window."/>  
+ <it text="È possibile definire impostazioni individuali per ogni canale nel &quot;Playlist&quot; window."/> 
+</dialog_config_pict_warn_1>
+ 
+<dialog_config_pict_aspect>
+ <ru text="Формат"/>
+ <en text="Aspect ratio"/>
+ <it text="Proporzioni"/>
+</dialog_config_pict_aspect>
+
+<dialog_config_pict_deint> 
+ <ru text="Деинтерлейс"/>
+ <en text="Deinterlacing"/>
+ <it text="Deinterllacia"/>
+</dialog_config_pict_deint> 
+ 
+<dialog_config_pict_crop> 
+ <ru text="Обрезка"/>
+ <en text="Cropping"/>
+ <it text="Ritaglio"/>
+</dialog_config_pict_crop> 
+ 
+<dialog_config_pict_ch2>
+ <ru text="Настройки"/>
+ <en text="Adjustment"/>  
+ <it text="Adattamento"/> 
+</dialog_config_pict_ch2>
+
+<dialog_config_pict_ch3>
+ <ru text="Шаг"/>
+ <en text="Step"/>  
+ <it text="Avanzamento"/>  
+</dialog_config_pict_ch3> 
+
+<dialog_config_pict_reset>
+ <ru text="сброс"/>
+ <en text="reset"/>  
+ <it text="azzerare"/>  
+</dialog_config_pict_reset> 
+
+<!-- Config dialog input -->
+<dialog_config_input_profile>
+ <ru text="Профиль"/>
+ <en text="Profile"/>  
+ <it text="Profilo"/> 
+</dialog_config_input_profile> 
+
+<dialog_config_input_use_vkey>
+ <ru text="Использовать только виртуальные коды"/>
+ <en text="Use only virtual key codes"/>  
+ <it text="Utilizzare solo virtual key codes"/> 
+</dialog_config_input_use_vkey> 
+ 
+<dialog_config_input_warn_1>
+ <ru text="Выберите действие и нажмите клавишу на клавиатуре,мыши или ПДУ\nДвойной клик левой клавишей- очистить клавиши\nДвойной клик правой клавишей - восстановить умолчания"/>
+ <en text="Select the action and press a key on the keyboard, mouse or remote control\nTo clean the keys, double click the left mouse button\nTo restore the default, double click the right mouse button"/>  
+ <it text="Selezionare l'azione e premere un tasto sulla tastiera, mouse o telecomando\nPer pulire i tasti, fare doppio clic con il pulsante sinistro del mouse\nPer ripristinare l'impostazione predefinita, fare doppio clic con il pulsante destro del mouse"/> 
+</dialog_config_input_warn_1>
+
+<dialog_config_input_cant_save>
+ <ru text="Не могу сохранить профиль"/>
+ <en text="Can't save the profile"/>  
+ <it text="Impossibile salvare il profilo"/> 
+</dialog_config_input_cant_save>
+
+<dialog_config_input_cant_load>
+ <ru text="Не могу загрузить профиль"/>
+ <en text="Can't load the profile"/>  
+ <it text="Impossibile caricare il profilo"/>  
+</dialog_config_input_cant_load>
+
+<dialog_config_input_list_action>
+ <ru text="Действие"/>
+ <en text="Action"/> 
+ <it text="Azione"/> 
+</dialog_config_input_list_action> 
+
+<dialog_config_input_list_key>
+ <ru text="Клавиша"/>
+ <en text="Key"/> 
+ <it text="Chiave"/> 
+</dialog_config_input_list_key> 
+
+<dialog_config_input_list_remote_key>
+ <ru text="Клавиша ПДУ"/>
+ <en text="Key of remote"/> 
+ <it text="Chiave del telecomando"/> 
+</dialog_config_input_list_remote_key> 
+
+<dialog_config_input_list_xmouse>
+ <ru text="X mouse"/>
+ <en text="X mouse"/> 
+ <it text="X mouse"/> 
+</dialog_config_input_list_xmouse> 
+
+<dialog_config_input_cant_load_default_profile>
+ <ru text="Не могу загрузить профиль по умолчанию"/>
+ <en text="Can't load the default profile"/>  
+ <it text="Impossibile caricare il profilo di default"/>  
+</dialog_config_input_cant_load_default_profile> 
+
+<dialog_config_input_dialog_profile>
+ <ru text="Введите имя профиля"/>
+ <en text="Enter a name of profile"/>  
+ <it text="Immettere il nome del profilo"/> 
+</dialog_config_input_dialog_profile>
+
+
+ <!-- Config dialog lirc --> 
+<dialog_config_lirc_ch1>
+ <ru text="WinLirc"/>
+ <en text="WinLirc"/>  
+ <it text="WinLirc"/>  
+</dialog_config_lirc_ch1>
+
+<dialog_config_lirc_use>
+ <ru text="Использовать WinLIRC"/>
+ <en text="Use WinLirc"/>
+ <it text="Usa WinLirc"/>
+</dialog_config_lirc_use> 
+
+<dialog_config_lirc_adr>
+ <ru text="Адрес"/>
+ <en text="Address"/>  
+ <it text="Indirizzo"/> 
+</dialog_config_lirc_adr>
+ 
+<dialog_config_lirc_port>
+ <ru text="Порт"/>
+ <en text="Port"/>  
+ <it text="Porta"/> 
+</dialog_config_lirc_port> 
+ 
+<dialog_config_lirc_autorun>
+ <ru text="авто запуск"/>
+ <en text="autorun"/> 
+ <it text="autorun"/> 
+</dialog_config_lirc_autorun> 
+ 
+ <dialog_config_lirc_use_repeat>
+ <ru text="Ипользовать код повтора"/>
+ <en text="Use a repeat code"/> 
+ <it text="Usare un codice di ripetizione"/> 
+</dialog_config_lirc_use_repeat> 
+ 
+<dialog_config_lirc_delay_before>
+ <ru text="Задержка перед повтором"/>
+ <en text="Delay before repeating"/>  
+ <it text="Ritardo prima di ripetere"/>  
+</dialog_config_lirc_delay_before> 
+ 
+<dialog_config_lirc_delay_rep>
+ <ru text="Задержка повтора"/>
+ <en text="Repeat delay"/>  
+ <it text="Ripetere ritardo"/> 
+</dialog_config_lirc_delay_rep> 
+ 
+<dialog_config_lirc_reset>
+ <ru text="Исходные"/>
+ <en text="Reset"/>  
+ <it text="Azzerare"/> 
+</dialog_config_lirc_reset>
+
+<dialog_config_lirc_file_filter>
+ <ru text="exe(*.exe)|*.exe|Все файлы(*.*)|*.*||"/>
+ <en text="exe(*.exe)|*.exe|All files(*.*)|*.*||"/>  
+ <it text="exe(*.exe)|*.exe|Tutti i files(*.*)|*.*||"/> 
+</dialog_config_lirc_file_filter>
+
+<!-- Config dialog mouse -->
+<dialog_config_mouse_ch1>
+ <ru text="Мышь"/>
+ <en text="Mouse"/>  
+ <it text="Mouse"/>  
+</dialog_config_mouse_ch1>
+
+<dialog_config_mouse_one_click>
+ <ru text="Переключение канала одним кликом"/>
+ <en text="Switching the channel by one click"/>  
+ <it text="Cambiare il canale con un click"/>  
+</dialog_config_mouse_one_click> 
+
+<dialog_config_mouse_wheel>
+ <ru text="Ускорение колеса мыши"/>
+ <en text="The acceleration of the mouse wheel"/>  
+ <it text="Accelerazione della rotellina del mouse"/>  
+</dialog_config_mouse_wheel> 
+
+<dialog_config_mouse_hide>
+ <ru text="Скрывать мышь в полноэкранном режиме"/>
+ <en text="Hide the mouse in fullscreen mode"/>  
+ <it text="Nascondere il mouse in modalità schermo intero"/>
+</dialog_config_mouse_hide> 
+
+<dialog_config_mouse_cursor_follow>
+ <ru text="Курсор следует за мышью"/>
+ <en text="The cursor follows the mouse"/>  
+ <it text="Il cursore segue il mouse"/> 
+</dialog_config_mouse_cursor_follow> 
+
+<dialog_config_mouse_epg>
+ <ru text="Показывать программу"/>
+ <en text="Show EPG"/>  
+ <it text="Mostra EPG"/> 
+</dialog_config_mouse_epg> 
+
+<!-- Config dialog input ext -->
+
+<dialog_config_input_ext_ch1>
+ <ru text="Настройка управления (дополнительно)"/>
+ <en text="Control Settings (Addition)"/>  
+ <it text="Impostazioni di controllo (Opzionale)"/>  
+</dialog_config_input_ext_ch1> 
+ 
+<dialog_config_input_ext_esc>
+ <ru text="Ecs - выход из полноэкраного режима"/>
+ <en text="Esc - Exit from fullscreen mode"/>  
+ <it text="Esc (key tastiera) - Uscire dalla modalità fullscreen"/> 
+</dialog_config_input_ext_esc> 
+ 
+ <dialog_config_input_ext_record>
+ <ru text="Кнопка запись - режим &apos;старт-стоп&apos;"/>
+ <en text="Record button - Enable &apos;Start/Stop&apos; mode"/>  
+ <it text="Pulsante Registra - Abilita &apos;Start/Stop&apos; modo"/>
+</dialog_config_input_ext_record> 
+ 
+<!-- Config dialog network -->
+ 
+<dialog_config_network_ch1>
+ <ru text="Настройка сети"/>
+ <en text="Network settings"/>  
+ <it text="Impostazioni di rete"/> 
+</dialog_config_network_ch1> 
+ 
+<dialog_config_network_device>
+ <ru text="Сетевой интерфейс"/>
+ <en text="Network interface"/>  
+ <it text="Interfaccia di rete"/>
+</dialog_config_network_device> 
+ 
+ <!-- Config dialog caching -->
+ 
+<dialog_config_caching_ch1>
+ <ru text="Кеширование"/>
+ <en text="Caching"/>
+ <it text="Caching Streaming (Impostare i parametri della cache)"/>
+</dialog_config_caching_ch1>
+
+<dialog_config_caching_rtp>
+ <ru text="Размер кеша rtp"/>
+ <en text="Cache size rtp"/>
+ <it text="Dim.cache RTP"/>
+</dialog_config_caching_rtp> 
+ 
+<dialog_config_caching_udp>
+ <ru text="Размер кеша udp"/>
+ <en text="Cache size udp"/>
+ <it text="Dim.cache UDP"/>
+</dialog_config_caching_udp> 
+ 
+<dialog_config_caching_mms>
+ <ru text="Размер кеша mms"/>
+ <en text="Cache size mms"/>
+ <it text="Dim.cache MMS"/>
+</dialog_config_caching_mms> 
+ 
+<dialog_config_caching_http>
+ <ru text="Размер кеша http"/>
+ <en text="Cache size http"/>
+ <it text="Dim.cache HTTP"/>
+</dialog_config_caching_http> 
+ 
+<dialog_config_caching_rtsp>
+ <ru text="Размер кеша rtsp"/>
+ <en text="Cache size rtsp"/>
+ <it text="Dim.cache RTPS"/>
+</dialog_config_caching_rtsp> 
+ 
+<dialog_config_caching_file>
+ <ru text="Размер кеша файла"/>
+ <en text="Cache size files"/>
+ <it text="Dim.cache FILES"/>
+</dialog_config_caching_file> 
+ 
+<dialog_config_caching_rtmp>
+ <ru text="Размер кеша rtmp"/>
+ <en text="Cache size rtmp"/>
+ <it text="Dim.cache RTMP"/>
+</dialog_config_caching_rtmp> 
+ 
+<!-- Config dialog udp proxy -->
+ 
+<dialog_config_udp_proxy_ch1>
+ <ru text="IPTV UDP Multicast to HTTP Proxy Address"/>
+ <en text="IPTV UDP Multicast to HTTP Proxy Address"/>
+ <it text="IPTV UDP Multicast per HTTP Proxy Indirizzo"/>
+</dialog_config_udp_proxy_ch1> 
+
+<dialog_config_udp_proxy_use>
+ <ru text="Использовать 'IPTV UDP Multicast to HTTP Proxy Address'"/>
+ <en text="Use 'IPTV UDP Multicast to HTTP Proxy Address'"/>
+ <it text="Utilizzare 'IPTV UDP Multicast per HTTP Proxy Indirizzo'"/>
+</dialog_config_udp_proxy_use> 
+ 
+<dialog_config_udp_proxy_adr>
+ <ru text="Адрес"/>
+ <en text="Address"/>
+ <it text="Indirizzo"/>
+</dialog_config_udp_proxy_adr> 
+ 
+<dialog_config_udp_proxy_port>
+ <ru text="Порт"/>
+ <en text="Port"/>
+ <it text="Porta"/>
+</dialog_config_udp_proxy_port> 
+ 
+<dialog_config_udp_proxy_warn>
+ <ru text="Если на Вашем маршрутизаторе включен 'IPTV UDP Multicast to HTTP Proxy' введите адрес вашего маршрутизатора и порт, чтобы IPTV нормально показывало по WiFi."/>
+ <en text="If your router is on 'IPTV UDP Multicast to HTTP Proxy' enter the address of your router and port that normally showed IPTV over WiFi."/>
+ <it text="Se il router è acceso 'IPTV UDP Multicast per HTTP Proxy' Inserire l'indirizzo del router e la porta che normalmente ha mostrato IPTV su WiFi."/>
+</dialog_config_udp_proxy_warn> 
+
+<!-- Config dialog http proxy -->
+ 
+<dialog_config_http_proxy_ch1>
+ <ru text="HTTP Proxy"/>
+ <it text="HTTP Proxy"/>
+</dialog_config_http_proxy_ch1> 
+
+<dialog_config_http_proxy_use>
+ <ru text="Использовать HTTP Proxy"/>
+ <it text="Usa HTTP Proxy"/>
+</dialog_config_http_proxy_use>
+
+<dialog_config_http_proxy_adr>
+  <ru text="Адрес"/>
+  <it text="Indirizzo"/>
+</dialog_config_http_proxy_adr>
+ 
+<dialog_config_http_proxy_pwd>
+  <ru text="Пароль"/>
+  <it text="Password"/>
+</dialog_config_http_proxy_pwd>
+
+<!-- Config dialog OSD -->
+ 
+<dialog_config_osd_ch1>
+ <ru text="Настройка OSD"/>
+ <en text="OSD settings"/>
+ <it text="Impostazioni OSD"/>
+</dialog_config_osd_ch1> 
+
+<dialog_config_osd_use>
+ <ru text="Использовать OSD"/>
+ <en text="Use OSD"/>
+ <it text="Usa OSD"/>
+</dialog_config_osd_use> 
+
+<dialog_config_osd_time>
+ <ru text="Время видимости"/>
+ <en text="OSD Time"/>
+ <it text="OSD Ora"/>
+</dialog_config_osd_time> 
+
+<dialog_config_osd_time_epg>
+ <ru text="Время видимости программы"/>
+ <en text="OSD EPG Time"/>
+ <it text="OSD EPG Ora"/>
+</dialog_config_osd_time_epg> 
+
+<dialog_config_osd_scale_for_tree>
+ <ru text="Масштабировать изображение для плейлиста"/>
+ <it text="Scalare l'immagine a una playlist"/>
+</dialog_config_osd_scale_for_tree>
+
+<dialog_config_osd_ch2>
+ <ru text="Размер"/>
+ <en text="Size"/>
+ <it text="Dimensione"/>
+</dialog_config_osd_ch2> 
+
+<dialog_config_osd_profile>
+ <ru text="Профиль"/>
+ <en text="Profile"/>
+ <it text="Profilo"/>
+</dialog_config_osd_profile> 
+
+<dialog_config_osd_size_logo>
+ <ru text="Размер иконки"/>
+ <en text="Icon size"/>
+ <it text="Dimensioni icona"/>
+</dialog_config_osd_size_logo> 
+
+<dialog_config_osd_color_font>
+ <ru text="Цвет шрифта"/>
+ <en text="Font color"/>
+ <it text="Colore carattere"/>
+</dialog_config_osd_color_font> 
+
+<dialog_config_osd_glow_color>
+ <ru text="Подсветка"/>
+ <en text="Glow color"/>
+ <it text="Colore brillante"/>
+</dialog_config_osd_glow_color> 
+
+<dialog_config_osd_font>
+ <ru text="Шрифт"/>
+ <en text="Font"/>
+ <it text="Carattere"/>
+</dialog_config_osd_font> 
+
+<dialog_config_osd_example>
+ <ru text="Пример шрифта"/>
+ <en text="Example of the font"/>
+ <it text="Esempio di carattere"/>
+</dialog_config_osd_example> 
+
+<dialog_config_osd_ch3>
+ <ru text="Фон"/>
+ <en text="Background"/> 
+ <it text="Sfondo"/> 
+</dialog_config_osd_ch3> 
+ 
+<dialog_config_osd_back_type>
+ <ru text="Тип"/>
+ <en text="Mode"/> 
+ <it text="Modo"/> 
+</dialog_config_osd_back_type> 
+
+<dialog_config_osd_back_effect>
+ <ru text="Эффект"/>
+ <en text="Effect"/>
+ <it text="Effetto"/>
+</dialog_config_osd_back_effect> 
+
+<dialog_config_osd_transparency>
+ <ru text="Прозрачность"/>
+ <en text="Transparency"/>
+ <it text="Transparenza"/>
+</dialog_config_osd_transparency> 
+
+<dialog_config_osd_start_color>
+ <ru text="Начальный цвет"/>
+ <en text="First color"/>
+ <it text="Primo colore"/>
+</dialog_config_osd_start_color> 
+
+<dialog_config_osd_sec_color>
+ <ru text="Конечный цвет"/>
+ <en text="Second color"/>
+ <it text="Secondo colore"/>
+</dialog_config_osd_sec_color> 
+
+<dialog_config_osd_profile_0>
+ <ru text="Оконный"/>
+ <en text="Window"/>
+ <it text="Finestra"/>
+</dialog_config_osd_profile_0> 
+
+<dialog_config_osd_profile_1>
+ <ru text="Полноэкранный"/>
+ <en text="Fullscreen"/>
+ <it text="Schermo intero"/>
+</dialog_config_osd_profile_1>
+
+<dialog_config_osd_back_transparency>
+ <ru text="Прозрачность"/>
+ <en text="Transparency"/>
+ <it text="Trasparenza"/>
+</dialog_config_osd_back_transparency> 
+ 
+<dialog_config_osd_back_glass>
+ <ru text="Прозрачность+стекло"/>
+ <en text="Transparency+glass"/>
+ <it text="Trasparenza+vetro"/>
+</dialog_config_osd_back_glass> 
+ 
+<!-- Config dialog PIP -->
+ 
+<dialog_config_pip_ch1>
+ <ru text="PiP"/>
+ <en text="PiP"/>
+ <it text="PiP"/>
+</dialog_config_pip_ch1> 
+ 
+<dialog_config_pip_ch2>
+ <ru text="Положение"/>
+ <en text="Position"/>,
+ <it text="Posizione"/>
+</dialog_config_pip_ch2> 
+
+<dialog_config_pip_size>
+ <ru text="Размер"/>
+ <en text="Size"/>
+ <it text="Dimensione"/>
+</dialog_config_pip_size> 
+
+<dialog_config_pip_persent>
+ <ru text="в процентах от основного окна"/>
+ <en text="as a percentage of the main window"/>
+ <it text="come percentuale della finestra principale"/>
+</dialog_config_pip_persent> 
+
+<dialog_config_pip_permanent>
+ <ru text="постоянный"/>
+ <en text="permanent"/>
+ <it text="permanente"/>
+</dialog_config_pip_permanent> 
+
+<dialog_config_pip_w_x_h>
+ <ru text="Высота X ширина"/>
+ <en text="Height X width"/>
+ <it text="Altezza X larghezza"/>
+</dialog_config_pip_w_x_h> 
+
+<dialog_config_pip_show_epg>
+ <ru text="показывать программу"/>
+ <en text="Show EPG"/>
+ <it text="Mostra EPG"/>
+</dialog_config_pip_show_epg> 
+
+<dialog_config_pip_border>
+ <ru text="Рамка"/>
+ <en text="Border"/>
+ <it text="Bordo"/>
+</dialog_config_pip_border> 
+
+<dialog_config_pip_border_depends_size>
+ <ru text="зависит от размера"/>
+ <en text="depends on the size"/> 
+ <it text="dipende dalla dimensione"/> 
+</dialog_config_pip_border_depends_size> 
+ 
+<dialog_config_pip_allways>
+ <ru text="всегда"/>
+ <en text="allways"/> 
+ <it text="sempre"/> 
+</dialog_config_pip_allways> 
+
+<dialog_config_pip_anim>
+ <ru text="анимация"/>
+ <en text="animation"/>  
+ <it text="animazione"/>  
+</dialog_config_pip_anim> 
+ 
+<dialog_config_pip_use_adr>
+ <ru text="использовать адрес MPiP/PiP"/>
+ <en text="use the address MPiP/PiP"/>  
+ <it text="usa l'indirizzo MPiP/PiP"/> 
+</dialog_config_pip_use_adr>
+ 
+<!-- Config dialog MPIP -->
+
+<dialog_config_mpip_ch1>
+ <ru text="Multi PiP"/>
+ <en text="Multi PiP"/>
+ <it text="Multi PiP"/>
+</dialog_config_mpip_ch1> 
+
+<dialog_config_mpip_num_win>
+ <ru text="Кол-во окон"/>
+ <en text="Number of windows"/>
+ <it text="Numero di finestre"/>
+</dialog_config_mpip_num_win> 
+ 
+<dialog_config_mpip_max_size>
+ <ru text="Макс. размер окна"/>
+ <en text="Max. window size"/>
+ <it text="Max. dimensione della finestra"/>
+</dialog_config_mpip_max_size> 
+
+<!-- Config dialog control panel -->
+
+<dialog_config_cpanel_ch1>
+ <ru text="Панель управления"/>
+ <en text="Control panel"/>
+ <it text="Pannello di controllo"/>
+</dialog_config_cpanel_ch1> 
+ 
+<dialog_config_cpanel_show>
+ <ru text="Показывать"/>
+ <en text="Show"/>
+ <it text="Mostra"/>
+</dialog_config_cpanel_show> 
+
+<dialog_config_cpanel_pos>
+ <ru text="Расположение"/>
+ <en text="Position"/>
+ <it text="Posizione"/>
+</dialog_config_cpanel_pos> 
+
+<dialog_config_cpanel_effect>
+ <ru text="Эффект"/>
+ <en text="Effect"/>
+ <it text="Effetto"/>
+</dialog_config_cpanel_effect> 
+
+<dialog_config_cpanel_allways>
+ <ru text="Всегда"/>
+ <en text="Allways"/>
+ <it text="Sempre"/>
+</dialog_config_cpanel_allways> 
+
+<dialog_config_cpanel_main_panel_off>
+ <ru text="Если отключена основная панель"/>
+ <en text="If you turn off the main panel"/>
+ <it text="Se si spegne il pannello principale"/>
+</dialog_config_cpanel_main_panel_off> 
+
+<dialog_config_cpanel_fullscr>
+ <ru text="В полноэкранном режиме"/>
+ <en text="In fullscreen"/>
+ <it text="A schermo intero"/>
+</dialog_config_cpanel_fullscr> 
+
+<dialog_config_cpanel_disabled>
+ <ru text="Отключено"/>
+ <en text="Disabled"/>
+ <it text="Disabilitato"/>
+</dialog_config_cpanel_disabled> 
+
+<dialog_config_cpanel_up>
+ <ru text="Сверху"/>
+ <en text="Top"/>
+ <it text="Dall'alto"/>
+</dialog_config_cpanel_up> 
+
+<dialog_config_cpanel_down>
+ <ru text="Снизу"/>
+ <en text="Bottom"/> 
+ <it text="Dal basso"/> 
+</dialog_config_cpanel_down> 
+
+<dialog_config_cpanel_scrool>
+ <ru text="Свертывание"/>
+ <en text="Scroll"/> 
+ <it text="Scorrere"/> 
+</dialog_config_cpanel_scrool> 
+
+<dialog_config_cpanel_fade>
+ <ru text="Прозрачность(Vista и выше)"/>
+ <en text="Fade(Vista and above)"/> 
+ <it text="Dissolvenza (Vista e sopra)"/> 
+</dialog_config_cpanel_fade> 
+
+<dialog_config_cpanel_compression>
+ <ru text="Cжатие(Vista и выше)"/>
+ <en text="Compression(Vista and above)"/> 
+ <it text="Compressione(Vista e sopra)"/>
+</dialog_config_cpanel_compression> 
+
+<!-- Config dialog control panel -->
+
+<dialog_config_wallpaper_ch1>
+ <ru text="Логотип"/>
+ <en text="Wallpaper"/> 
+ <it text="Sfondo"/> 
+</dialog_config_wallpaper_ch1> 
+ 
+<dialog_config_wallpaper_type>
+ <ru text="Тип картинки"/>
+ <en text="Picture type"/> 
+ <it text="Tipo di immagine"/> 
+</dialog_config_wallpaper_type> 
+
+<dialog_config_wallpaper_orig_size>
+ <ru text="оригинальный размер"/>
+ <en text="original size"/> 
+ <it text="Dimensioni originali"/> 
+</dialog_config_wallpaper_orig_size> 
+
+<dialog_config_wallpaper_stretch>
+ <ru text="растягивать на полный экран"/>
+ <en text="stretch to full screen"/> 
+ <it text="Estendere a schermo intero"/> 
+</dialog_config_wallpaper_stretch> 
+
+<dialog_config_wallpaper_pict>
+ <ru text="Картинка"/>
+ <en text="Path"/> 
+ <it text="Percorso"/> 
+</dialog_config_wallpaper_pict> 
+
+<dialog_config_wallpaper_back>
+ <ru text="Фон"/>
+ <en text="Background"/>  
+ <it text="Sfondo"/>  
+</dialog_config_wallpaper_back> 
+ 
+<dialog_config_wallpaper_fcolor>
+ <ru text="Начальный цвет"/>
+ <en text="First color"/>  
+ <it text="Primo colore"/>  
+</dialog_config_wallpaper_fcolor> 
+ 
+<dialog_config_wallpaper_scolor>
+ <ru text="Конечный цвет"/>
+ <en text="Second color"/>  
+ <it text="Secondo colore"/> 
+</dialog_config_wallpaper_scolor> 
+ 
+<!-- Config dialog playlist -->
+
+<dialog_config_pls_ch1>
+ <ru text="Настройка плейлиста"/>
+ <en text="Playlist settings"/>  
+ <it text="Playlist impostazioni"/>  
+</dialog_config_pls_ch1> 
+ 
+<dialog_config_pls_fav>
+ <ru text="Использовать &quot;любымие каналы&quot;"/>
+ <en text="Enable &quot;Favorite&quot; option"/>  
+ <it text="Abilita &quot;canali preferiti&quot; opzione"/>  
+</dialog_config_pls_fav> 
+
+<dialog_config_pls_on_top>
+ <ru text="Плейлист всегда поверх основного окна"/>
+ <en text="Playlist is always on top of the main window"/>  
+ <it text="Playlist è sempre sulla parte superiore della finestra"/> 
+</dialog_config_pls_on_top> 
+
+<dialog_config_pls_without_group>
+ <ru text="Без групп"/>
+ <en text="Without groups"/>  
+ <it text="Senza gruppi"/>  
+</dialog_config_pls_without_group> 
+
+<dialog_config_pls_logo_size>
+ <ru text="Размер иконки"/>
+ <en text="Logo size"/>  
+ <it text="Dimensione Logo"/>  
+</dialog_config_pls_logo_size> 
+
+<dialog_config_pls_ch_font>
+ <ru text="Выбрать шрифт"/>
+ <en text="Choose font"/>  
+ <it text="Scegli carattere"/> 
+</dialog_config_pls_ch_font>
+
+<dialog_config_pls_font>
+ <ru text="Шрифт"/>
+ <en text="Font"/>  
+ <it text="Carattere"/>  
+</dialog_config_pls_font>
+
+<!-- Config dialog skin -->
+<dialog_config_skin_ch1>
+ <ru text="Скин"/>
+ <en text="Skin Settings"/>  
+ <it text="Skin Impostazioni"/>  
+</dialog_config_skin_ch1> 
+
+<dialog_config_skin_author>
+ <ru text="Автор"/>
+ <en text="Author"/>  
+ <it text="Autore"/> 
+</dialog_config_skin_author> 
+
+<dialog_config_skin_file_filter>
+ <ru text="Скин(*.xml)|*.xml|Все файлы(*.*)|*.*||"/>
+ <en text="Skin(*.xml)|*.xml|All files(*.*)|*.*||"/>  
+ <it text="Skin(*.xml)|*.xml|Tutti i files(*.*)|*.*||"/> 
+</dialog_config_skin_file_filter>
+
+<!-- Config dialog sound -->
+
+<dialog_config_sound_ch1>
+ <ru text="Настройка звука"/>
+ <en text="Audio Settings"/>  
+ <it text="Impostazioni Audio"/> 
+</dialog_config_sound_ch1> 
+
+<dialog_config_sound_output>
+ <ru text="Звуковое устройство"/>
+ <en text="Audio output"/>  
+ <it text="Audio uscita"/> 
+</dialog_config_sound_output> 
+
+<dialog_config_sound_output_module>
+ <ru text="Модуль вывода"/>
+ <it text="Uscita modulo"/>  
+</dialog_config_sound_output_module>
+
+<dialog_config_sound_output_directx>
+ <ru text="Звуковое устройство DirectX"/>
+ <it text="Dispositivo Audio DirectX"/>  
+</dialog_config_sound_output_directx> 
+
+<dialog_config_sound_output_wave>
+ <ru text="Звуковое устройство Wave"/>
+ <it text="Dispositivo Audio Wave"/>  
+</dialog_config_sound_output_wave> 
+
+ 
+<dialog_config_sound_use_eq>
+ <ru text="Эквалайзер"/>
+ <en text="Use Equalizer"/>  
+ <it text="Usa Equalizzatore"/> 
+</dialog_config_sound_use_eq> 
+ 
+<dialog_config_sound_two_pass_eq>
+ <ru text="Эквалайзер два прохода"/>
+ <en text="Two pass Eq"/>  
+ <it text="Two pass Eq (2 passaggi)"/> 
+</dialog_config_sound_two_pass_eq> 
+ 
+<!-- Config dialog vout -->
+
+<dialog_config_vout_ch1>
+ <ru text="Вывод"/>
+ <en text="Output Settings"/>  
+ <it text="Impostazioni uscita"/> 
+</dialog_config_vout_ch1> 
+ 
+<dialog_config_vout_module>
+ <ru text="Модуль вывода"/>
+ <en text="Main output module"/>  
+ <it text="Modulo di uscita principale"/> 
+</dialog_config_vout_module> 
+ 
+<dialog_config_vout_pip_module>
+ <ru text="Модуль вывода (PiP)"/>
+ <en text="PiP output module"/>  
+ <it text="PiP modulo di uscita"/> 
+</dialog_config_vout_pip_module> 
+ 
+<dialog_config_vout_mpip_module>
+ <ru text="Модуль вывода (MultiPiP)"/>
+ <en text="MultiPiP output module"/>  
+ <it text="MultiPiP modulo di uscita"/> 
+</dialog_config_vout_mpip_module> 
+  
+<dialog_config_vout_use_overlay>
+ <ru text="Использовать overlay"/>
+ <en text="Use overlay"/>  
+ <it text="Usa Overlay"/>  
+</dialog_config_vout_use_overlay> 
+ 
+<dialog_config_vout_scale>
+ <ru text="Масштабирование видео"/>
+ <en text="Scaling video"/>  
+ <it text="Scala video"/>  
+</dialog_config_vout_scale> 
+
+<dialog_config_vout_scale_0>
+ <ru text="Быстрое билинейное"/>  
+ <en text="Fast bilinear"/>  
+ <it text="Bilinear veloce"/>  
+</dialog_config_vout_scale_0> 
+ 
+<dialog_config_vout_scale_1>
+ <ru text="Билинейное"/>  
+ <en text="Bilinear"/>  
+ <it text="Bilinear"/> 
+</dialog_config_vout_scale_1>  
+
+<dialog_config_vout_scale_2>
+ <ru text="Бикубическое(хорошее качество)"/>  
+ <en text="Bicubic (good quality)"/>  
+ <it text="Bicubic (buona qualità)"/>  
+</dialog_config_vout_scale_2>  
+ 
+<dialog_config_vout_scale_3>
+ <ru text="Экспериментальное"/>  
+ <en text="Experimental"/>  
+ <it text="Sperimentale"/> 
+</dialog_config_vout_scale_3> 
+ 
+ <dialog_config_vout_scale_4> 
+ <ru text="Ближайший сосед(плохое качество)"/>  
+ <en text="Nearest neighbour (bad quality)"/>  
+ <it text="Nearest neighbour (cattiva qualità)"/> 
+</dialog_config_vout_scale_4> 
+ 
+<dialog_config_vout_scale_5>
+ <ru text="Областное"/>  
+ <en text="Area"/>  
+ <it text="Area"/>  
+</dialog_config_vout_scale_5> 
+
+<dialog_config_vout_scale_6> 
+ <ru text="Бикубическое по яркости/бикубическое по цветности"/>  
+ <en text="Luma bicubic / chroma bilinear"/>  
+ <it text="Luma bicubic / chroma bilinear"/>  
+</dialog_config_vout_scale_6> 
+ 
+<dialog_config_vout_scale_7> 
+ <ru text="Гауссово"/>  
+ <en text="Gauss"/>  
+ <it text="Gauss"/>  
+</dialog_config_vout_scale_7> 
+
+<dialog_config_vout_scale_8> 
+ <ru text="SincR"/>  
+ <en text="SincR"/>  
+ <it text="SincR"/>  
+</dialog_config_vout_scale_8> 
+ 
+<dialog_config_vout_scale_9> 
+ <ru text="Lanczos"/>  
+ <en text="Lanczos"/>  
+ <it text="Lanczos"/>  
+</dialog_config_vout_scale_9> 
+ 
+ <dialog_config_vout_scale_10>
+ <ru text="Бикубическое кривыми"/>  
+ <en text="Bicubic spline"/>  
+ <it text="Bicubic spline"/>  
+</dialog_config_vout_scale_10>
+ 
+<!-- Config dialog directx -->
+
+<dialog_config_directx_ch1>
+ <ru text="DirectX"/>
+ <en text="DirectX"/>
+ <it text="DirectX"/>
+</dialog_config_directx_ch1> 
+ 
+<dialog_config_directx_3buff>
+ <ru text="directx - 3buffering"/>
+ <en text="directx - 3buffering"/>
+ <it text="directx - 3buffering"/>
+</dialog_config_directx_3buff>
+ 
+<dialog_config_directx_hw>
+ <ru text="directx - аппаратное преобразование hw-yuv"/>
+ <en text="directx - hardware hw-yuv conversion"/> 
+ <it text="directx - hardware hw-yuv conversione"/> 
+</dialog_config_directx_hw> 
+ 
+<dialog_config_directx_sysmem>
+ <ru text="directx - видео-буферы в системной памяти"/>
+ <en text="directx - video buffers in system memory"/>
+ <it text="directx - video buffers nella memoria del sistema"/>
+</dialog_config_directx_sysmem> 
+ 
+<!-- Config dialog modules -->
+
+<dialog_config_modules_ch1>
+ <ru text="Модули"/>
+ <en text="Modules"/> 
+ <it text="Moduli"/> 
+</dialog_config_modules_ch1> 
+  
+<dialog_config_modules_vabj>
+ <ru text="Отключить модуль настроек изображения (меньше загрузка CPU)"/>
+ <en text="Disable the picture adjustment module(less loading CPU)"/> 
+ <it text="Disattiva il modulo di regolazione dell'immagine (meno utilizzo CPU)"/> 
+</dialog_config_modules_vabj> 
+
+<dialog_config_modules_deint>
+ <ru text="Отключить модуль деинтерлейса (меньше загрузка CPU)"/>
+ <en text="Disable the deinterlacing module(less loading CPU)"/> 
+ <it text="Disattiva il modulo di deinterlacciamento (meno utilizzo CPU)"/> 
+</dialog_config_modules_deint> 
+
+<dialog_config_modules_sharp>
+ <ru text="Отключить модуль резкости (меньше загрузка CPU)"/>
+ <en text="Disable the sharpness module(less loading CPU)"/> 
+ <it text="Disattiva il modulo di nitidezza (meno utilizzo CPU)"/> 
+</dialog_config_modules_sharp> 
+ 
+<!-- Config dialog decoders -->
+
+<dialog_config_decodres_ch1>
+ <ru text="Декодеры - общее"/>
+ <en text="Decoders settings - common"/> 
+ <it text="Impostazioni Decoders - normale"/> 
+</dialog_config_decodres_ch1> 
+ 
+<dialog_config_decodres_use_dmo>
+ <ru text="Использовать системные модули (DMO) вместо VLC"/>
+ <en text="Use system modules (DMO) instead of VLC"/> 
+ <it text="Utilizza i moduli di sistema (DMO) al posto di VLC"/> 
+</dialog_config_decodres_use_dmo> 
+ 
+ <!-- Config dialog decoders ffmpeg-->
+
+<dialog_config_ffmpeg_ch1>
+ <ru text="ffmpeg - изменение параметров сильно  влияет на скорость/качество"/>
+ <en text="Changing the parameters strongly influence the quality/speed"/> 
+ <it text="La modifica dei parametri influisce notevolmente sulla velocità / qualità"/> 
+</dialog_config_ffmpeg_ch1> 
+ 
+<dialog_config_ffmpeg_skip_frame>
+ <ru text="Пропуск кадров"/>
+ <en text="Frameskip"/>  
+ <it text="Frameskip"/>  
+</dialog_config_ffmpeg_skip_frame> 
+ 
+<dialog_config_ffmpeg_skip_idct>
+ <ru text="Пропуск idct"/>
+ <en text="Skip idct"/> 
+ <it text="Skip idct"/> 
+</dialog_config_ffmpeg_skip_idct> 
+
+<dialog_config_ffmpeg_skip_filter>
+ <ru text="Пропуск loop-filter"/>
+ <en text="Skip loop-filter"/> 
+ <it text="Skip loop-filter"/> 
+</dialog_config_ffmpeg_skip_filter> 
+
+<dialog_config_ffmpeg_res>
+ <ru text="Разрешение"/>
+ <en text="Resolution"/> 
+ <it text="Risoluzione"/> 
+</dialog_config_ffmpeg_res> 
+
+<dialog_config_ffmpeg_gpu_enc>
+ <ru text="Аппаратное декодирование"/>
+ <en text="GPU decoding"/> 
+ <it text="GPU decodifica"/> 
+</dialog_config_ffmpeg_gpu_enc> 
+
+<dialog_config_ffmpeg_gpu_enc_pip>
+ <ru text="Аппаратное декодирование(PiP)"/>
+ <en text="GPU decoding(PiP)"/> 
+ <it text="GPU decodifica(PiP)"/> 
+</dialog_config_ffmpeg_gpu_enc_pip> 
+
+<dialog_config_ffmpeg_post_processing>
+ <ru text="Качество пост-обработки"/>
+ <en text="Post-processing level"/> 
+ <it text="Post-processing level"/> 
+</dialog_config_ffmpeg_post_processing> 
+
+<!-- Config dialog record-->
+
+<dialog_config_record_ch1>
+ <ru text="Параметры записи"/>
+ <en text="Recording Settings"/>  
+ <it text="Impostazioni di Registrazione"/> 
+</dialog_config_record_ch1> 
+ 
+<dialog_config_record_ch2>
+ <ru text="Запись"/>
+ <en text="Record"/>  
+ <it text="Registrazione"/>  
+</dialog_config_record_ch2> 
+ 
+<dialog_config_record_rec_folder>
+ <ru text="Папка"/>
+ <en text="Folder"/>  
+ <it text="Cartella"/>  
+</dialog_config_record_rec_folder> 
+ 
+<dialog_config_record_profile>
+ <ru text="Профиль"/>
+ <en text="Profile"/>  
+ <it text="Profilo"/>  
+</dialog_config_record_profile> 
+ 
+<dialog_config_record_wake>
+ <ru text="Разрешить  вывод из спящего режима"/>
+ <en text="Allow to wake from sleep mode"/>  
+ <it text="Permette di sospendere la modalità sleep"/>  
+</dialog_config_record_wake> 
+ 
+<dialog_config_record_pause>
+ <ru text="Режим паузы"/>
+ <en text="Pause mode"/>  
+ <it text="Modo Pausa"/>  
+</dialog_config_record_pause> 
+ 
+<dialog_config_record_rec_icon>
+ <ru text="Показывать индикатор на OSD"/>
+ <en text="Show record icon in OSD"/>   
+ <it text="Mostra l'icona record in OSD"/>  
+</dialog_config_record_rec_icon> 
+ 
+<dialog_config_record_margin>
+ <ru text="Таймер с запасом"/>
+ <en text="Timer with a margin"/>  
+ <it text="Timer con un margine"/> 
+</dialog_config_record_margin> 
+
+<dialog_config_record_ch3>
+ <ru text="Снимки"/>
+ <en text="Snapshot"/>   
+ <it text="Snapshot (Scatta foto)"/>  
+</dialog_config_record_ch3> 
+ 
+<dialog_config_record_sn_folder>
+ <ru text="Папка"/>
+ <en text="Folder"/>   
+ <it text="Cartella"/>  
+</dialog_config_record_sn_folder> 
+ 
+<dialog_config_record_format>
+ <ru text="Формат"/>
+ <en text="Format"/>   
+ <it text="Formato"/>  
+</dialog_config_record_format> 
+ 
+<dialog_config_record_preview>
+ <ru text="Предосмотр"/>
+ <en text="Preview"/>   
+ <it text="Anteprima"/>   
+</dialog_config_record_preview> 
+ 
+<dialog_config_record_width>
+ <ru text="Ширина"/>
+ <en text="Width"/>   
+ <it text="Larghezza"/> 
+</dialog_config_record_width> 
+ 
+<dialog_config_record_height>
+ <ru text="Высота"/>
+ <en text="Height"/>   
+ <it text="Altezza"/> 
+</dialog_config_record_height> 
+ 
+<dialog_config_record_choose_dir>
+ <ru text="Выберите директорию для записи"/>
+ <en text="Choose folder for recording"/>   
+ <it text="Scegli cartella per la registrazione"/>
+</dialog_config_record_choose_dir>
+ 
+<dialog_config_record_choose_dir_snapshot>
+ <ru text="Выберите директорию для снимков"/>
+ <en text="Choose folder for snapshots"/>   
+ <it text="Scegli cartella per Snaphots (Scatta foto)"/> 
+</dialog_config_record_choose_dir_snapshot>
+ 
+<!-- Config dialog epg-->
+
+<dialog_config_epg_ch1>
+ <ru text="Программа"/>
+ <en text="EPG Settings"/>
+ <it text="Impostazioni EPG"/>
+</dialog_config_epg_ch1> 
+ 
+<dialog_config_epg_delete>
+ <ru text="Удалять записи старше"/>
+ <en text="Delete data older than"/>
+ <it text="Cancella i dati di età superiore a"/>
+</dialog_config_epg_delete> 
+
+<dialog_config_epg_weeks>
+ <ru text="недель(и)"/>
+ <en text="week(s)"/>
+ <it text="settimana(e)"/>
+</dialog_config_epg_weeks> 
+
+<dialog_config_epg_offset>
+ <ru text="Сдвиг времени"/>
+ <en text="Time offset"/>
+ <it text="Differenza orario"/>
+</dialog_config_epg_offset> 
+
+<dialog_config_epg_load>
+ <ru text="Загружать только привязанные каналы"/>
+ <en text="Loading only linked EPG"/>
+ <it text="Scarica solo i canali collegati a EPG"/>
+</dialog_config_epg_load> 
+
+<dialog_config_epg_qiuck>
+ <ru text="Быстрая загрузка"/>
+ <en text="Qiuck load"/>
+ <it text="Download veloce"/>
+</dialog_config_epg_qiuck> 
+
+<dialog_config_epg_warn1>
+ <ru text="(база будет очищена перед загрузкой)"/>
+ <en text="(base will be cleared before loading)"/>
+ <it text="(DB.sarà.eliminato.prima.del.caricamento)"/>
+</dialog_config_epg_warn1> 
+
+<dialog_config_epg_sourse1>
+ <ru text="Источник 1"/>
+ <en text="Source 1"/>
+ <it text="Fonte 1"/>
+</dialog_config_epg_sourse1> 
+
+<dialog_config_epg_sourse2>
+ <ru text="Источник 2"/>
+ <en text="Source 2"/> 
+ <it text="Fonte 2"/> 
+</dialog_config_epg_sourse2> 
+ 
+<dialog_config_epg_sourse3>
+ <ru text="Источник 3"/>
+ <en text="Source 3"/> 
+ <it text="Fonte 3"/> 
+</dialog_config_epg_sourse3>
+
+<dialog_config_epg_sourse4>
+ <ru text="Источник 4"/>
+ <en text="Source 4"/> 
+ <it text="Fonte 4"/> 
+</dialog_config_epg_sourse4>
+
+<dialog_config_epg_sourse5>
+ <ru text="Источник 5"/>
+ <en text="Source 5"/> 
+ <it text="Fonte 5"/> 
+</dialog_config_epg_sourse5>
+
+<dialog_config_epg_sourse6>
+ <ru text="Источник 6"/>
+ <en text="Source 6"/> 
+ <it text="Fonte 6"/> 
+</dialog_config_epg_sourse6>
+
+<dialog_config_epg_sourse7>
+ <ru text="Источник 7"/>
+ <en text="Source 7"/> 
+ <it text="Fonte 7"/>
+</dialog_config_epg_sourse7>
+
+<dialog_config_epg_sourse8>
+ <ru text="Источник 8"/>
+ <en text="Source 8"/> 
+ <it text="Fonte 8"/> 
+</dialog_config_epg_sourse8>
+
+<dialog_config_epg_sourse9>
+ <ru text="Источник 9"/>
+ <en text="Source 9"/> 
+ <it text="Fonte 9"/> 
+</dialog_config_epg_sourse9>
+
+<dialog_config_epg_sourse10>
+ <ru text="Источник 10"/>
+ <en text="Source 10"/> 
+ <it text="Fonte 10"/> 
+</dialog_config_epg_sourse10>
+
+<dialog_config_epg_clear>
+ <ru text="Очистить базу"/>
+ <en text="Clear database"/> 
+ <it text="Cancella database"/> 
+</dialog_config_epg_clear> 
+
+<dialog_config_epg_update>
+ <ru text="Обновить"/>
+ <en text="Update now"/> 
+ <it text="Aggiorna ora"/> 
+</dialog_config_epg_update> 
+
+<dialog_config_epg_file_filter>
+ <ru text="xml(*.xml)|*.xml|Все файлы(*.*)|*.*||"/>
+ <en text="xml(*.xml)|*.xml|All files(*.*)|*.*||"/> 
+ <it text="xml(*.xml)|*.xml|Tutti i files(*.*)|*.*||"/> 
+</dialog_config_epg_file_filter>
+
+<dialog_config_epg_hour>
+ <ru text="ч"/>
+ <en text="h"/> 
+ <it text="h"/> 
+</dialog_config_epg_hour>
+
+<!-- Config dialog playback-->
+ 
+<dialog_config_playback_ch1>
+ <ru text="Настройка воспроизведения"/>
+ <en text="Playback Settings"/>
+ <it text="Impostazioni di riproduzione"/>
+</dialog_config_playback_ch1> 
+
+<dialog_config_playback_jump>
+ <ru text="Время прыжка"/>
+ <en text="Skip in time"/>
+ <it text="Skip nel tempo"/>
+</dialog_config_playback_jump> 
+
+<dialog_config_playback_long_jump>
+ <ru text="Время длинного прыжка"/>
+ <en text="Long skip in time"/>
+ <it text="Lungo Skip nel tempo"/>
+</dialog_config_playback_long_jump> 
+
+<dialog_config_playback_speed>
+ <ru text="Быстрая скорость"/>
+ <en text="Fast speed"/>
+ <it text="Alta velocità"/>
+</dialog_config_playback_speed> 
+
+<dialog_config_playback_speed_add>
+ <ru text="Прибавление скорости"/>
+ <en text="Increase speed"/>
+ <it text="Aumentare la velocità"/>
+</dialog_config_playback_speed_add> 
+
+<dialog_config_playback_save_pos>
+ <ru text="Запоминать позицию"/>
+ <en text="Save position"/>
+ <it text="Salva posizione"/>
+</dialog_config_playback_save_pos> 
+
+<dialog_config_playback_dont_stop>
+ <ru text="Не останавливать при сворачивании в трей"/>
+ <en text="Continue to play when minimized to tray"/>
+ <it text="Continua la riproduzione quando minimizzato nella tray"/>
+</dialog_config_playback_dont_stop> 
+
+<dialog_config_playback_recall>
+ <ru text="Перезапуск воспроизведения при повторном вызове"/>
+ <en text="Restart to playback when clicking on playing channel"/>
+ <it text="Riavvia la riproduzione quando si fa clic sul canale"/>
+</dialog_config_playback_recall> 
+
+<dialog_config_playback_play_to_norm_speed>
+ <ru text="Кнопка 'Play' - возврат к нормальной скорости"/>
+ <en text="Button 'Play' - set normal speed"/>
+ <it text="Buttone 'Riproduzione' - impostare la velocità normale"/>
+</dialog_config_playback_play_to_norm_speed>
+
+<dialog_config_playback_dont_autostart_last>
+ <ru text="Не начинать играть последний канал при старте"/>
+ <en text="Do not start to play the last channel on startup"/>
+ <it text="Non iniziare la riproduzione dell'ultimo canale all'avvio"/>
+</dialog_config_playback_dont_autostart_last>
+
+
+
+<!-- Config dialog timeshift-->
+ 
+<dialog_config_timeshift_ch1>
+ <ru text="Timeshift"/>
+ <en text="Timeshift"/>
+ <it text="Timeshift (metti in pausa la diretta: inizi a registrare dal momento che premi il tasto pausa)"/>
+</dialog_config_timeshift_ch1> 
+ 
+<dialog_config_timeshift_folder>
+ <ru text="Папка"/>
+ <en text="Folder"/>
+ <it text="Cartella"/>
+</dialog_config_timeshift_folder> 
+ 
+<dialog_config_timeshift_max_size>
+ <ru text="Максимальный размер временных файлов"/>
+ <en text="Maximum size for temporary files"/>
+ <it text="Dimensione massima per i file temporanei"/>
+</dialog_config_timeshift_max_size> 
+ 
+<dialog_config_timeshift_byte>
+ <ru text="байт (0 - авто)"/>
+ <en text="byte (0 - auto)"/>
+ <it text="byte (0 - auto)"/>
+</dialog_config_timeshift_byte> 
+ 
+<!-- Config dialog system-->
+ 
+<dialog_config_system_ch1>
+ <ru text="Системные настройки"/>
+ <en text="System settings"/> 
+ <it text="Impostazioni di sistema"/> 
+</dialog_config_system_ch1> 
+ 
+<dialog_config_system_watchdog>
+ <ru text="Включить watchdog"/>
+ <en text="Enable watchdog"/> 
+ <it text="Abilita watchdog"/>
+</dialog_config_system_watchdog> 
+
+<dialog_config_system_wtimer>
+ <ru text="Watchdog timer"/>
+ <en text="Watchdog timer"/> 
+ <it text="Watchdog timer"/> 
+</dialog_config_system_wtimer> 
+ 
+<!-- Config dialog import-->
+ 
+<dialog_config_import_ch1>
+ <ru text="Импорт настроек"/>
+ <en text="Import Settings"/> 
+ <it text="Importa Impostazioni"/> 
+</dialog_config_import_ch1> 
+
+<dialog_config_import_file>
+ <ru text="Файл"/>
+ <en text="Location"/> 
+ <it text="Posizione"/> 
+</dialog_config_import_file> 
+ 
+<dialog_config_import_pls>
+ <ru text="Загрузить плейлист"/>
+ <en text="Import Playlist"/> 
+ <it text="Importa Playlist"/> 
+</dialog_config_import_pls> 
+
+<dialog_config_import_setting>
+ <ru text="Загрузить настройки"/>
+ <en text="Import Settings"/> 
+ <it text="Importa Impostazioni"/>
+</dialog_config_import_setting> 
+
+<dialog_config_import_control>
+ <ru text="Загрузить управление"/>
+ <en text="Import Control"/> 
+ <it text="Import Controllo"/> 
+</dialog_config_import_control> 
+
+<dialog_config_import_ext_filter>
+ <ru text="Загрузить расширенный фильтр"/>
+ <en text="Import ExtFilter"/> 
+ <it text="Importa ExtFilter"/> 
+</dialog_config_import_ext_filter> 
+
+<dialog_config_import_logo>
+ <ru text="Загрузить логотипы"/>
+ <en text="Import logotype"/> 
+ <it text="Importa logotype"/> 
+</dialog_config_import_logo> 
+
+<dialog_config_import_button_load>
+ <ru text="Загрузить"/>
+ <en text="Impport"/> 
+ <it text="Importa"/> 
+</dialog_config_import_button_load> 
+
+<dialog_config_import_file_filter>
+ <ru text="7z(*.7z)|*.7z|mdb(*.mdb)|*.mdb|Все файлы(*.*)|*.*||"/>
+ <en text="7z(*.7z)|*.7z|mdb(*.mdb)|*.mdb|All files(*.*)|*.*||"/> 
+ <it text="7z(*.7z)|*.7z|mdb(*.mdb)|*.mdb|Tutti i files(*.*)|*.*||"/> 
+</dialog_config_import_file_filter>
+
+<dialog_config_import_error>
+ <ru text="Ошибка при импорте настроек"/>
+ <en text="Error while import"/> 
+ <it text="Errore durante l'importazione"/> 
+</dialog_config_import_error> 
+
+<dialog_config_import_cant_load_logo>
+ <ru text="Логотипы не могут быть загружены, Продолжить?"/>
+ <en text="Can't load logotype, Continue?"/> 
+ <it text="Impossibile caricare logotype, Continuare?"/> 
+</dialog_config_import_cant_load_logo>
+
+<dialog_config_import_select_more>
+ <ru text="Отметьте что надо импортировать"/>
+ <en text="Check that it is necessary to import"/> 
+ <it text="Verificare che è necessario importare"/> 
+</dialog_config_import_select_more>
+
+<!-- Config dialog export-->
+ 
+<dialog_config_export_ch1>
+ <ru text="Экспорт настроек"/>
+ <en text="Export settings"/> 
+ <it text="Esporta Impostazioni"/> 
+</dialog_config_export_ch1> 
+ 
+<dialog_config_export_file>
+ <ru text="Файл"/>
+ <en text="Location"/> 
+ <it text="Posizione"/> 
+</dialog_config_export_file> 
+
+<dialog_config_export_button_exp>
+ <ru text="Выгрузить"/>
+ <en text="Export"/> 
+ <it text="Esporta"/> 
+</dialog_config_export_button_exp> 
+
+<dialog_config_export_error>
+ <ru text="Ошибка при экспорте настроек"/>
+ <en text="Error while export"/> 
+ <it text="Errore durante l'esportazione"/> 
+</dialog_config_export_error>
+ 
+<dialog_config_export_complete>
+ <ru text="Экспорт выполнен"/>
+ <en text="Export completed"/> 
+ <it text="Esportazione completata"/> 
+</dialog_config_export_complete>
+ 
+<dialog_config_export_file_filter>
+ <ru text="7z(*.7z)|*.7z|Все файлы(*.*)|*.*||"/>
+ <en text="7z(*.7z)|*.7z|All files(*.*)|*.*||"/> 
+ <it text="7z(*.7z)|*.7z|Tutti i files(*.*)|*.*||"/> 
+</dialog_config_export_file_filter> 
+
+<!--  Input Name -->
+<input_name_common_header>
+ <ru text="------Общее управление------"/>
+ <en text="------Common control--------"/> 
+ <it text="------Normale controllo--------"/> 
+</input_name_common_header>
+
+<input_name_common_left_arrow>
+ <ru text="Стрелка влево/Канал назад"/>
+ <en text="Left Arrow/Channel Back"/> 
+ <it text="Freccia a sinistra/Canale Indietro"/> 
+</input_name_common_left_arrow> 
+ 
+<input_name_common_right_arrow>
+ <ru text="Стрелка вправо/Канал вперед"/>
+ <en text="Right Arrow/Channel Forward"/> 
+ <it text="Freccia destra/Canale in avanti"/>
+</input_name_common_right_arrow> 
+
+<input_name_common_up_arrow>
+ <ru text="Стрелка вверх"/>
+ <en text="Up arrow"/> 
+ <it text="Freccia sù"/> 
+</input_name_common_up_arrow> 
+
+<input_name_common_down_arrow>
+ <ru text="Стрелка вниз"/>
+ <en text="Down arrow"/> 
+ <it text="Freccia giù"/> 
+</input_name_common_down_arrow>
+
+<input_name_common_channel_back>
+ <ru text="Канал назад"/>
+ <en text="Channel Back"/> 
+ <it text="Canale Indietro"/> 
+</input_name_common_channel_back> 
+
+<input_name_common_channel_forward>
+ <ru text="Канал вперед"/>
+ <en text="Channel Forward"/> 
+ <it text="Canale in avanti"/> 
+</input_name_common_channel_forward>
+
+<input_name_common_prev_channel>
+ <ru text="Предыдущий канал"/>
+ <en text="Previous channel"/> 
+ <it text="Canale precedente"/> 
+</input_name_common_prev_channel> 
+
+<input_name_common_ok>
+ <ru text="Enter/Ok"/>
+ <en text="Enter/Ok"/> 
+ <it text="Enter/OK"/> 
+</input_name_common_ok> 
+
+<input_name_common_esc>
+ <ru text="Esc/Return"/>
+ <en text="Esc/Return"/>
+ <it text="Esc/Return"/>
+</input_name_common_esc>
+
+<input_name_common_type_pls>
+ <ru text="Переключить тип плейлиста"/>
+ <en text="Switching playlist tabs"/> 
+ <it text="Passa a playlists schede"/>
+</input_name_common_type_pls> 
+
+<input_name_common_fav>
+ <ru text="Любимые каналы"/>
+ <en text="Favorite channels"/> 
+ <it text="Canali preferiti"/> 
+</input_name_common_fav> 
+
+<input_name_common_setting>
+ <ru text="Настройки"/>
+ <en text="Preferences"/>  
+ <it text="Preferenze"/>  
+</input_name_common_setting> 
+
+<input_name_common_exit>
+ <ru text="Выход из программы"/>
+ <en text="Exit"/>  
+ <it text="Uscita"/>  
+</input_name_common_exit>
+  
+<input_name_view_header>
+ <ru text="-------------Вид------------------"/>
+ <en text="-------------View-----------------"/>  
+ <it text="-------------Vista-----------------"/>  
+</input_name_view_header> 
+
+<input_name_view_min_to_tray>
+ <ru text="Свернуть в tray"/>
+ <en text="Minimize to tray"/>
+ <it text="Riduci a icona nella tray"/>
+</input_name_view_min_to_tray> 
+ 
+<input_name_view_minimize>
+ <ru text="Свернуть окно"/>
+ <en text="Minimize the window"/>  
+ <it text="Riduci la finestra"/>
+</input_name_view_minimize> 
+ 
+<input_name_view_fullscr>
+ <ru text="Вкл/выкл fullscreen"/>
+ <en text="Fullscreen"/>  
+ <it text="Schermo Intero"/>  
+</input_name_view_fullscr> 
+ 
+<input_name_view_compact>
+ <ru text="Вкл/выкл компактный режим"/>
+ <en text="Switch compact mode"/>  
+ <it text="Passa a modalità compatta"/> 
+</input_name_view_compact> 
+ 
+ <input_name_view_on_top>
+ <ru text="Поверх всех окон"/>
+ <en text="On top"/>  
+ <it text="In cima a tutte le finestre"/>  
+</input_name_view_on_top> 
+ 
+<input_name_view_show_pls>
+ <ru text="Показать/скрыть плейлист"/>
+ <en text="Show/hide playlist"/>  
+ <it text="Mostra/Nascondi playlist"/> 
+</input_name_view_show_pls> 
+ 
+<input_name_view_cpanel>
+ <ru text="Панель управления"/>
+ <en text="Control panel"/>  
+ <it text="Pannello di Controllo"/>  
+</input_name_view_cpanel>
+ 
+<input_name_power_header>
+ <ru text="------------Выключение---------"/>
+ <en text="------------Power--------------"/>  
+ <it text="------------Power--------------"/> 
+ </input_name_power_header>
+  
+<input_name_power_sleep>
+ <ru text="Sleep таймер"/>
+ <en text="Sleep timer"/>    
+ <it text="Sleep timer"/>
+</input_name_power_sleep> 
+
+ <input_name_power_exit>
+ <ru text="Таймер выхода"/>
+ <it text="Uscita timer"/>    
+</input_name_power_exit>
+ 
+<input_name_power_hibernates>
+ <ru text="Sleep / Hibernates"/>
+ <en text="Sleep / Hibernates"/>    
+ <it text="Sleep / Hibernates"/>  
+</input_name_power_hibernates> 
+
+<input_name_power_off>
+ <ru text="Выключить компьютер"/>
+ <en text="Shutdown the computer"/>    
+ <it text="Spegnere il computer"/>  
+</input_name_power_off> 
+
+<input_name_playback_header>
+ <ru text="------Воспроизведение-------"/>
+ <en text="---------Playback-----------"/>     
+ <it text="---------Riproduci-----------"/>     
+</input_name_playback_header> 
+   
+<input_name_playback_restart>
+ <ru text="Рестарт"/>
+ <en text="Restart"/>     
+ <it text="Riavvia"/> 
+</input_name_playback_restart> 
+
+<input_name_playback_stop>
+ <ru text="Стоп"/>
+ <en text="Stop"/>     
+ <it text="Stop"/> 
+</input_name_playback_stop> 
+
+<input_name_playback_play>
+ <ru text="Плей/Пауза"/>
+ <en text="Play/Pause"/>     
+ <it text="Riproduci/Pausa"/>  
+</input_name_playback_play> 
+
+<input_name_playback_faster>
+ <ru text="Быстрее"/>
+ <en text="Faster"/>     
+ <it text="Veloce"/>  
+</input_name_playback_faster> 
+
+<input_name_playback_slow>
+ <ru text="Медленнее"/>
+ <en text="Slower"/>     
+ <it text="Lento"/>    
+</input_name_playback_slow> 
+
+<input_name_playback_jump_ff>
+ <ru text="Прыжок вперед"/>
+ <en text="Jump forward"/>   
+ <it text="Salto in avanti"/> 
+</input_name_playback_jump_ff>
+ 
+<input_name_playback_jump_rew>
+ <ru text="Прыжок назад"/>
+ <en text="Jump backward"/>     
+ <it text="Salto in indietro"/>  
+</input_name_playback_jump_rew> 
+
+<input_name_playback_ljump_ff>
+ <ru text="Длинный прыжок вперед"/>
+ <en text="Long jump forward"/>     
+ <it text="Salto lungo in avanti"/>
+</input_name_playback_ljump_ff> 
+ 
+<input_name_playback_ljump_rew>
+ <ru text="Длинный прыжок назад"/>
+ <en text="Long jump backward"/>
+ <it text="Salto lungo in indietro"/>
+</input_name_playback_ljump_rew> 
+ 
+<input_name_playback_norm_speed>
+ <ru text="Нормальная скорость"/>
+ <en text="Normal speed"/>     
+ <it text="Velocità normale"/>
+</input_name_playback_norm_speed> 
+ 
+<input_name_playback_fast_speed>
+ <ru text="Быстрая скорость"/>
+ <en text="Fast speed"/>     
+ <it text="Alta velocità"/> 
+</input_name_playback_fast_speed> 
+ 
+<input_name_playback_add_bookmark>
+ <ru text="Добавить закладку"/>
+ <en text="Add bookmark"/>     
+ <it text="Aggiungi segnalibro"/>  
+</input_name_playback_add_bookmark> 
+
+<input_name_playback_open_file>
+ <ru text="Открыть файл"/>
+ <it text="Apri file"/>     
+</input_name_playback_open_file>
+
+<input_name_playback_open_url>
+ <ru text="Открыть URL"/>
+ <it text="Apri URL"/>     
+</input_name_playback_open_url>
+
+ 
+<input_name_record_header>
+ <ru text="-------------Запись----------------"/>
+ <en text="-------------Record----------------"/>     
+ <it text="-------------Registrazione----------------"/>   
+</input_name_record_header> 
+  
+<input_name_record_quick>
+ <ru text="Быстрая запись"/>
+ <en text="Quick record"/>     
+ <it text="Registrazione veloce"/> 
+</input_name_record_quick> 
+
+<input_name_record_quick_pip>
+ <ru text="Быстрая запись c PiP"/>
+ <en text="Quick record from PiP"/>     
+ <it text="Registrazione veloce da PiP"/>  
+</input_name_record_quick_pip> 
+
+<input_name_record_stop_quick>
+ <ru text="Остановить быструю запись"/>
+ <en text="Stop quick record"/>     
+ <it text="Stop registrazione veloce"/> 
+</input_name_record_stop_quick> 
+
+<input_name_record_snapshow>
+ <ru text="Сделать снимок"/>
+ <en text="Snapshot"/>     
+ <it text="Scatta foto (Snapshot)"/>   
+</input_name_record_snapshow> 
+
+<input_name_record_dump>
+ <ru text="Копировать поток"/>
+ <it text="Dump to the file"/>     
+</input_name_record_dump>
+
+
+<input_name_audio_header>
+ <ru text="---------------Звук----------------"/>
+ <en text="--------------Audio----------------"/>     
+ <it text="--------------Audio----------------"/>  
+</input_name_audio_header> 
+
+<input_name_audio_track>
+ <ru text="Переключить звуковую дорожку"/>
+ <en text="Switch sound track"/>     
+ <it text="Passa traccia audio"/>    
+</input_name_audio_track> 
+
+<input_name_audio_type>
+ <ru text="Переключить тип аудио"/>
+ <en text="Switch audio type"/>     
+ <it text="Passa a tipo di audio"/> 
+</input_name_audio_type> 
+
+<input_name_audio_mute>
+ <ru text="Mute"/>
+ <en text="Mute"/>     
+ <it text="Senza suono (Mute)"/>  
+</input_name_audio_mute> 
+
+<input_name_audio_volume_add>
+ <ru text="Громкость +"/>
+ <en text="Volume +"/>     
+ <it text="Volume +"/>   
+</input_name_audio_volume_add> 
+
+<input_name_audio_volume_sub>
+ <ru text="Громкость -"/>
+ <en text="Volume -"/>     
+ <it text="Volume -"/>
+</input_name_audio_volume_sub> 
+
+<input_name_video_header>
+ <ru text="----------Изображение----------"/>
+ <en text="-------------Video-------------"/>     
+ <it text="-------------Video-------------"/>  
+</input_name_video_header> 
+ 
+<input_name_video_brightness_add>
+ <ru text="Яркость +"/>
+ <en text="Brightness +"/>     
+ <it text="Luminosità +"/>  
+</input_name_video_brightness_add> 
+ 
+<input_name_video_brightness_sub>
+ <ru text="Яркость -"/>
+ <en text="Brightness -"/>     
+ <it text="Luminosità -"/>    
+</input_name_video_brightness_sub> 
+ 
+<input_name_video_contrast_add>
+ <ru text="Контраст +"/>
+ <en text="Contrast +"/>     
+ <it text="Contrasto +"/> 
+</input_name_video_contrast_add> 
+ 
+<input_name_video_contrast_sub>
+ <ru text="Контраст -"/>
+ <en text="Contrast -"/>     
+ <it text="Contrasto -"/> 
+</input_name_video_contrast_sub> 
+ 
+<input_name_video_color_add>
+ <ru text="Насыщенность +"/>
+ <en text="Color +"/>     
+ <it text="Colore +"/> 
+</input_name_video_color_add> 
+ 
+<input_name_video_color_sub>
+ <ru text="Насыщенность -"/>
+ <en text="Color -"/>     
+ <it text="Colore -"/>  
+</input_name_video_color_sub>
+ 
+<input_name_video_hue_add>
+ <ru text="Оттенок +"/>
+ <en text="Hue +"/>     
+ <it text="Tonalità +"/>
+</input_name_video_hue_add> 
+ 
+<input_name_video_hue_sub>
+ <ru text="Оттенок -"/>
+ <en text="Hue -"/>     
+ <it text="Tonalità -"/> 
+</input_name_video_hue_sub> 
+ 
+<input_name_video_gamma_add>
+ <ru text="Гамма +"/>
+ <en text="Gamma +"/>
+ <it text="Gamma +"/>
+</input_name_video_gamma_add> 
+ 
+<input_name_video_gamma_sub>
+ <ru text="Гамма -"/>
+ <en text="Gamma -"/>     
+ <it text="Gamma -"/> 
+</input_name_video_gamma_sub> 
+ 
+<input_name_video_scale_add>
+ <ru text="Масштаб +"/>
+ <en text="Scale +"/>     
+ <it text="Scala +"/> 
+</input_name_video_scale_add> 
+ 
+<input_name_video_scale_sub>
+ <ru text="Масштаб -"/>
+ <en text="Scale -"/>     
+ <it text="Scala -"/>  
+</input_name_video_scale_sub> 
+ 
+<input_name_video_sharpness_add>
+ <ru text="Резкость +"/>
+ <en text="Sharpness +"/>     
+ <it text="Nitidezza +"/> 
+</input_name_video_sharpness_add> 
+ 
+<input_name_video_sharpness_sub>
+ <ru text="Резкость -"/>
+ <en text="Sharpness -"/>     
+ <it text="Nitidezza -"/> 
+</input_name_video_sharpness_sub>
+ 
+<input_name_video_track>
+ <ru text="Переключить видео дорожку"/>
+ <en text="Switch video track"/>     
+ <it text="Passa a traccia video"/> 
+</input_name_video_track>
+ 
+<input_name_video_deint>
+ <ru text="Переключить деинтерлейс"/>
+ <en text="Switch deinterlacing"/>     
+ <it text="Passa a deinterlaccia"/> 
+</input_name_video_deint>
+  
+<input_name_video_crop>
+ <ru text="Переключить обрезку"/>
+ <en text="Switch cropping"/>     
+ <it text="Passa a ritaglio"/> 
+</input_name_video_crop> 
+    
+<input_name_video_ratio>
+ <ru text="Переключить формат"/>
+ <en text="Switch aspect ratio"/>     	
+ <it text="Passa a formato"/> 
+</input_name_video_ratio> 
+ 
+<input_name_pip_header>
+ <ru text="----------------PiP-----------------"/>
+ <en text="----------------PiP-----------------"/>     	
+ <it text="----------------PiP-----------------"/> 
+</input_name_pip_header> 
+ 
+<input_name_pip_show>
+ <ru text="Показать/скрыть PiP"/>
+ <en text="Show/hide PiP"/>     	
+ <it text="Mostra/nascondi PiP"/>
+</input_name_pip_show> 
+ 
+<input_name_pip_show_mpip>
+ <ru text="Показать/скрыть MultiPiP"/>
+ <en text="Show/hide MultiPiP"/>     	
+ <it text="Mostra/nascondi MultiPiP"/> 
+</input_name_pip_show_mpip> 
+ 
+<input_name_pip_pos>
+ <ru text="Расположение PiP"/>
+ <en text="Position of PiP"/>     	
+ <it text="Posizione del PiP"/>  
+</input_name_pip_pos> 
+ 
+<input_name_pip_swap>
+ <ru text="PiP swap"/>
+ <en text="PiP swap"/>     	
+ <it text="PiP scambio"/> 
+</input_name_pip_swap> 
+ 
+<input_name_pip_ch_up>
+ <ru text="PiP канал вперед"/>
+ <en text="PiP channel forward"/>     	
+ <it text="PiP canale in avanti"/>  
+</input_name_pip_ch_up> 
+ 
+<input_name_pip_ch_down>
+ <ru text="PiP канал назад"/>
+ <en text="PiP channel backward"/>     	
+ <it text="PiP canale in indietro"/> 
+</input_name_pip_ch_down> 
+ 
+<input_name_pip_size_add>
+ <ru text="Размер +"/>
+ <en text="Size +"/>     
+ <it text="Dimensione +"/>   
+</input_name_pip_size_add>
+ 
+<input_name_pip_size_sub>
+ <ru text="Размер -"/>
+ <en text="Size -"/>     
+ <it text="Dimensione -"/>   
+</input_name_pip_size_sub> 
+ 
+<input_name_osd_header>
+ <ru text="---------------OSD----------------"/>
+ <en text="---------------OSD----------------"/>  
+ <it text="---------------OSD----------------"/>
+</input_name_osd_header> 
+
+<input_name_osd_pls>
+ <ru text="Плейлист"/>
+ <en text="Playlist"/>
+ <it text="Playlist"/>
+</input_name_osd_pls> 
+
+<input_name_osd_info>
+ <ru text="Текущая информация"/>
+ <en text="Show/hide info panel"/>   
+ <it text="Mostra/nascondi informazioni"/> 
+</input_name_osd_info>
+
+<input_name_osd_info_type>
+ <ru text="Краткая информация"/>
+ <en text="Full/short info panel"/>     	
+ <it text="Completo/breve informazioni"/>  
+</input_name_osd_info_type>
+
+<input_name_osd_sw_qproc>
+ <ru text="Переключить быструю программу"/>
+ <en text="Switch quick epg"/>     	
+ <it text="Passa a veloce EPG"/>  
+</input_name_osd_sw_qproc> 
+
+<input_name_osd_epg>
+ <ru text="Вся программа"/>
+ <en text="Show/hide EPG"/>     	
+ <it text="Mostra/nascondi EPG"/>   
+</input_name_osd_epg> 
+
+<input_name_osd_show_record>
+ <ru text="Текущие записи"/>
+ <en text="Show/hide record window"/>     	
+ <it text="Mostra/nascondi finestra di registrazione"/>  
+</input_name_osd_show_record> 
+
+<input_name_osd_update_epg>
+ <ru text="Обновить программу"/>
+ <en text="Update EPG"/>     	
+ <it text="Aggiorna EPG"/>   
+</input_name_osd_update_epg> 
+
+<input_name_osd_update_epg_current>
+ <ru text="Обновить программу для текущего канала"/>
+ <en text="Update EPG for current channel"/>     	
+ <it text="Aggiorna EPG per il canale attuale"/>  
+</input_name_osd_update_epg_current> 
+
+<input_name_osd_channel_info>
+ <ru text="Информация канала"/>
+ <en text="Channel info"/>   
+ <it text="Informazioni canale"/>  
+</input_name_osd_channel_info> 
+
+<input_name_osd_time>
+ <ru text="Показать/скрыть время"/>
+ <en text="Show/hide time"/>     	
+ <it text="Mostra/nascondi Ora"/>  
+</input_name_osd_time> 
+
+<input_name_osd_pageup>
+ <ru text="PageUp"/>
+ <en text="PageUp"/>   
+ <it text="PageUp"/> 
+</input_name_osd_pageup> 
+
+<input_name_osd_pagedown>
+ <ru text="PageDown"/>
+ <en text="PageDown"/>     	
+ <it text="PageDown"/>  
+</input_name_osd_pagedown> 
+
+<input_name_osd_home>
+ <ru text="Home"/>
+ <en text="Home"/>   
+ <it text="Home"/>  
+</input_name_osd_home> 
+
+<input_name_osd_end>
+ <ru text="End"/>
+ <en text="End"/>   
+ <it text="Fine"/>  
+</input_name_osd_end> 
+
+<input_name_osd_option>
+ <ru text="Опции на OSD"/>
+ <en text="Options on OSD"/>     	
+ <it text="Opzioni su OSD"/>  
+</input_name_osd_option> 
+
+<input_name_osd_extfilter>
+ <ru text="Расширенный фильтр"/>
+ <en text="Advanced filter"/>     	
+ <it text="Filtro avanzato"/> 
+</input_name_osd_extfilter> 
+
+<input_name_osd_bookmark>
+ <ru text="Закладки на OSD"/>
+ <en text="Bookmark on OSD"/>     	 
+ <it text="Segnalibro su OSD"/> 
+</input_name_osd_bookmark> 
+
+<input_name_osd_multiadr>
+ <ru text="Спиок серий"/>
+ <en text="List of series"/>
+ <it text="Lista da serie"/>
+</input_name_osd_multiadr>
+
+  
+<input_name_osd_atrack>
+ <ru text="Аудио дорожка"/>
+ <en text="Audio track"/>     	 
+ <it text="Traccia audio"/>  
+</input_name_osd_atrack> 
+
+<input_name_osd_vtack>
+ <ru text="Видео дорожка"/>
+ <en text="Video track"/>     	 
+ <it text="Traccia video"/>  
+</input_name_osd_vtack> 
+
+<input_name_osd_sub>
+ <ru text="Субтитры"/>
+ <en text="Subtitles"/>   
+ <it text="Sottotitoli"/>     	 
+</input_name_osd_sub> 
+
+<input_name_osd_deint>
+ <ru text="Деинтерлэйс"/>
+ <en text="Deinterleys"/>     	  
+ <it text="Deinterllacia"/> 
+</input_name_osd_deint> 
+  
+<input_name_osd_crop>
+ <ru text="Обрезка"/>
+ <en text="Cropping"/>     	 
+ <it text="Ritaglio"/>   
+</input_name_osd_crop> 
+  
+<input_name_osd_ratio>
+ <ru text="Формат"/>
+ <en text="Aspect ratio"/>     	   
+ <it text="Formato"/> 
+</input_name_osd_ratio> 
+
+<input_name_digist_header>
+ <ru text="-------------Цифры--------------"/>
+ <en text="------------Digits--------------"/>     	     
+ <it text="------------Cifre--------------"/> 
+</input_name_digist_header> 
+   
+<!-- Dialog First run -->  
+<dialog_first_run_first_run>
+ <ru text="Первый запуск SimpleTV."/>
+ <en text="The first launch of SimpleTV."/>     	       
+ <it text="Il primo lancio di SimpleTV."/> 
+</dialog_first_run_first_run> 
+ 
+<dialog_first_run_store_mode>
+ <ru text="Выберите, как сохранять изменяемые файлы"/>
+ <en text="Select how to store modified files"/>     	       
+ <it text="Scegli come archiviare i file modificati"/>  
+</dialog_first_run_store_mode> 
+ 
+<dialog_first_run_user_dir>
+ <ru text="В папке пользователя"/>
+ <en text="In the user folder"/>     	       
+ <it text="Nella cartella utente"/> 
+</dialog_first_run_user_dir> 
+ 
+<dialog_first_run_work_dir>
+ <ru text="В папке с программой"/>
+ <en text="In the folder with the program"/>     	       
+ <it text="Nella cartella con il programma"/> 
+</dialog_first_run_work_dir>
+ 
+<dialog_first_run_load_from_prev>
+ <ru text="Загрузить список каналов/настройки из предыдущей версии?"/>
+ <en text="Load the playlist/settings from a previous version?"/>
+ <it text="Caricare la playlist/impostazioni da una versione precedente?"/>
+</dialog_first_run_load_from_prev>
+
+<!--  -->
+ <ext_filter_str_new>
+ <ru text="Новый"/>
+ <en text="New"/>
+ <it text="Nuovo"/>
+</ext_filter_str_new>
+ 
+<!--  --> 
+<common_str_import_pls_error_tmp>
+ <ru text="Ошибка при очистки tmp"/>
+ <en text="Error while clearing tmp"/>
+ <it text="Errore durante la rimozione tmp"/>
+</common_str_import_pls_error_tmp> 
+
+<common_str_import_pls_error_download>
+ <ru text="Невозможно получить файл (%i)"/>
+ <en text="Can't download file (%i)"/>
+ <it text="Non è possibile scaricare il file (%i)"/>
+</common_str_import_pls_error_download>
+
+<common_str_import_pls_error_open_file>
+ <ru text="Невозможно открыть файл"/>
+ <en text="Can't open file"/>
+ <it text="Impossibile aprire il file"/>
+</common_str_import_pls_error_open_file> 
+
+<common_str_import_pls_error_not_m3u>
+ <ru text="Файл не 'm3u'"/>
+ <en text="File not 'm3u'"/>
+ <it text="File non 'm3u'"/>
+</common_str_import_pls_error_not_m3u> 
+
+<common_str_import_pls_error_file_corrupt>
+ <ru text="Файл поврежден"/>
+ <en text="File corrupted"/>
+ <it text="File danneggiato"/>
+</common_str_import_pls_error_file_corrupt> 
+
+<common_str_import_pls_del_all>
+ <ru text="Все текущие каналы будут удалены. Продолжить?"/>
+ <en text="All current channels will be deleted. Continue?"/>
+ <it text="Tutti i canali attuali verranno eliminati. Continuare?"/>
+</common_str_import_pls_del_all> 
+ 
+<dialog_config_system_type_off>
+ <ru text="Способ выключения"/>
+ <it text="Modalità spegnimento "/> 
+</dialog_config_system_type_off> 
+
+<dialog_config_system_fullscr_monitor>
+ <ru text="Экран для полноэкранного режима"/>
+ <it text="Modalità a schermo intero"/> 
+</dialog_config_system_fullscr_monitor>  
+
+
+</SimpleTVlang>

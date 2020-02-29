@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>M3U to JSON</title>
+</head>
+<body>
+    <div>
+        <div>
+            <h2>IPTV</h2>
+            <input type='file' accept='text/m3u' onchange='openFile(event)'>
+        </div>
+        <div id="output">
+
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous" charset="utf-8"></script>
+    <script charset="utf-8">
+        var outputs = {
+            "channels":[
+                
+            ],
+            "modified":0, 
+            "possibleGenres":[
+                "CCTV", 
+                "新加坡", 
+                "卫视",
+                "港澳台", 
+                "电影", 
+                "其他"
+            ]
+        }
+
+        var openFile = function(event) {
+            var input = event.target;
+
+            var reader = new FileReader();
+            reader.onload = function(){
+                var iplist = reader.result;
+                var lines = iplist.split('\n').filter(extractHttpUrl);
+                var info = iplist.split('\n').filter(extractInfo);
+                lines.forEach((url,index) => {
+                    var detail = info[index].split(',')
+                    var name = detail[1]
+                    var group = detail[0].match(/group-title=".*?"/g)[0].replace("group-title=","").replace('"',"")
+                    //console.log(detail[0].match(/group-title=\".*?\"/g))
+                    var item = {
+                        "number":index+1,
+                        "name":name,
+                        "logo":"",
+                        "url":url,
+                        "splashscreen":"",
+                        "genres":group,
+                        "source":""
+                    }
+
+                    outputs.channels.push(item)
+                });
+                console.log(outputs)
+                $("#output").html(JSON.stringify(outputs))
+            };
+            reader.readAsText(input.files[0]);
+        };
+
+        var extractHttpUrl = function(text){
+            return text.startsWith('http')
+        }
+
+        var extractInfo = function(text){
+            return text.startsWith('#EXTINF')
+        }
+
+    </script>
+</body>
+</html>

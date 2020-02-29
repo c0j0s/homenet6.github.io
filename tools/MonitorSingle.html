@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <input type='file' accept='text/plain' onchange='openFile(event)'>
+        <hr>
+        <p id="current"></p>
+        <video id="video" src="" style="max-height: 480px; min-height: 480px" autoplay="autoplay"></video>
+        <br>
+        <button onclick="nextChannel()">Next</button>
+    </body>
+<script>
+    var video = document.getElementById("video")
+    var iplist;
+    var index = 0;
+    var lines;
+
+    var extractHttpUrl = function(text){
+        return text.startsWith('http')
+    }
+
+    var openFile = function(event) {
+            var input = event.target;
+
+            var reader = new FileReader();
+            reader.onload = function(){
+                iplist = reader.result;
+                lines = iplist.split('\n').filter(extractHttpUrl);
+                startLink()
+            };
+            reader.readAsText(input.files[0]);
+    };
+
+    function startLink(){
+        video.setAttribute("src",lines[index])
+        if(lines[index] === ""){
+            alert("END")
+        }else{
+            $("#current").val(index + " " + lines[index])
+        }
+    }
+
+    function nextChannel(){
+        index++;
+        startLink()
+    }
+
+    function nullChannel(){
+        $("#null").append("<p>"+ lines[index] + "</p>")
+        index++;
+        startLink()
+    }
+
+    function jump(){
+        index = $("#channelname").html()
+        startLink()
+    }
+
+</script>
+</html>
+

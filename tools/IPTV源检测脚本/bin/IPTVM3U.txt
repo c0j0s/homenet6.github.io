@@ -1,0 +1,321 @@
+#EXTINF:0 type="stream" channelId="-1", NewTV潮妈辣婆
+http://112.50.243.7/PLTV/88888888/224/3221226107/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 快乐购
+http://112.50.243.7/PLTV/88888888/224/3221226130/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 快乐垂钓
+http://112.50.243.7/PLTV/88888888/224/3221226132/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 茶频道
+http://112.50.243.7/PLTV/88888888/224/3221226137/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 劲爆体育
+http://112.50.243.7/PLTV/88888888/224/3221226139/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", MAX急速汽车
+http://112.50.243.7/PLTV/88888888/224/3221226140/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 游戏风云
+http://112.50.243.7/PLTV/88888888/224/3221226142/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 法制天地
+http://112.50.243.7/PLTV/88888888/224/3221226143/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 北京卫视
+http://112.50.243.7/PLTV/88888888/224/3221226484/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV10 科教HD
+http://112.50.243.7/PLTV/88888888/224/3221226488/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226489/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV3 综艺HD
+http://112.50.243.7/PLTV/88888888/224/3221226492/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV11 戏曲
+http://112.50.243.7/PLTV/88888888/224/3221226493/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 云南卫视
+http://112.50.243.7/PLTV/88888888/224/3221226496/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV14 少儿HD
+http://112.50.243.7/PLTV/88888888/224/3221226497/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 天津卫视
+http://112.50.243.7/PLTV/88888888/224/3221226500/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 浙江卫视
+http://112.50.243.7/PLTV/88888888/224/3221226501/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", SDETV
+http://112.50.243.7/PLTV/88888888/224/3221226504/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV8 电视剧HD
+http://112.50.243.7/PLTV/88888888/224/3221226505/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV13 新闻
+http://112.50.243.7/PLTV/88888888/224/3221226507/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 广东卫视
+http://112.50.243.7/PLTV/88888888/224/3221226508/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CGTN 记录
+http://112.50.243.7/PLTV/88888888/224/3221226509/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV4 中文国际
+http://112.50.243.7/PLTV/88888888/224/3221226511/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 江苏卫视
+http://112.50.243.7/PLTV/88888888/224/3221226512/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 安徽卫视
+http://112.50.243.7/PLTV/88888888/224/3221226513/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV6 电影HD
+http://112.50.243.7/PLTV/88888888/224/3221226515/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 辽宁卫视
+http://112.50.243.7/PLTV/88888888/224/3221226516/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 陕西卫视
+http://112.50.243.7/PLTV/88888888/224/3221226517/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 吉林卫视
+http://112.50.243.7/PLTV/88888888/224/3221226520/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 东南卫视
+http://112.50.243.7/PLTV/88888888/224/3221226521/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 新疆卫视
+http://112.50.243.7/PLTV/88888888/224/3221226523/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 贵州卫视
+http://112.50.243.7/PLTV/88888888/224/3221226524/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 甘肃卫视
+http://112.50.243.7/PLTV/88888888/224/3221226525/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 东方卫视
+http://112.50.243.7/PLTV/88888888/224/3221226527/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 西藏卫视
+http://112.50.243.7/PLTV/88888888/224/3221226528/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 宁夏卫视
+http://112.50.243.7/PLTV/88888888/224/3221226529/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 重庆卫视
+http://112.50.243.7/PLTV/88888888/224/3221226531/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 内蒙古卫视
+http://112.50.243.7/PLTV/88888888/224/3221226533/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 山东卫视
+http://112.50.243.7/PLTV/88888888/224/3221226535/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 康巴卫视
+http://112.50.243.7/PLTV/88888888/224/3221226539/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 湖北卫视
+http://112.50.243.7/PLTV/88888888/224/3221226543/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV12 社会与法HD
+http://112.50.243.7/PLTV/88888888/224/3221226546/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 河南卫视
+http://112.50.243.7/PLTV/88888888/224/3221226547/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV15 音乐
+http://112.50.243.7/PLTV/88888888/224/3221226550/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 湖南卫视
+http://112.50.243.7/PLTV/88888888/224/3221226551/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 家有购物
+http://112.50.243.7/PLTV/88888888/224/3221226552/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV2 财经HD
+http://112.50.243.7/PLTV/88888888/224/3221226554/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5 体育HD
+http://112.50.243.7/PLTV/88888888/224/3221226558/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 风尚购物
+http://112.50.243.7/PLTV/88888888/224/3221226561/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV7 军事农业HD
+http://112.50.243.7/PLTV/88888888/224/3221226562/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", BesTV
+http://112.50.243.7/PLTV/88888888/224/3221226565/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV9 记录HD
+http://112.50.243.7/PLTV/88888888/224/3221226566/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", BesTV
+http://112.50.243.7/PLTV/88888888/224/3221226568/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 四川卫视
+http://112.50.243.7/PLTV/88888888/224/3221226570/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226572/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 彩虹音乐
+http://112.50.243.7/PLTV/88888888/224/3221226573/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 深圳卫视
+http://112.50.243.7/PLTV/88888888/224/3221226574/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 央视台球
+http://112.50.243.7/PLTV/88888888/224/3221226576/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226577/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 山西卫视
+http://112.50.243.7/PLTV/88888888/224/3221226578/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226580/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226581/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 青海卫视
+http://112.50.243.7/PLTV/88888888/224/3221226582/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 电视指南
+http://112.50.243.7/PLTV/88888888/224/3221226583/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 女性时尚
+http://112.50.243.7/PLTV/88888888/224/3221226584/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226585/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 广西卫视
+http://112.50.243.7/PLTV/88888888/224/3221226586/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 高尔夫.网球
+http://112.50.243.7/PLTV/88888888/224/3221226587/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV7 军事农业HD
+http://112.50.243.7/PLTV/88888888/224/3221226588/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226589/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 旅游卫视
+http://112.50.243.7/PLTV/88888888/224/3221226590/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 风云音乐
+http://112.50.243.7/PLTV/88888888/224/3221226591/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 国防军事
+http://112.50.243.7/PLTV/88888888/224/3221226592/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226593/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 河北卫视
+http://112.50.243.7/PLTV/88888888/224/3221226594/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 第一剧场
+http://112.50.243.7/PLTV/88888888/224/3221226595/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226597/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 江西卫视
+http://112.50.243.7/PLTV/88888888/224/3221226598/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226601/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 北京少儿
+http://112.50.243.7/PLTV/88888888/224/3221226605/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 优漫卡通
+http://112.50.243.7/PLTV/88888888/224/3221226607/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 金鹰卡通
+http://112.50.243.7/PLTV/88888888/224/3221226609/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226611/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 金鹰记录
+http://112.50.243.7/PLTV/88888888/224/3221226613/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226615/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", iPanda
+http://112.50.243.7/PLTV/88888888/224/3221226619/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV10 科教HD
+http://112.50.243.7/PLTV/88888888/224/3221226623/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226624/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 点掌财经
+http://112.50.243.7/PLTV/88888888/224/3221226627/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 世界地理
+http://112.50.243.7/PLTV/88888888/224/3221226630/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV 怀旧剧场
+http://112.50.243.7/PLTV/88888888/224/3221226634/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 宁德卫视
+http://112.50.243.7/PLTV/88888888/224/3221226635/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226649/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 炫动卡通
+http://112.50.243.7/PLTV/88888888/224/3221226650/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226654/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5 体育HD
+http://112.50.243.7/PLTV/88888888/224/3221226658/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5+ 体育赛事
+http://112.50.243.7/PLTV/88888888/224/3221226662/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226666/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV3 综艺
+http://112.50.243.7/PLTV/88888888/224/3221226668/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226670/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV8 电视剧
+http://112.50.243.7/PLTV/88888888/224/3221226672/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV15 音乐
+http://112.50.243.7/PLTV/88888888/224/3221226676/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", VSPN全电竟
+http://112.50.243.7/PLTV/88888888/224/3221226680/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV6 电影
+http://112.50.243.7/PLTV/88888888/224/3221226681/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5+ 体育赛事
+http://112.50.243.7/PLTV/88888888/224/3221226685/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226692/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226693/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226696/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", NewTV 炫舞未来
+http://112.50.243.7/PLTV/88888888/224/3221226699/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226700/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合
+http://112.50.243.7/PLTV/88888888/224/3221226707/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV1 综合HD
+http://112.50.243.7/PLTV/88888888/224/3221226715/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 未知
+http://112.50.243.7/PLTV/88888888/224/3221226719/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5+ 体育赛事HD
+http://112.50.243.7/PLTV/88888888/224/3221226738/index.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV5 体育
+http://112.50.243.7/PLTV/88888888/224/3221226742/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1", 11sport
+http://61.58.60.230:9000/live/102.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 国会频道1
+http://61.58.60.230:9000/live/123.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 国会频道2
+http://61.58.60.230:9000/live/124.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 居家
+http://61.58.60.230:9000/live/125.m3u8 
+#EXTINF:0 type="stream" channelId="-1", Euro news
+http://61.58.60.230:9000/live/129.m3u8 
+#EXTINF:0 type="stream" channelId="-1", France 24
+http://61.58.60.230:9000/live/131.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 大爱2
+http://61.58.60.230:9000/live/191.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 台股资讯
+http://61.58.60.230:9000/live/200.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天欢乐台
+http://61.58.60.230:9000/live/201.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天资讯台
+http://61.58.60.230:9000/live/202.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天戏剧台
+http://61.58.60.230:9000/live/203.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天育了台
+http://61.58.60.230:9000/live/204.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天国际台
+http://61.58.60.230:9000/live/205.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖洋卡通台
+http://61.58.60.230:9000/live/206.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天卡通台
+http://61.58.60.230:9000/live/207.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV4
+http://61.58.60.230:9000/live/220.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CGTN记录
+http://61.58.60.230:9000/live/221.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CGTN
+http://61.58.60.230:9000/live/222.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV戏剧
+http://61.58.60.230:9000/live/223.m3u8 
+#EXTINF:0 type="stream" channelId="-1", CCTV娱乐
+http://61.58.60.230:9000/live/224.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 中国电影
+http://61.58.60.230:9000/live/225.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 北京国际
+http://61.58.60.230:9000/live/226.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 安徽卫视
+http://61.58.60.230:9000/live/227.m3u8 
+#EXTINF:0 type="stream" channelId="-1", TVS2
+http://61.58.60.230:9000/live/228.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 江苏国际
+http://61.58.60.230:9000/live/229.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 海峡卫视
+http://61.58.60.230:9000/live/230.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 湖南国际
+http://61.58.60.230:9000/live/231.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 中国黄河
+http://61.58.60.230:9000/live/232.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 浙江国际
+http://61.58.60.230:9000/live/233.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 厦门卫视
+http://61.58.60.230:9000/live/234.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 深圳卫视
+http://61.58.60.230:9000/live/235.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 重庆国际
+http://61.58.60.230:9000/live/236.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 安徽国际
+http://61.58.60.230:9000/live/237.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/238.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 
+http://61.58.60.230:9000/live/239.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/240.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 
+http://61.58.60.230:9000/live/241.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天日本台
+http://61.58.60.230:9000/live/243.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 靖天映画
+http://61.58.60.230:9000/live/244.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/254.m3u8 
+#EXTINF:0 type="stream" channelId="-1", HKS
+http://61.58.60.230:9000/live/255.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/256.m3u8 
+#EXTINF:0 type="stream" channelId="-1", cnex
+http://61.58.60.230:9000/live/257.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/701.m3u8 
+#EXTINF:0 type="stream" channelId="-1", 1
+http://61.58.60.230:9000/live/709.m3u8 

@@ -1,0 +1,4266 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<SimpleTVlang ver="1.0">
+<language>
+  <item tag="uk" name="українська" author="Leo, leolocale@ukr.net" />
+</language>
+
+<!-- common  -->
+<common_button_ok>
+ <uk text="Гаразд"/>
+</common_button_ok>
+
+<common_button_cancel>
+ <uk text="Скасувати"/>
+</common_button_cancel>
+
+<common_button_apply>
+ <uk text="Застосувати"/>
+</common_button_apply>
+
+<common_button_close>
+ <uk text="Закрити"/>
+</common_button_close>
+
+<common_str_default>
+ <uk text="Стандартно"/>
+</common_str_default>
+
+<common_str_all>
+ <uk text="Всі"/>
+</common_str_all>
+
+<common_str_auto>
+ <uk text="Авто"/>
+</common_str_auto>
+
+<common_str_auto1>
+ <uk text="авто"/>
+</common_str_auto1>
+
+<common_str_no>
+ <uk text="немає"/>
+</common_str_no>
+
+<common_str_no1>
+ <uk text="немає"/>
+</common_str_no1>
+
+<common_str_own1>
+ <uk text="свій"/>
+</common_str_own1>
+
+<common_str_mono>
+ <uk text="моно"/>
+</common_str_mono>
+
+<common_str_stereo>
+ <uk text="стерео"/>
+</common_str_stereo>
+
+<common_str_track>
+ <uk text="доріжка "/>
+</common_str_track>
+
+<common_str_download_file>
+ <uk text="Завантаження файлу"/>
+</common_str_download_file>
+
+<common_str_enter_file_name>
+ <uk text="Введіть ім'я файлу"/>
+</common_str_enter_file_name>
+
+<common_str_restart_need>
+ <uk text="Зміни набудуть чинності після перезапуску програми"/>
+</common_str_restart_need>
+
+<common_str_folder_already_present>
+ <uk text="Папка '%s' вже існує.\nПереписати вміст ?"/>
+</common_str_folder_already_present>
+
+<common_str_cancel_by_user>
+ <uk text="Скасовано користувачем"/>
+</common_str_cancel_by_user>
+ 
+<common_str_record_error_1>
+ <uk text="помилка(не можу створити папку для запису)"/>
+</common_str_record_error_1>
+
+<common_str_record_error_2>
+ <uk text="помилка(перевірте папку для запису)"/>
+</common_str_record_error_2>
+ 
+<!--             -->
+<common_str_gradient_smooth>
+ <uk text="Однорідний"/>
+</common_str_gradient_smooth>
+
+<common_str_gradient_horz>
+ <uk text="Горизонтальний градієнт"/>
+</common_str_gradient_horz>
+
+<common_str_gradient_vert>
+ <uk text="Вертикальний градієнт"/>
+</common_str_gradient_vert>
+
+<common_str_gradient_diag>
+ <uk text="Діагональний градієнт"/>
+</common_str_gradient_diag>
+
+<common_str_gradient_round>
+ <uk text="Круговий градієнт"/>
+</common_str_gradient_round>
+
+<!--          -->
+<common_str_files_found>
+ <uk text="Файлів знайдено"/>
+</common_str_files_found>
+<!--   -->
+<common_str_picture_filter>
+ <uk text="картинки(bmp,jpg,jpeg,gif,png)|*.bmp;*.jpg;*.jpeg;*.gif;*.png|всі файли(*.*)|*.*||"/>
+</common_str_picture_filter>
+
+<common_str_media_filter>
+ <uk text="Медіа файли|*.avi;*.mpg;*.mpeg;*.wmv;*.mp4;*.mkv;*.vob;*.asf;*.flv;*.mov;*.torrent;|Всі файли|*.*||"/>
+</common_str_media_filter>
+
+<common_str_sub_filter>
+ <uk text="Файли субтитрів|*.cdg;*.idx;*.srt;*.sub;*.utf;*.ass;*.ssa;*.aqt;*.jss;*.psb;*.rt;*.smi;|Всі файли|*.*||"/>
+</common_str_sub_filter>
+
+<!--   -->
+<common_str_use_common_loading>
+<uk text="Завантаження..."/>
+</common_str_use_common_loading>
+
+<common_str_use_common_safe_mode>
+<uk text="Безпечний режим"/>
+</common_str_use_common_safe_mode>
+
+<!--   -->
+<common_str_use_common_setting>
+<uk text="вживати загальні налаштування"/>
+</common_str_use_common_setting>
+
+<!-- common  days -->
+<str_day_sunday>
+ <uk text="Неділя"/>
+</str_day_sunday>
+
+<str_day_monday>
+ <uk text="Понеділок"/>
+</str_day_monday>
+
+<str_day_tuesday>
+ <uk text="Вівторок"/>
+</str_day_tuesday>
+
+<str_day_wednesday>
+ <uk text="Середа"/>
+</str_day_wednesday>
+
+ <str_day_thursday>
+ <uk text="Четвер"/>
+</str_day_thursday>
+ 
+<str_day_friday>
+ <uk text="П'ятниця"/>
+</str_day_friday>
+
+<str_day_saturday>
+ <uk text="Субота"/>
+</str_day_saturday>
+<!-- short -->
+<str_day_sunday_short>
+ <uk text="Нд"/>
+</str_day_sunday_short>
+
+<str_day_monday_short>
+ <uk text="Пн"/>
+</str_day_monday_short>
+
+<str_day_tuesday_short>
+ <uk text="Вт"/>
+</str_day_tuesday_short>
+
+<str_day_wednesday_short>
+ <uk text="Ср"/>
+</str_day_wednesday_short>
+
+ <str_day_thursday_short>
+ <uk text="Чт"/>
+</str_day_thursday_short>
+ 
+<str_day_friday_short>
+ <uk text="Пт"/>
+</str_day_friday_short>
+
+<str_day_saturday_short>
+ <uk text="Сб"/>
+</str_day_saturday_short>
+<!-- short_u -->
+<str_day_sunday_u_short>
+ <uk text="НД"/>
+</str_day_sunday_u_short>
+
+<str_day_monday_u_short>
+ <uk text="ПН"/>
+</str_day_monday_u_short>
+
+<str_day_tuesday_u_short>
+ <uk text="ВТ"/>
+</str_day_tuesday_u_short>
+
+<str_day_wednesday_u_short>
+ <uk text="СР"/>
+</str_day_wednesday_u_short>
+
+ <str_day_thursday_u_short>
+ <uk text="ЧТ"/>
+</str_day_thursday_u_short>
+ 
+<str_day_friday_u_short>
+ <uk text="ПТ"/>
+</str_day_friday_u_short>
+
+<str_day_saturday_u_short>
+ <uk text="СБ"/>
+</str_day_saturday_u_short>
+<!--   -->
+
+<!-- MAIN MENU -->
+<main_menu_file>
+ <uk text="Файл"/>
+</main_menu_file>
+
+<main_menu_file_open_file>
+ <uk text="Відкрити файл"/>
+</main_menu_file_open_file>
+
+<main_menu_file_open_url>
+ <uk text="Відкрити адресу"/>
+</main_menu_file_open_url>
+
+<main_menu_file_exit>
+ <uk text="Вихід"/>
+</main_menu_file_exit>
+
+<main_menu_control>
+ <uk text="Керування"/>
+</main_menu_control>
+
+<main_menu_control_play>
+ <uk text="Відтворення/Пауза"/>
+</main_menu_control_play>
+
+<main_menu_control_stop>
+ <uk text="Зупинити"/>
+</main_menu_control_stop>
+
+<main_menu_control_faster>
+ <uk text="Збільшити швидкість відтворення"/>
+</main_menu_control_faster>
+
+<main_menu_control_slow>
+ <uk text="Зменшити швидкість відтворення"/>
+</main_menu_control_slow>
+
+<main_menu_control_ff>
+ <uk text="Перемотка вперед"/>
+</main_menu_control_ff>
+
+<main_menu_control_rew>
+ <uk text="Перемотка вперед"/>
+</main_menu_control_rew>
+
+<main_menu_control_longff>
+ <uk text="Довга перемотка вперед"/>
+</main_menu_control_longff>
+ 
+<main_menu_control_longrew>
+ <uk text="Довга перемотка назад"/>
+</main_menu_control_longrew>
+ 
+<main_menu_control_fast>
+ <uk text="Швидко"/>
+</main_menu_control_fast>
+
+<main_menu_control_norm>
+ <uk text="Нормальна швидкість"/>
+</main_menu_control_norm>
+ 
+<main_menu_control_restart>
+ <uk text="Перезапустити"/>
+</main_menu_control_restart>
+ 
+<main_menu_control_addbook>
+ <uk text="Додати закладку"/>
+</main_menu_control_addbook>
+
+<main_menu_control_osdbook>
+ <uk text="Закладки на OSD"/>
+</main_menu_control_osdbook>
+
+<main_menu_control_multiadress_show>
+ <uk text="Список серій на OSD"/>
+</main_menu_control_multiadress_show>
+ 
+ <main_menu_channels>
+ <uk text="Список відтворення"/>
+</main_menu_channels>
+ 
+ <main_menu_channels_back>
+ <uk text="Канал назад"/>
+ </main_menu_channels_back>
+
+ <main_menu_channels_ff>
+ <uk text="Канал вперед"/>
+ </main_menu_channels_ff>
+
+ <main_menu_channels_prev>
+  <uk text="Попередній канал"/>
+</main_menu_channels_prev>
+ 
+<main_menu_channels_openpls>
+ <uk text="Показати/Сховати список відтворення"/>
+</main_menu_channels_openpls>
+
+ <main_menu_channels_swtype>
+  <uk text="Перемикання вкладок списку відтворення"/>
+ </main_menu_channels_swtype>
+
+<main_menu_channels_fav>
+ <uk text="Улюблені канали/Медіа"/>
+ </main_menu_channels_fav>
+
+<main_menu_channels_extfilterosd>
+ <uk text="Розширений фільтр на OSD"/>
+</main_menu_channels_extfilterosd>
+
+<main_menu_channels_pip>
+ <uk text="Картинка в картинці (PiP)"/>
+</main_menu_channels_pip>
+
+<main_menu_channels_mpip>
+ <uk text="Мульти PiP"/>
+</main_menu_channels_mpip>
+
+<main_menu_channels_info>
+ <uk text="Інформація"/>
+</main_menu_channels_info>
+
+<main_menu_channels_loadpls>
+ <uk text="Завантажити список відтворення"/>
+</main_menu_channels_loadpls>
+
+<main_menu_channels_unloadpls>
+ <uk text="Зберегти список відтворення"/>
+</main_menu_channels_unloadpls>
+
+<main_menu_channels_refreshpls>
+ <uk text="Оновити список відтворення"/>
+</main_menu_channels_refreshpls>
+ 
+<main_menu_channels_scan>
+ <uk text="Пошук каналів"/>
+</main_menu_channels_scan>
+
+<main_menu_record>
+ <uk text="Запис"/>
+</main_menu_record>
+
+<main_menu_record_quick>
+ <uk text="Швидка запис"/>
+</main_menu_record_quick>
+
+<main_menu_record_pipquick>
+ <uk text="Швидка запис з PiP"/>
+</main_menu_record_pipquick>
+
+<main_menu_record_stopquick>
+ <uk text="Зупинити швидку запис"/>
+</main_menu_record_stopquick>
+
+<main_menu_record_osdinfo>
+ <uk text="Планувальник на OSD"/>
+</main_menu_record_osdinfo>
+
+<main_menu_record_info>
+ <uk text="Планувальник"/>
+</main_menu_record_info>
+
+<main_menu_record_snapshot>
+ <uk text="Зберегти кадр"/>
+</main_menu_record_snapshot>
+ 
+<main_menu_record_openfolder>
+ <uk text="Відкрити папку записів"/>
+</main_menu_record_openfolder>
+
+<main_menu_record_dump>
+ <uk text="Зберегти в файл"/>
+</main_menu_record_dump>
+ 
+<main_menu_setup>
+ <uk text="Налаштування"/>
+</main_menu_setup>
+
+<main_menu_setup_open>
+ <uk text="Вікно налаштувань"/>
+</main_menu_setup_open>
+
+<main_menu_view>
+ <uk text="Вигляд"/>
+</main_menu_view>
+ 
+<main_menu_view_ontop>
+ <uk text="Зверху всіх вікон"/>
+</main_menu_view_ontop>
+
+<main_menu_view_fullscr>
+ <uk text="Повноекранний режим"/>
+</main_menu_view_fullscr>
+
+<main_menu_view_compact>
+ <uk text="Компактний режим"/>
+</main_menu_view_compact>
+
+<main_menu_view_tray>
+ <uk text="Згорнути в трей"/>
+</main_menu_view_tray>
+
+<main_menu_view_controlpanel>
+ <uk text="Панель керування"/>
+</main_menu_view_controlpanel>
+ 
+<main_menu_view_scale>
+ <uk text="Масштабування відео під розмір вікна"/>
+</main_menu_view_scale>
+
+<main_menu_view_winsize>
+ <uk text="Розмір вікна"/>
+</main_menu_view_winsize>
+
+<main_menu_view_winsize_1>
+ <uk text="Оригінальний розмір відео"/>
+</main_menu_view_winsize_1>
+
+<main_menu_view_winsize_05>
+ <uk text="Оригінальний розмір відео/2"/>
+</main_menu_view_winsize_05>
+
+<main_menu_view_winsize_2>
+ <uk text="Оригінальний розмір відео*2"/>
+</main_menu_view_winsize_2>
+
+<main_menu_epg>
+ <uk text="Програма"/>
+</main_menu_epg>
+
+<main_menu_epg_show>
+ <uk text="Показати"/>
+</main_menu_epg_show>
+
+<main_menu_epg_showosd>
+ <uk text="Показати на OSD"/>
+</main_menu_epg_showosd>
+
+<main_menu_epg_refresh>
+ <uk text="Оновити"/>
+</main_menu_epg_refresh>
+
+<main_menu_epg_refreshcurr>
+ <uk text="Оновити для поточного каналу"/>
+</main_menu_epg_refreshcurr>
+
+<main_menu_power>
+ <uk text="Вимкнення"/>
+</main_menu_power>
+ 
+<main_menu_power_sleep>
+ <uk text="Сон/Гібернація"/>
+</main_menu_power_sleep>
+
+<main_menu_power_off>
+ <uk text="Вимкнути комп'ютер"/>
+</main_menu_power_off>
+
+<main_menu_power_sleeptimer>
+ <uk text="Таймер сну"/>
+</main_menu_power_sleeptimer>
+
+<main_menu_power_exittimer>
+ <uk text="Таймер виходу"/>
+</main_menu_power_exittimer>
+
+<main_menu_subtitles>
+ <uk text="Субтитри"/>
+</main_menu_subtitles>
+
+<main_menu_subtitles_auto>
+ <uk text="Автовизначення"/>
+</main_menu_subtitles_auto>
+
+<main_menu_subtitles_track>
+ <uk text="Доріжка"/>
+</main_menu_subtitles_track>
+ 
+<main_menu_subtitles_load>
+ <uk text="Завантажити файл"/>
+</main_menu_subtitles_load>
+
+<main_menu_video>
+ <uk text="Відео"/>
+</main_menu_video>
+
+<main_menu_video_track>
+ <uk text="Доріжка"/>
+</main_menu_video_track>
+
+<main_menu_video_deint>
+ <uk text="Деінтерлейс"/>
+</main_menu_video_deint>
+
+<main_menu_video_crop>
+ <uk text="Обрізати"/>
+</main_menu_video_crop>
+
+<main_menu_video_aspect>
+ <uk text="Співвідношення сторін"/>
+</main_menu_video_aspect>
+
+<main_menu_audio>
+ <uk text="Аудіо"/>
+</main_menu_audio>
+
+<main_menu_audio_track>
+ <uk text="Доріжка"/>
+</main_menu_audio_track>
+  
+<main_menu_audio_type>
+ <uk text="Канали звуку"/>
+</main_menu_audio_type>
+ 
+<main_menu_help>
+ <uk text="Допомога"/>
+</main_menu_help>
+
+<main_menu_help_about>
+ <uk text="Про програму"/>
+</main_menu_help_about>
+
+<main_menu_help_update>
+ <uk text="Перевірити оновлення"/>
+</main_menu_help_update>
+
+<main_menu_help_home>
+ <uk text="Домашня сторінка"/>
+</main_menu_help_home>
+
+<main_menu_help_bugtracker>
+ <uk text="Багтрекер"/>
+</main_menu_help_bugtracker>
+
+<main_menu_playlist>
+ <uk text="Cписок каналів/Медіа"/>
+</main_menu_playlist>
+<!--Main menu end-->
+
+<!-- tray menu-->
+<tray_menu_restore>
+ <uk text="Відновити"/>
+</tray_menu_restore>
+
+<tray_menu_currentrecords>
+ <uk text="Поточні записи"/>
+</tray_menu_currentrecords>
+
+<tray_menu_exit>
+ <uk text="Завершити всі записи і вийти"/>
+</tray_menu_exit>
+
+<str_tray_number_timer>
+ <uk text="таймер(и)"/>
+</str_tray_number_timer>
+
+<str_tray_number_records>
+ <uk text="запис(и)"/>
+</str_tray_number_records>
+
+<str_tray_play_pause>
+<uk text="Відтворення/Пауза"/>
+</str_tray_play_pause>
+
+<str_tray_stop>
+<uk text="Зупинити"/>
+</str_tray_stop>
+
+<str_tray_playlst>
+<uk text="Cписок каналів/Медіа"/>
+</str_tray_playlst>
+<!--Playlist-->
+
+<playlist_menu_new>
+<uk text="Новий канал/Медіа"/>
+</playlist_menu_new>
+
+<playlist_menu_newgroup>
+<uk text="Нова група"/>
+</playlist_menu_newgroup>
+
+<playlist_menu_move>
+<uk text="Відправити в групу"/>
+</playlist_menu_move>
+
+<playlist_menu_addfile>
+<uk text="Додати файл"/>
+</playlist_menu_addfile>
+
+<playlist_menu_adddir>
+<uk text="Додати папку"/>
+</playlist_menu_adddir>
+
+<playlist_menu_opendir>
+<uk text="Відкрити папку"/>
+</playlist_menu_opendir>
+
+<playlist_menu_del>
+<uk text="Видалити"/>
+</playlist_menu_del>
+
+<playlist_menu_delall>
+<uk text="Видалити всі"/>
+</playlist_menu_delall>
+
+<playlist_menu_epg>
+<uk text="Програма"/>
+</playlist_menu_epg>
+
+<playlist_menu_setup>
+<uk text="Налаштування"/>
+</playlist_menu_setup>
+
+<playlist_menu_updateepg>
+<uk text="Оновити програму"/>
+</playlist_menu_updateepg>
+
+<playlist_menu_updateepgselect>
+<uk text="Оновити програму для вибраних каналів"/>
+</playlist_menu_updateepgselect>
+
+<playlist_menu_loadpls>
+<uk text="Завантажити список каналів"/>
+</playlist_menu_loadpls>
+
+<playlist_menu_unloadpls>
+<uk text="Зберегти список каналів"/>
+</playlist_menu_unloadpls>
+
+<playlist_menu_refreshpls>
+<uk text="Оновити список відтворення"/>
+</playlist_menu_refreshpls>
+
+<playlist_menu_toolbar>
+<uk text="Панель кнопок"/>
+</playlist_menu_toolbar>
+
+<playlist_menu_qprog>
+<uk text="Швидка програма"/>
+</playlist_menu_qprog>
+
+<playlist_menu_qprog_no>
+<uk text="Немає"/>
+</playlist_menu_qprog_no>
+
+<playlist_menu_qprog_beside>
+<uk text="Збоку"/>
+</playlist_menu_qprog_beside>
+
+<playlist_menu_qprog_bottom>
+<uk text="Знизу"/>
+</playlist_menu_qprog_bottom>
+
+<playlist_menu_misc>
+<uk text="Додатково"/>
+</playlist_menu_misc>
+
+<playlist_menu_misc_sort>
+<uk text="Сортування за"/>
+ </playlist_menu_misc_sort>
+
+<playlist_menu_misc_sort_no>
+<uk text="Немає"/>
+</playlist_menu_misc_sort_no>
+
+<playlist_menu_misc_sort_name>
+<uk text="Назва"/>
+</playlist_menu_misc_sort_name>
+
+<playlist_menu_misc_sort_namedesc>
+<uk text="Назва (спаданням)"/>
+</playlist_menu_misc_sort_namedesc>
+
+<playlist_menu_misc_sort_adr>
+<uk text="Адреса"/>
+</playlist_menu_misc_sort_adr>
+
+<playlist_menu_misc_sort_adrdesc>
+<uk text="Адреса (спаданням)"/>
+</playlist_menu_misc_sort_adrdesc>
+
+<playlist_menu_misc_sort_number>
+<uk text="Номер"/>
+</playlist_menu_misc_sort_number>
+
+<playlist_menu_misc_sort_numberdesc>
+<uk text="Номер (спаданням)"/>
+</playlist_menu_misc_sort_numberdesc>
+
+<playlist_menu_misc_showadr>
+<uk text="Показувати адресу"/>
+</playlist_menu_misc_showadr>
+
+<playlist_menu_misc_record>
+<uk text="Запис"/>
+</playlist_menu_misc_record>
+
+<playlist_menu_misc_check>
+<uk text="Перевірити вибрані канали"/>
+</playlist_menu_misc_check>
+
+<playlist_menu_misc_clear_last_pos>
+<uk text="Скинути позицію"/>
+</playlist_menu_misc_clear_last_pos>
+
+<playlist_menu_filterbyname>
+<uk text="Фільтр за назвою"/>
+</playlist_menu_filterbyname>
+
+<playlist_menu_delfilterbyname>
+<uk text="Видалити фільтр"/>
+</playlist_menu_delfilterbyname>
+
+<playlist_menu_selectall>
+<uk text="Вибрати всі"/>
+</playlist_menu_selectall>
+
+<!-- Playlist menu extfilter -->
+<playlist_extfilter_menu_up>
+<uk text="Вгору"/>
+</playlist_extfilter_menu_up>
+
+<playlist_extfilter_menu_down>
+<uk text="Вниз"/>
+</playlist_extfilter_menu_down>
+
+<playlist_extfilter_menu_new>
+<uk text="Новий"/>
+</playlist_extfilter_menu_new>
+
+<playlist_extfilter_menu_edit>
+<uk text="Редагувати"/>
+</playlist_extfilter_menu_edit>
+
+<playlist_extfilter_menu_del>
+<uk text="Видалити фільтр %s"/>
+</playlist_extfilter_menu_del>
+
+<playlist_extfilter_menu_delall>
+<uk text="Видалити фільтр %s і всі канали"/>
+</playlist_extfilter_menu_delall>
+
+<playlist_extfilter_menu_swtype>
+<uk text="Тип перемикання"/>
+</playlist_extfilter_menu_swtype>
+
+<playlist_extfilter_menu_swtype_checked>
+<uk text="Вибір декілька"/>
+</playlist_extfilter_menu_swtype_checked>
+
+<playlist_extfilter_menu_swtype_radio>
+<uk text="Вибір по одному"/>
+</playlist_extfilter_menu_swtype_radio>
+
+<playlist_extfilter_menu_showgroup>
+<uk text="Завжди показувати групи"/>
+</playlist_extfilter_menu_showgroup>
+
+<playlist_extfilter_dialog_name>
+<uk text="Назва"/>
+</playlist_extfilter_dialog_name>
+
+<playlist_extfilter_dialog_logo>
+<uk text="Логотип"/>
+</playlist_extfilter_dialog_logo>
+
+<!-- Playlist toolbar menu -->
+
+<playlist_toolbar_menu_view_default>
+<uk text="Стандартний"/>
+</playlist_toolbar_menu_view_default>
+
+<playlist_toolbar_menu_view_epg>
+<uk text="Програма"/>
+</playlist_toolbar_menu_view_epg>
+
+<playlist_toolbar_menu_view_setup>
+<uk text="Налаштування"/>
+</playlist_toolbar_menu_view_setup>
+
+<str_playlist_toolbar_empty_filter>
+<uk text="Фільтр"/>
+</str_playlist_toolbar_empty_filter>
+
+<!-- Playlist EPG menu -->
+<playlist_epg_menu_record>
+<uk text="Записати"/>
+</playlist_epg_menu_record>
+
+<playlist_epg_menu_timer>
+<uk text="Встановити таймер запису"/>
+</playlist_epg_menu_timer>
+
+<playlist_epg_menu_timermarg>
+<uk text="Встановити таймер запису з запасом"/>
+</playlist_epg_menu_timermarg>
+
+<playlist_epg_menu_alert>
+<uk text="Нагадати"/>
+</playlist_epg_menu_alert>
+
+<playlist_epg_menu_delete>
+<uk text="Видалити таймер"/>
+</playlist_epg_menu_delete>
+
+<!-- Playlist Common -->
+<str_epg_updating>
+<uk text="Йде оновлення"/>
+</str_epg_updating>
+
+<str_epg_nodata>
+<uk text="Немає даних"/>
+</str_epg_nodata>
+
+<str_epg_timeformat>
+<uk text="%Hг %Mхв"/>
+</str_epg_timeformat>
+
+<str_out_group>
+ <uk text="Поза групою"/>
+</str_out_group>
+
+<str_delete_selected>
+<uk text="Видалити вибране?"/>
+</str_delete_selected>
+
+<str_delete_group>
+<uk text="Видалити групу '%s' і всі її канали?"/>
+</str_delete_group>
+
+<str_delete_item>
+<uk text="Видалити канал '%s'?"/>
+</str_delete_item>
+		
+<str_delete_all>
+<uk text="Видалити всі?"/>
+</str_delete_all>
+
+<str_create_new_group>
+<uk text="Нова Група"/>
+</str_create_new_group>
+
+<str_create_new_item>
+<uk text="Новий канал"/>
+</str_create_new_item>
+
+<str_chose_folder>
+<uk text="Вибрати папку"/>
+</str_chose_folder>
+
+<!-- Playlist Tooltip -->
+<tooltip_pls_auto_epg>
+ <uk text="Авто пошук програми"/>
+</tooltip_pls_auto_epg>
+ 
+<tooltip_pls_del_epg>
+ <uk text="Видалити програму"/>
+</tooltip_pls_del_epg>
+  
+<tooltip_pls_auto_logo>
+ <uk text="Авто пошук логотипу"/>
+</tooltip_pls_auto_logo>
+ 
+<tooltip_pls_del_number>
+ <uk text="Видалити номер"/>
+</tooltip_pls_del_number>
+ 
+<tooltip_pls_auto_num>
+ <uk text="Авто нумерація"/>
+</tooltip_pls_auto_num>
+ 
+<tooltip_pls_logo_manual>
+ <uk text="Шукати вручну"/>
+</tooltip_pls_logo_manual>
+ 
+ 
+<tooltip_pls_brightness>
+ <uk text="Яскравість"/>
+</tooltip_pls_brightness>
+ 
+<tooltip_pls_contrast>
+ <uk text="Контрастність"/>
+</tooltip_pls_contrast>
+ 
+<tooltip_pls_saturation>
+ <uk text="Насиченість"/>
+</tooltip_pls_saturation>
+ 
+<tooltip_pls_color>
+ <uk text="Відтінок"/>
+</tooltip_pls_color>
+ 
+<tooltip_pls_gamma>
+ <uk text="Гамма"/>
+</tooltip_pls_gamma>
+ 
+<tooltip_pls_scale>
+ <uk text="Масштаб"/>
+</tooltip_pls_scale>
+ 
+<tooltip_pls_sharpness>
+ <uk text="Чіткість"/>
+</tooltip_pls_sharpness>
+ 
+<tooltip_pls_voloume>
+ <uk text="Гучність"/>
+</tooltip_pls_voloume>
+ 
+<tooltip_pls_del_logo>
+ <uk text="Видалити логотип"/>
+</tooltip_pls_del_logo>
+ 
+<!-- Records window -->
+
+<record_menu_pause>
+<uk text="Пауза"/>
+</record_menu_pause>
+
+<record_menu_resume>
+<uk text="Продовжити"/>
+</record_menu_resume>
+
+<record_menu_delete>
+<uk text="Видалити"/>
+</record_menu_delete>
+
+<record_menu_up>
+<uk text="Вгору"/>
+</record_menu_up>
+
+<record_menu_down>
+<uk text="Вниз"/>
+</record_menu_down>
+
+<record_menu_toolbar>
+<uk text="Панель кнопок"/>
+</record_menu_toolbar>
+
+<!--  -->
+
+<record_toolbar_pause>
+ <uk text="Пауза"/>
+</record_toolbar_pause>
+ 
+<record_toolbar_continue_record>
+ <uk text="Продовжити запис"/>
+</record_toolbar_continue_record>
+ 
+<record_toolbar_delete>
+ <uk text="Видалити"/>
+</record_toolbar_delete>
+ 
+<record_toolbar_up>
+ <uk text="Вгору"/>
+</record_toolbar_up>
+ 
+<record_toolbar_down>
+ <uk text="Вниз"/>
+</record_toolbar_down>
+  
+ 
+<!-- Config window -->
+
+<config_window_caption>
+ <uk text="Налаштування"/>
+</config_window_caption>
+
+<config_tree_root>
+ <uk text="Налаштування"/>
+</config_tree_root>
+
+<config_tree_picture>
+ <uk text="Зображення"/>
+</config_tree_picture>
+
+<config_tree_control>
+ <uk text="Керування"/>
+ </config_tree_control>
+
+ <config_tree_control_winlirc>
+ <uk text="WinLirc"/>
+ </config_tree_control_winlirc>
+
+ <config_tree_control_mouse>
+ <uk text="Миша"/>
+ </config_tree_control_mouse>
+
+<config_tree_control_other>
+ <uk text="Додатково"/>
+</config_tree_control_other>
+
+<config_tree_network>
+ <uk text="Налаштування мережі"/>
+</config_tree_network>
+
+<config_tree_network_cach>
+ <uk text="Кешування"/>
+</config_tree_network_cach>
+
+<config_tree_network_proxy>
+ <uk text="UDP у HTTP проксі"/>
+</config_tree_network_proxy>
+
+<config_tree_network_proxy_http>
+ <uk text="HTTP проксі"/>
+</config_tree_network_proxy_http>
+
+<config_tree_osd>
+ <uk text="OSD"/>
+</config_tree_osd>
+
+<config_tree_osd_ext>
+ <uk text="Додатково"/>
+</config_tree_osd_ext>
+
+<config_tree_osd_pip>
+ <uk text="PiP"/>
+</config_tree_osd_pip>
+
+<config_tree_osd_mpip>
+ <uk text="Мульти PiP"/>
+</config_tree_osd_mpip>
+
+<config_tree_osd_cpanel>
+ <uk text="Панель керування"/>
+</config_tree_osd_cpanel>
+
+<config_tree_view>
+ <uk text="Вигляд"/>
+</config_tree_view>
+
+<config_tree_view_wallpaper>
+ <uk text="Шпалери"/>
+</config_tree_view_wallpaper>
+
+<config_tree_view_pls>
+ <uk text="Список відтворення"/>
+</config_tree_view_pls>
+
+<config_tree_view_skin>
+ <uk text="Інтерфейс"/>
+</config_tree_view_skin>
+
+<config_tree_sound>
+ <uk text="Звук"/>
+</config_tree_sound>
+
+<config_tree_video>
+ <uk text="Відео"/>
+</config_tree_video>
+ 
+<config_tree_video_out>
+ <uk text="Виведення"/>
+</config_tree_video_out>
+
+<config_tree_video_directx>
+ <uk text="DirectX"/>
+</config_tree_video_directx>
+
+<config_tree_video_modules>
+ <uk text="Модулі"/>
+</config_tree_video_modules>
+
+<config_tree_video_decoders>
+ <uk text="Декодери"/>
+</config_tree_video_decoders>
+
+<config_tree_video_decoders_ffmpeg>
+ <uk text="ffmpeg"/>
+</config_tree_video_decoders_ffmpeg>
+
+<config_tree_record>
+ <uk text="Запис"/>
+</config_tree_record>
+
+<config_tree_epg>
+ <uk text="Програма"/>
+</config_tree_epg>
+
+<config_tree_playback>
+ <uk text="Відтворення"/>
+</config_tree_playback>
+
+<config_tree_timeshift>
+ <uk text="Таймшіфт"/>
+</config_tree_timeshift>
+ 
+<config_tree_system>
+ <uk text="Система"/>
+</config_tree_system>
+
+<config_tree_import>
+ <uk text="Імпорт"/>
+</config_tree_import>
+
+<config_tree_export>
+ <uk text="Експорт"/>
+</config_tree_export>
+
+<config_tree_ext>
+ <uk text="Додатково"/>
+</config_tree_ext>
+
+<!-- Playlist channel config dialog -->
+<dialog_pls_config_chname>
+ <uk text="Назва"/>
+</dialog_pls_config_chname>
+
+<dialog_pls_config_static_ch1>
+ <uk text="Налаштування каналу"/>
+</dialog_pls_config_static_ch1>
+
+<dialog_pls_config_use_common_setting>
+ <uk text="Вживати загальні налаштування"/>
+</dialog_pls_config_use_common_setting>
+
+<dialog_pls_config_adress>
+ <uk text="Адреса"/>
+</dialog_pls_config_adress>
+
+<dialog_pls_config_adress_pip>
+ <uk text="Адреса mPiP/PiP"/>
+</dialog_pls_config_adress_pip>
+
+<dialog_pls_config_ratio>
+ <uk text="Пропорції сторін"/>
+</dialog_pls_config_ratio>
+
+<dialog_pls_config_crop>
+ <uk text="Обрізати"/>
+</dialog_pls_config_crop>
+
+<dialog_pls_config_deint>
+ <uk text="Деінтерлейс"/>
+</dialog_pls_config_deint>
+
+<dialog_pls_config_atrack>
+ <uk text="Звукова доріжка"/>
+</dialog_pls_config_atrack>
+
+<dialog_pls_config_vtrack>
+ <uk text="Відео доріжка"/>
+</dialog_pls_config_vtrack>
+
+<dialog_pls_config_number>
+ <uk text="Номер"/>
+</dialog_pls_config_number>
+
+<dialog_pls_config_static_ch2>
+ <uk text="Програма"/>
+</dialog_pls_config_static_ch2>
+
+<dialog_pls_config_time_offset>
+ <uk text="Зміщення часу"/>
+</dialog_pls_config_time_offset>
+
+<dialog_pls_config_epgname>
+ <uk text="Програма"/>
+</dialog_pls_config_epgname>
+
+<dialog_pls_config_logo>
+ <uk text="Логотип"/>
+</dialog_pls_config_logo>
+
+<dialog_pls_config_static_ch3>
+ <uk text="Налаштування"/>
+</dialog_pls_config_static_ch3>
+
+<dialog_pls_config_save>
+ <uk text="Зберегти"/>
+</dialog_pls_config_save>
+
+<dialog_pls_config_combo_str_nologo>
+<uk text="Немає логотипу"/>
+</dialog_pls_config_combo_str_nologo>
+
+<dialog_pls_config_combo_str_noepg>
+ <uk text="Немає програми"/>
+</dialog_pls_config_combo_str_noepg>
+
+<dialog_pls_config_combo_str_timeformat>
+ <uk text="г"/>
+</dialog_pls_config_combo_str_timeformat>
+
+<dialog_pls_config_combo_str_logonotfound>
+ <uk text="Логотип не знайдено. Завантажити з мережі?"/>
+</dialog_pls_config_combo_str_logonotfound>
+
+<dialog_pls_config_combo_str_select_more_channels>
+ <uk text="Виберіть кілька каналів"/>
+</dialog_pls_config_combo_str_select_more_channels>
+
+<dialog_pls_config_combo_str_processing>
+ <uk text="Обробка"/>
+</dialog_pls_config_combo_str_processing>
+
+<dialog_pls_config_ffmpeg_caption>
+ <uk text="Локальні налаштування ffmpeg"/>
+</dialog_pls_config_ffmpeg_caption>
+
+<dialog_pls_config_ffmpeg_warn>
+ <uk text="ffmpeg - зміна параметрів сильно впливає на швидкість/якість"/>
+</dialog_pls_config_ffmpeg_warn>
+
+<dialog_pls_config_ffmpeg_frameskip>
+ <uk text="пропускати кадри"/>
+</dialog_pls_config_ffmpeg_frameskip>
+
+ <dialog_pls_config_ffmpeg_skipidct>
+ <uk text="пропускати idct"/>
+</dialog_pls_config_ffmpeg_skipidct>
+ 
+<dialog_pls_config_ffmpeg_loopfilter>
+ <uk text="пропускати loop-filter"/>
+</dialog_pls_config_ffmpeg_loopfilter>
+ 
+ <dialog_pls_config_ffmpeg_resolution>
+ <uk text="Роздільність"/>
+</dialog_pls_config_ffmpeg_resolution>
+ 
+ <dialog_pls_config_ffmpeg_resolution_hi>
+ <uk text="Висока"/>
+</dialog_pls_config_ffmpeg_resolution_hi>
+ 
+<dialog_pls_config_ffmpeg_resolution_mid>
+ <uk text="Середня"/>
+</dialog_pls_config_ffmpeg_resolution_mid>
+
+<dialog_pls_config_ffmpeg_resolution_low>
+ <uk text="Низька"/>
+</dialog_pls_config_ffmpeg_resolution_low>
+
+<dialog_pls_config_auto_num_caption>
+ <uk text="Автоматична нумерація"/>
+</dialog_pls_config_auto_num_caption>
+
+<dialog_pls_config_auto_num_start_with>
+ <uk text="Почати з номера"/>
+</dialog_pls_config_auto_num_start_with>
+
+<dialog_pls_scan_result>
+ <uk text="Перевірено - %u,не відповіли - %u"/>
+</dialog_pls_scan_result>
+
+<dialog_pls_check_dialog_caption>
+ <uk text="Параметри перевірки каналів"/>
+</dialog_pls_check_dialog_caption>
+ 
+<dialog_pls_check_dialog_timeout>
+ <uk text="Таймаут"/>
+</dialog_pls_check_dialog_timeout>
+ 
+<dialog_pls_check_dialog_sec>
+ <uk text="сек"/>
+</dialog_pls_check_dialog_sec>
+ 
+<dialog_pls_check_dialog_typequery>
+ <uk text="Канал знайдено, якщо"/>
+</dialog_pls_check_dialog_typequery>
+
+<dialog_pls_check_dialog_typequery_1>
+ <uk text="Встановлено з'єднання"/>
+</dialog_pls_check_dialog_typequery_1>
+ 
+<dialog_pls_check_dialog_typequery_2>
+ <uk text="Відтворення відеопотоку"/>
+</dialog_pls_check_dialog_typequery_2>
+
+<!-- playlist EPG -->
+<dialog_pls_epg_now>
+ <uk text="зараз"/>
+</dialog_pls_epg_now>
+
+<dialog_pls_epg_details>
+ <uk text="Подробиці"/>
+</dialog_pls_epg_details>
+
+<dialog_pls_epg_listbox_time>
+ <uk text="Час"/>
+</dialog_pls_epg_listbox_time>
+
+ <dialog_pls_epg_listbox_title>
+ <uk text="Назва передачі"/>
+ </dialog_pls_epg_listbox_title>
+ 
+ <dialog_pls_epg_listbox_description>
+ <uk text="Опис"/>
+</dialog_pls_epg_listbox_description>
+ 
+<dialog_pls_epg_listbox_duration>
+ <uk text="Тривалість"/>
+</dialog_pls_epg_listbox_duration>
+
+<!-- playlist toolbar -->
+<toolbar_pls_loadpls>
+ <uk text="Завантажити список каналів"/>
+</toolbar_pls_loadpls>
+ 
+<toolbar_pls_refresh_pls>
+ <uk text="Оновити список каналів"/>
+</toolbar_pls_refresh_pls>
+
+<toolbar_pls_fav>
+ <uk text="Улюблені канали/Медіа"/>
+</toolbar_pls_fav>
+ 
+<toolbar_pls_on_group>
+ <uk text="Включити групи"/>
+</toolbar_pls_on_group>
+
+<toolbar_pls_off_group>
+ <uk text="Відключити групи"/>
+</toolbar_pls_off_group>
+ 
+<toolbar_pls_new>
+ <uk text="Додати канал"/>
+</toolbar_pls_new>
+ 
+<toolbar_pls_new_group>
+ <uk text="Додати групу"/>
+</toolbar_pls_new_group>
+ 
+<toolbar_pls_delete>
+ <uk text="Видалити"/>
+</toolbar_pls_delete>
+ 
+<toolbar_pls_delete_all>
+ <uk text="Видалити всі"/>
+</toolbar_pls_delete_all>
+
+<toolbar_pls_epg>
+ <uk text="Швидка програма"/>
+</toolbar_pls_epg>
+ 
+<toolbar_pls_type_view>
+ <uk text="Вигляд(програма,налаштування)"/>
+</toolbar_pls_type_view>
+
+<toolbar_pls_check_items>
+ <uk text="Перевірити вибрані канали"/>
+</toolbar_pls_check_items>
+ 
+<toolbar_pls_del_filter>
+ <uk text="Видалити фільтр"/>
+</toolbar_pls_del_filter>
+ 
+<toolbar_pls_auto_filter_off>
+ <uk text="Авто фільтр вимкнений"/>
+</toolbar_pls_auto_filter_off>
+
+<toolbar_pls_auto_filter_on>
+ <uk text="Авто фільтр включений"/>
+</toolbar_pls_auto_filter_on>
+ 
+<toolbar_pls_scan_hide_panel>
+ <uk text="Сховати панель"/>
+</toolbar_pls_scan_hide_panel>
+
+<toolbar_pls_scan_stop>
+ <uk text="Зупинити сканування"/>
+</toolbar_pls_scan_stop>
+ 
+<toolbar_pls_scan_setting>
+ <uk text="Налаштування сканування"/>
+</toolbar_pls_scan_setting>
+ 
+<toolbar_pls_scan_show_notwork>
+ <uk text="Показати список непрацюючих каналів"/>
+</toolbar_pls_scan_show_notwork>
+ 
+<!-- dialog scan window -->
+<dialog_scan_caption>
+ <uk text="Пошук каналів"/>
+</dialog_scan_caption>
+
+<dialog_scan_ip_from>
+ <uk text="від"/>
+</dialog_scan_ip_from>
+
+ <dialog_scan_ip_to>
+ <uk text="до"/>
+</dialog_scan_ip_to>
+
+ <dialog_scan_port_from>
+ <uk text="порт від"/>
+ </dialog_scan_port_from>
+
+ <dialog_scan_port_to>
+ <uk text="до"/>
+ </dialog_scan_port_to>
+
+ <dialog_scan_port_prefix>
+ <uk text="префікс порту"/>
+ </dialog_scan_port_prefix>
+
+ <dialog_scan_timeout>
+ <uk text="таймаут"/>
+ </dialog_scan_timeout>
+ 
+ <dialog_scan_threads_number>
+ <uk text="потоків"/>
+ </dialog_scan_threads_number>
+
+ <dialog_scan_prefix>
+ <uk text="префікс"/>
+ </dialog_scan_prefix>
+
+ <dialog_scan_postfix>
+ <uk text="постфікс"/>
+ </dialog_scan_postfix>
+ 
+ <dialog_scan_Info>
+ <uk text="Для збереження - виберіть канали і натисніть зберегти.\nДля перегляду - подвійний клік на каналі."/>
+ </dialog_scan_Info>
+ 
+ <dialog_scan_button_del>
+ <uk text="видалити"/>
+ </dialog_scan_button_del>
+ 
+ <dialog_scan_button_save>
+ <uk text="зберегти"/>
+ </dialog_scan_button_save>
+ 
+ <dialog_scan_button_stop>
+ <uk text="зупинити"/>
+</dialog_scan_button_stop>
+
+ <dialog_scan_button_scan>
+ <uk text="сканувати"/>
+ </dialog_scan_button_scan>
+  
+<dialog_scan_str_check_ip>
+ <uk text="Перевірте IP адреси"/>
+</dialog_scan_str_check_ip>
+ 
+<dialog_scan_str_check_port>
+ <uk text="Перевірте порти"/>
+ </dialog_scan_str_check_port>
+ 
+<dialog_scan_str_scanning>
+ <uk text="Сканую"/>
+</dialog_scan_str_scanning>
+ 
+ <dialog_scan_str_found_results>
+ <uk text="Знайдено %u канал(ів), непрацюючих %u"/>
+ </dialog_scan_str_found_results>
+ 
+ <dialog_scan_str_channel>
+ <uk text="Канал"/>
+ </dialog_scan_str_channel>
+
+<dialog_scan_str_new_channel>
+ <uk text="Новий канал"/>
+</dialog_scan_str_new_channel>
+
+<dialog_scan_str_view>
+ <uk text="Перегляд"/>
+</dialog_scan_str_view>
+
+<dialog_scan_str_tree_new_channel>
+ <uk text="Нові канали/медіа"/>
+</dialog_scan_str_tree_new_channel>
+
+ <dialog_scan_str_tree_channel_in_base>
+ <uk text="Канали вже є в базі"/>
+</dialog_scan_str_tree_channel_in_base>
+ 
+<dialog_scan_str_tree_channel_mpip>
+ <uk text="Канали Мульти PiP"/>
+</dialog_scan_str_tree_channel_mpip>
+ 
+<dialog_scan_str_tree_channel_notwork>
+ <uk text="Непрацюючі канали"/>
+</dialog_scan_str_tree_channel_notwork>
+
+<dialog_scan_test_name>
+ <uk text="Намагатися визначити назву"/>
+</dialog_scan_test_name>
+ 
+ <!-- Open url dialog -->
+<dialog_open_url_caption>
+ <uk text="Відкрити адресу"/>
+</dialog_open_url_caption>
+ 
+ <dialog_open_url_enter>
+ <uk text="Введіть адресу"/>
+</dialog_open_url_enter>
+ 
+ <!--  Record dialog -->
+ 
+<dialog_records_caption>
+ <uk text="Планувальник"/>
+</dialog_records_caption>
+ 
+<dialog_records_onoff>
+ <uk text="Включити планувальник"/>
+</dialog_records_onoff>
+ 
+<dialog_records_more>
+ <uk text="більше &gt;&gt;"/>
+</dialog_records_more>
+
+<dialog_records_less>
+ <uk text="&lt;&lt; менше"/>
+</dialog_records_less>
+ 
+ <dialog_records_str_name>
+ <uk text="Назва"/>
+</dialog_records_str_name>
+
+<dialog_records_str_channel>
+ <uk text="Канал"/>
+</dialog_records_str_channel>
+ 
+ <dialog_records_str_start>
+ <uk text="Початок"/>
+</dialog_records_str_start>
+ 
+<dialog_records_str_len>
+ <uk text="Тривалість"/>
+</dialog_records_str_len>
+ 
+ <dialog_records_str_time_elapsed>
+ <uk text="Минуло часу"/>
+</dialog_records_str_time_elapsed>
+ 
+ <dialog_records_str_epg>
+ <uk text="Програма"/>
+</dialog_records_str_epg>
+
+<!-- Record ext dialog -->
+ <dialog_records_ext_static_details>
+ <uk text="Подробиці"/>
+ </dialog_records_ext_static_details>
+
+ <dialog_records_ext_name>
+ <uk text="Назва"/>
+</dialog_records_ext_name>
+
+<dialog_records_ext_start>
+ <uk text="Початок"/>
+</dialog_records_ext_start>
+
+<dialog_records_ext_by_days>
+ <uk text="по дням"/>
+</dialog_records_ext_by_days>
+
+<dialog_records_ext_end>
+ <uk text="Закінчення"/>
+</dialog_records_ext_end>
+
+<dialog_records_ext_len>
+ <uk text="Тривалість"/>
+</dialog_records_ext_len>
+
+<dialog_records_ext_type>
+ <uk text="Тип"/>
+</dialog_records_ext_type>
+ 
+<dialog_records_ext_channel>
+ <uk text="Канал"/>
+</dialog_records_ext_channel>
+
+<dialog_records_ext_epg>
+ <uk text="Програма"/>
+</dialog_records_ext_epg>
+
+<dialog_records_ext_end_action>
+ <uk text="По закінченню"/>
+</dialog_records_ext_end_action>
+ 
+<dialog_records_ext_del_after>
+ <uk text="Видалити після завершення"/>
+</dialog_records_ext_del_after>
+ 
+<dialog_records_ext_copy>
+ <uk text="Копіювати"/>
+</dialog_records_ext_copy>
+ 
+<dialog_records_ext_save>
+ <uk text="Зберегти"/>
+</dialog_records_ext_save>
+
+<dialog_records_ext_str_new>
+ <uk text="Новий1"/>
+</dialog_records_ext_str_new>
+ 
+<!--   -->
+ <dialog_records_ext_type_timer_timer>
+ <uk text="Таймер запису"/>
+</dialog_records_ext_type_timer_timer>
+ 
+<dialog_records_ext_type_timer_alert>
+ <uk text="Нагадування"/>
+</dialog_records_ext_type_timer_alert>
+ 
+ <dialog_records_ext_type_timer_record>
+ <uk text="Швидка запис"/>
+</dialog_records_ext_type_timer_record>
+ 
+<dialog_records_ext_type_timer_update_epg>
+ <uk text="Оновлення програми"/>
+</dialog_records_ext_type_timer_update_epg>
+ 
+<dialog_records_ext_type_timer_sleep>
+ <uk text="Спати"/>
+</dialog_records_ext_type_timer_sleep>
+
+ <!--   -->
+<dialog_records_ext_type_end_action_nothing>
+ <uk text="Нічого не робити"/>
+</dialog_records_ext_type_end_action_nothing>
+
+<dialog_records_ext_type_end_action_exit>
+ <uk text="Вихід"/>
+</dialog_records_ext_type_end_action_exit>
+ 
+<dialog_records_ext_type_end_action_tray>
+ <uk text="Згорнути в трей"/>
+</dialog_records_ext_type_end_action_tray>
+ 
+<dialog_records_ext_type_end_action_shutdown>
+ <uk text="Вимкнути комп'ютер"/>
+</dialog_records_ext_type_end_action_shutdown>
+  
+<!-- PiP -->
+<pip_str_menu_close>
+  <uk text="Закрити"/>
+</pip_str_menu_close>
+  
+<pip_str_menu_clear>
+  <uk text="Очистити"/>
+</pip_str_menu_clear>
+  
+<pip_str_menu_select_channel>
+  <uk text="Відтворення"/>
+</pip_str_menu_select_channel>
+
+<pip_str_empty>
+  <uk text="Пусто"/>
+</pip_str_empty>
+  
+ <!-- skin string  -->
+<skin_str_play>
+  <uk text="Відтворення"/>
+</skin_str_play>
+
+<skin_str_pause>
+  <uk text="Пауза"/>
+</skin_str_pause>
+
+<skin_str_faster>
+  <uk text="Збільшити швидкість відтворення"/>
+</skin_str_faster>
+  
+<skin_str_ff>
+  <uk text="Перемотка вперед"/>
+</skin_str_ff>
+
+<skin_str_next>
+  <uk text="Наступний канал/медіа"/>
+</skin_str_next>
+ 
+<skin_str_slow>
+  <uk text="Зменшити швидкість відтворення"/>
+</skin_str_slow>
+  
+<skin_str_rew>
+  <uk text="Перемотка назад"/>
+</skin_str_rew>
+  
+<skin_str_prev>
+  <uk text="Попередній канал/медіа"/>
+</skin_str_prev>
+  
+<skin_str_stop>
+  <uk text="Зупинити"/>
+</skin_str_stop>
+
+<skin_str_record>
+  <uk text="Запис"/>
+</skin_str_record>
+  
+<skin_str_open_pls>
+  <uk text="Відкрити список відтворення"/>
+</skin_str_open_pls>
+  
+<skin_str_close_pls>
+  <uk text="Закрити список відтворення"/>
+</skin_str_close_pls>
+  
+<skin_str_show_pip>
+  <uk text="Показати PiP"/>
+</skin_str_show_pip>
+  
+<skin_str_hide_pip>
+  <uk text="Сховати PiP"/>
+</skin_str_hide_pip>
+  
+<skin_str_show_mpip>
+  <uk text="Показати Мульти PiP"/>
+</skin_str_show_mpip>
+  
+<skin_str_hide_mpip>
+  <uk text="Сховати Мульти PiP"/>
+</skin_str_hide_mpip>
+  
+<skin_str_show_eq>
+  <uk text="Показати еквалайзера"/>
+</skin_str_show_eq>
+  
+<skin_str_hide_eq>
+  <uk text="Сховати еквалайзера"/>
+</skin_str_hide_eq>
+  
+<skin_str_preferences>
+  <uk text="Налаштування"/>
+</skin_str_preferences>
+  
+<skin_str_exit>
+  <uk text="Вихід"/>
+</skin_str_exit>
+  
+<skin_str_minimize>
+  <uk text="Мінімізувати"/>
+</skin_str_minimize>
+  
+ <skin_str_to_tray>
+  <uk text="Згорнути в трей"/>
+</skin_str_to_tray>
+  
+<skin_str_fullscr>
+  <uk text="Повний екран"/>
+</skin_str_fullscr>
+  
+<skin_str_fulscr_exit>
+  <uk text="Вийти з повного екрану"/>
+</skin_str_fulscr_exit>
+
+<skin_str_on_top>
+  <uk text="Завжди зверху вікон"/>
+</skin_str_on_top>
+
+<skin_str_dis_ontop>
+  <uk text="Скасувати завжди зверху вікон"/>
+</skin_str_dis_ontop>
+
+<skin_str_crop>
+  <uk text="Обрізати"/>
+</skin_str_crop>
+  
+<skin_str_ratio>
+  <uk text="Співвідношення сторін"/>
+</skin_str_ratio>
+
+<skin_str_deint>
+  <uk text="Деінтерлейс фільтри"/>
+</skin_str_deint>
+
+<skin_str_type_audio>
+  <uk text="Канали звуку"/>
+</skin_str_type_audio>
+
+<skin_str_snapshot>
+  <uk text="Зберегти кадр"/>
+</skin_str_snapshot>
+
+<skin_str_mute>
+  <uk text="Вимкнути звук"/>
+</skin_str_mute>
+
+<skin_str_muteoff>
+  <uk text="Увімкнути звук"/>
+</skin_str_muteoff>
+
+<skin_str_volume>
+  <uk text="Гучність $CURRENTVOLUMEPERSENT"/>
+</skin_str_volume>
+
+<skin_str_down_p_channels>
+ <uk text="Канали"/>
+</skin_str_down_p_channels>
+
+<skin_str_down_p_files>
+ <uk text="Файли"/>
+</skin_str_down_p_files>
+
+<skin_str_down_p_records>
+ <uk text="Записи"/>
+</skin_str_down_p_records>
+
+<skin_str_down_p_videolib>
+ <uk text="Відеотека"/>
+</skin_str_down_p_videolib>
+
+<skin_str_header_tree_osd_0>
+ <uk text="Список відтворення ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_osd_0>
+ 
+<skin_str_header_tree_osd_1>
+ <uk text="Список відтворення ($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_osd_1>
+ 
+<skin_str_header_tree_0>
+ <uk text="Список відтворення - $CURRENTMEDIAMODE($ALLITEMCOUNT) - $CURENTGROUP : $CURRENTPLAYINGITEM"/>
+</skin_str_header_tree_0>
+
+<skin_str_slider_volume>
+ <uk text="Гучність"/>
+</skin_str_slider_volume>
+
+<skin_str_slider_brightness>
+ <uk text="Яскравість"/>
+</skin_str_slider_brightness>
+
+<skin_str_slider_contrast>
+ <uk text="Контрастність"/>
+</skin_str_slider_contrast>
+
+<skin_str_slider_saturation>
+ <uk text="Насиченість"/>
+</skin_str_slider_saturation>
+ 
+<skin_str_slider_hue>
+ <uk text="Відтінок"/>
+</skin_str_slider_hue>
+ 
+<skin_str_slider_gamma>
+ <uk text="Гамма"/>
+</skin_str_slider_gamma>
+ 
+<skin_str_slider_scale>
+ <uk text="Масштаб"/>
+</skin_str_slider_scale>
+ 
+<skin_str_slider_sharpness>
+ <uk text="Чіткість"/>
+</skin_str_slider_sharpness>
+ 
+<!--  Dialog load playlist -->
+<dialog_load_pls_caption>
+ <uk text="Завантаження каналів"/>
+</dialog_load_pls_caption>
+ 
+<dialog_load_pls_auto_load>
+ <uk text="Автооновлення при запуску програми"/>
+</dialog_load_pls_auto_load>
+  
+<dialog_load_pls_ask_before_load>
+ <uk text="Питати перед завантаженням"/>
+</dialog_load_pls_ask_before_load>
+  
+<dialog_load_pls_save_setting>
+ <uk text="Зберегти налаштування"/>
+</dialog_load_pls_save_setting>
+  
+<dialog_load_pls_load>
+ <uk text="Завантажити"/>
+</dialog_load_pls_load>
+ 
+<dialog_load_pls_from_mdb>
+ <uk text="Завантажити з бази SimpleTV"/>
+</dialog_load_pls_from_mdb>
+ 
+<dialog_load_pls_from_m3u>
+ <uk text="Завантажити з m3u файлу"/>
+</dialog_load_pls_from_m3u>
+ 
+<dialog_load_pls_from_xml>
+ <uk text="Завантажити з xml файлу"/>
+</dialog_load_pls_from_xml>
+ 
+<dialog_load_pls_result>
+ <uk text="Всього оброблено %i канал(ів)\nДодано %i канал(ів), оновлено  %i канал(ів)"/>
+</dialog_load_pls_result>
+ 
+<dialog_load_pls_file_filter>
+ <uk text="База даних(*.mdb)|*.mdb|Список відтворення(*.m3u)|*.m3u|Файл xml(*.xml)|*.xml|Всі файли(*.*)|*.*||" />
+</dialog_load_pls_file_filter>
+  
+ <dialog_load_mdb_border_1>
+ <uk text="Налаштування для SimpleTV бази   " />
+</dialog_load_mdb_border_1>
+
+<dialog_load_mdb_alldelete>
+ <uk text="Повне завантаження (всі поточні записи будуть видалені)" />
+</dialog_load_mdb_alldelete>
+ 
+<dialog_load_mdb_group>
+ <uk text="Враховувати групи" />
+</dialog_load_mdb_group>
+ 
+<dialog_load_common_border_1>
+ <uk text="Якщо запис існує" />
+</dialog_load_common_border_1>
+
+<dialog_load_common_skip>
+ <uk text="Пропускати якщо збігається" />
+</dialog_load_common_skip>
+
+<dialog_load_common_update>
+ <uk text="Оновлювати якщо збігається" />
+</dialog_load_common_update>
+
+<dialog_load_common_new>
+ <uk text="Завантажувати як новий" />
+</dialog_load_common_new>
+
+<dialog_load_common_name>
+ <uk text="Назва" />
+</dialog_load_common_name>
+
+<dialog_load_common_adr>
+ <uk text="Адреса" />
+</dialog_load_common_adr>
+
+<dialog_load_m3u_border_1>
+ <uk text="Налаштування для m3u файлів" />
+</dialog_load_m3u_border_1>
+
+<dialog_load_m3u_del_before_load>
+ <uk text="Видалити поточні канали і завантажити" />
+</dialog_load_m3u_del_before_load>
+ 
+<dialog_load_m3u_del_warn>
+ <uk text="Всі поточні канали та їх налаштування будуть видалені" />
+</dialog_load_m3u_del_warn>
+ 
+<dialog_load_m3u_auto_find>
+ <uk text="Автоматично шукати програму і логотипи" />
+</dialog_load_m3u_auto_find>
+ 
+<dialog_load_m3u_number>
+ <uk text="Враховувати номери з m3u" />
+</dialog_load_m3u_number>
+ 
+<dialog_load_m3u_group>
+ <uk text="Враховувати групи" />
+</dialog_load_m3u_group>
+ 
+<dialog_load_m3u_coding>
+ <uk text="Кодування" />
+</dialog_load_m3u_coding>
+
+<dialog_load_m3u_ext_filter>
+  <uk text="Розширений фільтр"/>
+</dialog_load_m3u_ext_filter>
+
+
+<!-- Unload dialog -->
+<dialog_unload_caption>
+ <uk text="Експорт cписку відтворення" />
+</dialog_unload_caption>
+ 
+<dialog_unload_export>
+ <uk text="Зберегти" />
+</dialog_unload_export>
+ 
+<dialog_unload_file_filter>
+ <uk text="Список відтворення(*.m3u)|*.m3u|Список відтворення(*.xml)|*.xml|Всі файли(*.*)|*.*||"/>
+</dialog_unload_file_filter>
+ 
+<dialog_unload_in_m3u>
+ <uk text="Зберегти в m3u" />
+</dialog_unload_in_m3u>
+ 
+<dialog_unload_in_xml>
+ <uk text="Зберегти в xml" />
+</dialog_unload_in_xml>
+ 
+<dialog_unload_option>
+ <uk text="Налаштування" />
+</dialog_unload_option>
+ 
+<dialog_unload_type>
+ <uk text="Тип" />
+</dialog_unload_type>
+ 
+<dialog_unload_encoding>
+ <uk text="Кодування" />
+</dialog_unload_encoding>
+ 
+<dialog_unload_with_number>
+ <uk text="Враховувати номери" />
+</dialog_unload_with_number>
+ 
+<dialog_unload_with_group>
+ <uk text="Враховувати групи" />
+</dialog_unload_with_group>
+  
+<dialog_unload_xml_select_channels>
+ <uk text="Виберіть канали" />
+</dialog_unload_xml_select_channels>
+
+<dialog_unload_xml_selected>
+ <uk text="Вибрані" />
+</dialog_unload_xml_selected>
+
+<!-- Dialog new stuff -->
+<dialog_install_stuff_text>
+ <uk text="\nДодаткові списки відтворення до плеєра можна скачати з\n" />
+</dialog_install_stuff_text>
+
+<dialog_install_stuff_button>
+ <uk text="Перейти на сайт" />
+</dialog_install_stuff_button>
+
+<!-- Dialog Check Update -->
+<dialog_check_update_go_homepage>
+ <uk text="Перейти на сайт" />
+</dialog_check_update_go_homepage>
+
+<dialog_check_update_check_start>
+ <uk text="Перевіряти оновлення при запуску програми" />
+</dialog_check_update_check_start>
+
+<dialog_check_update_checking>
+ <uk text="Йде перевірка" />
+</dialog_check_update_checking>
+
+<dialog_check_update_no_new>
+ <uk text="Немає нових версій" />
+</dialog_check_update_no_new>
+
+<dialog_check_update_error>
+ <uk text="Помилка з'єднання" />
+</dialog_check_update_error>
+
+<dialog_check_update_error_new_avail>
+ <uk text="Доступна нова версія" />
+</dialog_check_update_error_new_avail>
+ 
+<!-- OSD -->
+
+<osd_common_button_esc>
+ <uk text="Закрити"/>
+</osd_common_button_esc>
+
+<osd_common_str_aspect>
+ <uk text="Співвідношення сторін: "/>
+</osd_common_str_aspect>
+ 
+<osd_common_str_crop>
+ <uk text="Обрізати: "/>
+</osd_common_str_crop>
+ 
+<osd_common_str_deint>
+ <uk text="Деінтерлейс: "/>
+</osd_common_str_deint>
+ 
+<osd_common_str_sound>
+ <uk text="Звукова доріжка: "/>
+</osd_common_str_sound>
+ 
+<osd_common_str_sound_off>
+ <uk text="Звук: відключено"/>
+</osd_common_str_sound_off>
+ 
+ <osd_common_str_sound_track>
+ <uk text="Звук: доріжка "/>
+</osd_common_str_sound_track>
+ 
+<osd_common_str_adress>
+ <uk text="Адреса: "/>
+</osd_common_str_adress>
+ 
+<osd_common_str_speed>
+ <uk text="Швидкість: "/>
+</osd_common_str_speed>
+
+<osd_common_str_play>
+ <uk text="Відтворення"/>
+</osd_common_str_play>
+ 
+<osd_common_str_stop>
+ <uk text="Зупинити"/>
+</osd_common_str_stop>
+ 
+<osd_common_str_pause>
+ <uk text="Пауза"/>
+</osd_common_str_pause>
+ 
+<osd_common_str_snapshot>
+ <uk text="Знімок: "/>
+</osd_common_str_snapshot>
+ 
+<osd_common_str_sub>
+ <uk text="Субтитри: "/>
+</osd_common_str_sub>
+ 
+<osd_common_str_sub_off>
+ <uk text="Субтитри: відключено"/>
+</osd_common_str_sub_off>
+ 
+<osd_common_str_sub_track>
+ <uk text="Субтитри: доріжка "/>
+</osd_common_str_sub_track>
+ 
+<osd_common_epg_updating>
+ <uk text="Йде оновлення"/>
+</osd_common_epg_updating>
+ 
+<osd_common_epg_no_data>
+ <uk text="Немає даних"/>
+</osd_common_epg_no_data>
+ 
+<osd_common_epg_remains>
+ <uk text="Залишилося "/>
+</osd_common_epg_remains>
+  
+<osd_common_epg_next>
+ <uk text="Далі: "/>
+</osd_common_epg_next>
+
+<osd_common_number_not_found>
+ <uk text="Номер не знайдений"/>
+</osd_common_number_not_found>
+ 
+<osd_common_video>
+ <uk text="Відео доріжка: "/>
+</osd_common_video>
+ 
+<osd_common_video_off>
+ <uk text="Відео: відключено"/>
+</osd_common_video_off>
+ 
+<osd_common_video_track>
+ <uk text="Відео: доріжка "/>
+</osd_common_video_track>
+ 
+<osd_common_audio_type>
+ <uk text="Канали звуку: "/>
+</osd_common_audio_type>
+
+<osd_common_audio_bookmarkadd>
+ <uk text="Закладку додано - "/>
+</osd_common_audio_bookmarkadd>
+ 
+<!-- EPG strings -->
+<epg_common_str_clean_warn>
+ <uk text="Не можна очищати під час оновлення"/>
+</epg_common_str_clean_warn>
+
+<epg_common_str_base_cleared>
+ <uk text="База очищена"/>
+</epg_common_str_base_cleared>
+ 
+<epg_common_str_error_clean>
+ <uk text="Помилка при очистки даних"/>
+</epg_common_str_error_clean>
+ 
+<epg_common_str_epg_updating>
+ <uk text="Йде оновлення програми"/>
+</epg_common_str_epg_updating>
+
+<epg_common_str_udate_not_possible>
+ <uk text="Оновлення неможливо"/>
+</epg_common_str_udate_not_possible>
+
+<epg_common_str_epg_start_update>
+ <uk text="Початок оновлення програми"/>
+</epg_common_str_epg_start_update>
+ 
+<epg_common_str_epg_for>
+ <uk text=" для "/>
+</epg_common_str_epg_for>
+  
+<epg_common_str_epg_update_complete>
+ <uk text="Оновлення програми завершено"/>
+</epg_common_str_epg_update_complete>
+
+<!-- Timers strings -->
+
+<timers_common_str_sleep_from>
+ <uk text="Вимкнення через "/>
+</timers_common_str_sleep_from>
+
+<timers_common_str_exit_from>
+ <uk text="Вихід через "/>
+</timers_common_str_exit_from>
+
+<timers_common_str_sleep_from_sec>
+ <uk text="%s сек"/>
+</timers_common_str_sleep_from_sec>
+ 
+<timers_common_str_sleep_from_min>
+ <uk text="%s хв"/>
+</timers_common_str_sleep_from_min>
+
+<timers_common_str_sleep_from_hours>
+ <uk text="%s г"/>
+</timers_common_str_sleep_from_hours>
+ 
+<timers_common_str_sleep_off>
+ <uk text="Таймер сну вимкнено"/>
+</timers_common_str_sleep_off>
+
+<timers_common_str_reminder>
+ <uk text="Нагадування: "/>
+</timers_common_str_reminder>
+
+<timers_common_str_record_stop_for>
+ <uk text="Запис зупинено. Канал - "/>
+</timers_common_str_record_stop_for>
+
+<timers_common_str_record_stop>
+ <uk text="Запис зупинено"/>
+</timers_common_str_record_stop>
+ 
+<timers_common_str_profile_not_found>
+ <uk text="Профіль запису (%s) не знайдено"/>
+</timers_common_str_profile_not_found>
+ 
+<timers_common_str_unknown_error>
+ <uk text="невідома помилка"/>
+</timers_common_str_unknown_error>
+
+<timers_common_str_cant_create_process>
+ <uk text="помилка(не можу створити процес для запису)"/>
+</timers_common_str_cant_create_process>
+
+<timers_common_str_start_record_for>
+ <uk text="Початок запису: Канал "/>
+</timers_common_str_start_record_for>
+
+<timers_common_str_record>
+ <uk text="Запис: "/>
+</timers_common_str_record>
+
+<!-- OSD Timer-->
+<osd_timers_caption>
+ <uk text="Планувальник"/>
+</osd_timers_caption>
+
+<osd_timers_str_name>
+ <uk text="Назва"/>
+</osd_timers_str_name>
+
+<osd_timers_str_channel>
+ <uk text="Канал"/>
+</osd_timers_str_channel>
+ 
+<osd_timers_str_start>
+ <uk text="Початок"/>
+</osd_timers_str_start>
+ 
+<osd_timers_str_len>
+ <uk text="Тривалість"/>
+</osd_timers_str_len>
+ 
+<osd_timers_str_time_elapsed>
+ <uk text="Минуло часу"/>
+</osd_timers_str_time_elapsed>
+ 
+<osd_timers_str_epg>
+ <uk text="Програма"/>
+</osd_timers_str_epg>
+
+<osd_timers_button_play_pause>
+ <uk text="Відтворення/Пауза"/>
+</osd_timers_button_play_pause>
+
+<osd_timers_button_stop>
+ <uk text="Зупинити - видалити"/>
+</osd_timers_button_stop>
+
+<!-- OSD EPG  -->
+<osd_epg_str_time>
+ <uk text="Час"/>
+</osd_epg_str_time>
+
+<osd_epg_str_title>
+ <uk text="Назва передачі"/>
+</osd_epg_str_title>
+
+<osd_epg_str_description>
+ <uk text="Опис"/>
+</osd_epg_str_description>
+ 
+<osd_epg_str_duration>
+ <uk text="Тривалість"/>
+</osd_epg_str_duration>
+  
+<osd_epg_button_ok>
+ <uk text="Гаразд - Подробиці"/>
+</osd_epg_button_ok>
+  
+<osd_epg_button_play>
+ <uk text="Грати - Поставити/зняти таймер"/>
+</osd_epg_button_play>
+  
+<osd_epg_button_stop>
+ <uk text="Зупинити - Нагадати"/>
+</osd_epg_button_stop>
+  
+<osd_epg_str_details>
+ <uk text="Подробиці - "/>
+</osd_epg_str_details>
+  
+<osd_epg_str_epg_updating>
+ <uk text="Йде оновлення"/>
+</osd_epg_str_epg_updating>
+  
+<osd_epg_str_no_data>
+ <uk text="Немає даних"/>
+</osd_epg_str_no_data>
+  
+<!-- OSD Bookmark -->
+<osd_bookmark_str_caption>
+ <uk text="Закладки"/>
+</osd_bookmark_str_caption>
+
+<osd_bookmark_str_name>
+ <uk text="Назва"/>
+</osd_bookmark_str_name>
+ 
+<osd_bookmark_str_position>
+ <uk text="Позиція"/>
+</osd_bookmark_str_position>
+
+<osd_bookmark_button_empty>
+ <uk text="Немає закладок"/>
+</osd_bookmark_button_empty>
+
+<osd_bookmark_button_ok>
+ <uk text="Гаразд - грати"/>
+</osd_bookmark_button_ok>
+
+<osd_bookmark_button_stop>
+ <uk text="Зупинити - видалити"/>
+</osd_bookmark_button_stop>
+  
+<!-- OSD Ext filter -->
+<osd_extfilter_caption>
+ <uk text="Розширений фільтр"/>
+</osd_extfilter_caption>
+   
+<osd_extfilter_button_ok>
+ <uk text="Гаразд - Вибір"/>
+</osd_extfilter_button_ok>
+
+<!-- OSD Preferences -->
+<osd_preferences_str_video_track>
+ <uk text="Вибір відеопотоку"/>
+</osd_preferences_str_video_track>
+ 
+<osd_preferences_str_auduo_track>
+ <uk text="Вибір аудіопотоку"/>
+</osd_preferences_str_auduo_track>
+  
+<osd_preferences_str_type_audio>
+ <uk text="Вибір типу аудио"/>
+</osd_preferences_str_type_audio>
+ 
+<osd_preferences_str_sub_track>
+ <uk text="Вибір субтитрів"/>
+</osd_preferences_str_sub_track>
+ 
+<osd_preferences_str_deint>
+ <uk text="Вибір деінтерлейсу"/>
+</osd_preferences_str_deint>
+ 
+<osd_preferences_str_crop>
+ <uk text="Вибір обрізки"/>
+</osd_preferences_str_crop>
+ 
+<osd_preferences_str_ratio>
+ <uk text="Вибір співвідношення сторін"/>
+</osd_preferences_str_ratio>
+ 
+<osd_preferences_str_caption>
+ <uk text="Вибір налаштувань"/>
+</osd_preferences_str_caption>
+ 
+<osd_preferences_str_not_available>
+ <uk text="Недоступно"/>
+</osd_preferences_str_not_available>
+  
+<osd_preferences_button_ok>
+ <uk text="Гаразд - Вибір"/>
+</osd_preferences_button_ok>
+  
+<!-- Config tooltip -->
+<tooltip_config_record_edit_profile>
+ <uk text="Редагувати профіль"/>
+</tooltip_config_record_edit_profile>
+
+<tooltip_config_record_open_folder_profile>
+ <uk text="Відкрити папку з профілями"/>
+</tooltip_config_record_open_folder_profile>
+ 
+<tooltip_config_record_refresh_profiles>
+ <uk text="Оновити список профілів"/>
+</tooltip_config_record_refresh_profiles>
+ 
+<tooltip_config_record_enable_pause>
+ <uk text="Дозволяє ставити запис на паузу(з вікна планувальника або OSD)"/>
+</tooltip_config_record_enable_pause>
+ 
+<tooltip_config_record_margin>
+ <uk text="Вкажіть кількість хвилин на яке буде збільшено час при встановлені таймеру"/>
+</tooltip_config_record_margin>
+
+ <tooltip_config_record_enable_wake_from_sleep>
+ <uk text="Дозволяє включення комп'ютера з режиму гібернації/сну для запису за таймером"/>
+</tooltip_config_record_enable_wake_from_sleep>
+ 
+<tooltip_config_wathdog>
+ <uk text="Сторожовий пес - функція що дозволяє контролювати виконання програми.У разі критичної помилки або зависання програми дозволяє відновити нормальний стан."/>
+</tooltip_config_wathdog>
+
+<tooltip_config_input_use_vkey>
+ <uk text="Використовувати віртуальні коди клавіатури замість скан кодів. Ввімкніть цю опцію, якщо для керування програмою використовується сторонні програми,емулюючи натиснення клавіш."/>
+</tooltip_config_input_use_vkey>
+  
+<tooltip_config_input_save_profile>
+ <uk text="Зберегти профіль"/>
+</tooltip_config_input_save_profile>
+
+<tooltip_config_input_open_folder_profile>
+ <uk text="Відкрити папку"/>
+</tooltip_config_input_open_folder_profile>
+ 
+ 
+<!-- Config dialogs-->
+<!-- Config dialog  pict -->
+<dialog_config_pict_ch1>
+ <uk text="Налаштування зображення (стандартно)"/>
+</dialog_config_pict_ch1>
+
+<dialog_config_pict_warn_1>
+ <uk text="Можна змінити налаштування для кожного каналу в &quot;списку відтворення&quot;"/>
+</dialog_config_pict_warn_1>
+ 
+<dialog_config_pict_aspect>
+ <uk text="Співвідношення сторін"/>
+</dialog_config_pict_aspect>
+
+<dialog_config_pict_deint>
+ <uk text="Деінтерлейс"/>
+</dialog_config_pict_deint>
+ 
+<dialog_config_pict_crop>
+ <uk text="Обрізати"/>
+</dialog_config_pict_crop>
+ 
+<dialog_config_pict_ch2>
+ <uk text="Налаштування"/>
+</dialog_config_pict_ch2>
+
+<dialog_config_pict_ch3>
+ <uk text="Крок"/>
+</dialog_config_pict_ch3>
+
+<dialog_config_pict_reset>
+ <uk text="скинути"/>
+</dialog_config_pict_reset>
+
+<!-- Config dialog input -->
+<dialog_config_input_profile>
+ <uk text="Профіль"/>
+</dialog_config_input_profile>
+
+<dialog_config_input_use_vkey>
+ <uk text="Використовувати тільки віртуальні коди"/>
+</dialog_config_input_use_vkey>
+ 
+<dialog_config_input_warn_1>
+ <uk text="Виберіть дію і натисніть клавішу на клавіатурі, миші або ПДК\nПодвійний клік лівою клавішею- очистити клавіші\nПодвійний клік правою клавішею - відновити стандартно"/>
+</dialog_config_input_warn_1>
+
+<dialog_config_input_cant_save>
+ <uk text="Не можу зберегти профіль"/>
+</dialog_config_input_cant_save>
+
+<dialog_config_input_cant_load>
+ <uk text="Не можу завантажити профіль"/>
+</dialog_config_input_cant_load>
+
+<dialog_config_input_list_action>
+ <uk text="Дія"/>
+</dialog_config_input_list_action>
+
+<dialog_config_input_list_key>
+ <uk text="Клавіша"/>
+</dialog_config_input_list_key>
+
+<dialog_config_input_list_remote_key>
+ <uk text="Клавіша ПДК"/>
+</dialog_config_input_list_remote_key>
+
+<dialog_config_input_list_xmouse>
+ <uk text="X миши"/>
+</dialog_config_input_list_xmouse>
+
+<dialog_config_input_list_global>
+ <uk text="Глобально"/>
+</dialog_config_input_list_global>
+
+<dialog_config_input_cant_load_default_profile>
+ <uk text="Не можу завантажити стандартний профіль"/>
+</dialog_config_input_cant_load_default_profile>
+
+<dialog_config_input_dialog_profile>
+ <uk text="Введіть ім'я профілю"/>
+</dialog_config_input_dialog_profile>
+
+
+ <!-- Config dialog lirc -->
+<dialog_config_lirc_ch1>
+ <uk text="WinLirc"/>
+</dialog_config_lirc_ch1>
+
+<dialog_config_lirc_use>
+ <uk text="Використовувати WinLIRC"/>
+</dialog_config_lirc_use>
+
+<dialog_config_lirc_adr>
+ <uk text="Адреса"/>
+</dialog_config_lirc_adr>
+ 
+<dialog_config_lirc_port>
+ <uk text="Порт"/>
+</dialog_config_lirc_port>
+ 
+<dialog_config_lirc_autorun>
+ <uk text="автозапуск"/>
+</dialog_config_lirc_autorun>
+ 
+ <dialog_config_lirc_use_repeat>
+ <uk text="Використовувати код повтору"/>
+</dialog_config_lirc_use_repeat>
+ 
+<dialog_config_lirc_delay_before>
+ <uk text="Затримка перед повтором"/>
+</dialog_config_lirc_delay_before>
+ 
+<dialog_config_lirc_delay_rep>
+ <uk text="Затримка повтору"/>
+</dialog_config_lirc_delay_rep>
+ 
+<dialog_config_lirc_reset>
+ <uk text="Скинути"/>
+</dialog_config_lirc_reset>
+
+<dialog_config_lirc_file_filter>
+ <uk text="exe(*.exe)|*.exe|Всі файли(*.*)|*.*||"/>
+</dialog_config_lirc_file_filter>
+
+<!-- Config dialog mouse -->
+<dialog_config_mouse_ch1>
+ <uk text="Миша"/>
+</dialog_config_mouse_ch1>
+
+<dialog_config_mouse_one_click>
+ <uk text="Перемикання каналу одним кліком"/>
+</dialog_config_mouse_one_click>
+
+<dialog_config_mouse_wheel>
+ <uk text="Прискорення колеса миші"/>
+</dialog_config_mouse_wheel>
+
+<dialog_config_mouse_hide>
+ <uk text="Приховувати мишу в повноекранному режимі"/>
+</dialog_config_mouse_hide>
+
+<dialog_config_mouse_cursor_follow>
+ <uk text="Курсор слід за мишею"/>
+</dialog_config_mouse_cursor_follow>
+
+<dialog_config_mouse_epg>
+ <uk text="Показувати програму"/>
+</dialog_config_mouse_epg>
+
+<!-- Config dialog input ext -->
+
+<dialog_config_input_ext_ch1>
+ <uk text="Налаштування керування (додатково)"/>
+</dialog_config_input_ext_ch1>
+ 
+<dialog_config_input_ext_esc>
+ <uk text="Ecs - вихід з повноекранного режиму"/>
+</dialog_config_input_ext_esc>
+ 
+ <dialog_config_input_ext_record>
+ <uk text="Кнопка запису - Включити режим &apos;Запустити/Зупинити&apos;"/>
+</dialog_config_input_ext_record>
+ 
+<!-- Config dialog network -->
+ 
+<dialog_config_network_ch1>
+ <uk text="Налаштування мережі"/>
+</dialog_config_network_ch1>
+ 
+<dialog_config_network_device>
+ <uk text="Мережевий інтерфейс"/>
+</dialog_config_network_device>
+ 
+ <!-- Config dialog caching -->
+ 
+<dialog_config_caching_ch1>
+ <uk text="Кешування"/>
+</dialog_config_caching_ch1>
+
+<dialog_config_caching_rtp>
+ <uk text="Розмір кешу rtp"/>
+</dialog_config_caching_rtp>
+ 
+<dialog_config_caching_udp>
+ <uk text="Розмір кешу udp"/>
+</dialog_config_caching_udp>
+ 
+<dialog_config_caching_mms>
+ <uk text="Розмір кешу mms"/>
+</dialog_config_caching_mms>
+ 
+<dialog_config_caching_http>
+ <uk text="Розмір кешу http"/>
+</dialog_config_caching_http>
+ 
+<dialog_config_caching_rtsp>
+ <uk text="Розмір кешу rtsp"/>
+</dialog_config_caching_rtsp>
+ 
+<dialog_config_caching_file>
+ <uk text="Розмір кешу файла"/>
+</dialog_config_caching_file>
+ 
+<dialog_config_caching_rtmp>
+ <uk text="Розмір кешу rtmp"/>
+</dialog_config_caching_rtmp>
+ 
+<!-- Config dialog udp proxy -->
+ 
+<dialog_config_udp_proxy_ch1>
+ <uk text="IPTV UDP Multicast у HTTP Проксі Адресу"/>
+</dialog_config_udp_proxy_ch1>
+
+<dialog_config_udp_proxy_use>
+ <uk text="Використовувати 'IPTV UDP Multicast у HTTP Проксі Адресу'"/>
+</dialog_config_udp_proxy_use>
+ 
+<dialog_config_udp_proxy_adr>
+ <uk text="Адреса"/>
+</dialog_config_udp_proxy_adr>
+ 
+<dialog_config_udp_proxy_port>
+ <uk text="Порт"/>
+</dialog_config_udp_proxy_port>
+ 
+<dialog_config_udp_proxy_warn>
+ <uk text="Якщо на Вашому маршрутизаторі включено 'IPTV UDP Multicast у HTTP Проксі' введіть адресу вашого маршрутизатора і порт, щоб IPTV нормально показувало по WiFi."/>
+</dialog_config_udp_proxy_warn>
+
+<!-- Config dialog http proxy -->
+ 
+<dialog_config_http_proxy_ch1>
+ <uk text="HTTP Проксі"/>
+</dialog_config_http_proxy_ch1>
+
+<dialog_config_http_proxy_use>
+ <uk text="Використовувати HTTP Проксі"/>
+</dialog_config_http_proxy_use>
+
+<dialog_config_http_proxy_adr>
+  <uk text="Адреса"/>
+</dialog_config_http_proxy_adr>
+ 
+<dialog_config_http_proxy_pwd>
+  <uk text="Пароль"/>
+</dialog_config_http_proxy_pwd>
+
+<!-- Config dialog OSD -->
+ 
+<dialog_config_osd_ch1>
+ <uk text="Налаштування OSD"/>
+</dialog_config_osd_ch1>
+
+<dialog_config_osd_use>
+ <uk text="Використовувати OSD"/>
+</dialog_config_osd_use>
+
+<dialog_config_osd_time>
+ <uk text="Час видимості"/>
+</dialog_config_osd_time>
+
+<dialog_config_osd_time_epg>
+ <uk text="Час видимості програми"/>
+</dialog_config_osd_time_epg>
+
+<dialog_config_osd_ch2>
+ <uk text="Розмір"/>
+</dialog_config_osd_ch2>
+
+<dialog_config_osd_profile>
+ <uk text="Профіль"/>
+</dialog_config_osd_profile>
+
+<dialog_config_osd_size_logo>
+ <uk text="Розмір іконки"/>
+</dialog_config_osd_size_logo>
+
+<dialog_config_osd_color_font>
+ <uk text="Колір шрифту"/>
+</dialog_config_osd_color_font>
+
+<dialog_config_osd_glow_color>
+ <uk text="Підсвічування"/>
+</dialog_config_osd_glow_color>
+
+<dialog_config_osd_font>
+ <uk text="Шрифт"/>
+</dialog_config_osd_font>
+
+<dialog_config_osd_example>
+ <uk text="Приклад шрифту"/>
+</dialog_config_osd_example>
+
+<dialog_config_osd_ch3>
+ <uk text="Фон"/>
+</dialog_config_osd_ch3>
+ 
+<dialog_config_osd_back_type>
+ <uk text="Тип"/>
+</dialog_config_osd_back_type>
+
+<dialog_config_osd_back_effect>
+ <uk text="Ефект"/>
+</dialog_config_osd_back_effect>
+
+<dialog_config_osd_transparency>
+ <uk text="Прозорість"/>
+</dialog_config_osd_transparency>
+
+<dialog_config_osd_start_color>
+ <uk text="Початковий колір"/>
+</dialog_config_osd_start_color>
+
+<dialog_config_osd_sec_color>
+ <uk text="Кінцевий колір"/>
+</dialog_config_osd_sec_color>
+
+<dialog_config_osd_profile_0>
+ <uk text="Віконний"/>
+</dialog_config_osd_profile_0>
+
+<dialog_config_osd_profile_1>
+ <uk text="Повноекранний"/>
+</dialog_config_osd_profile_1>
+
+<dialog_config_osd_back_transparency>
+ <uk text="Прозорість"/>
+</dialog_config_osd_back_transparency>
+ 
+<dialog_config_osd_back_glass>
+ <uk text="Прозорість+скло"/>
+</dialog_config_osd_back_glass>
+ 
+ 
+ <!-- Config dialog OSD EXT -->
+<dialog_config_osd_ext_ch1>
+ <uk text="Додаткові налаштування OSD"/>
+</dialog_config_osd_ext_ch1>
+ 
+ <dialog_config_osd_scale_for_tree>
+ <uk text="Масштабувати зображення для списку відтворення"/>
+</dialog_config_osd_scale_for_tree>
+ 
+ <dialog_config_osd_ext_drm_time>
+ <uk text="Час показу 'DRM'"/>
+ </dialog_config_osd_ext_drm_time>
+ 
+ 
+<!-- Config dialog PIP -->
+ 
+<dialog_config_pip_ch1>
+ <uk text="PiP"/>
+</dialog_config_pip_ch1>
+ 
+<dialog_config_pip_ch2>
+ <uk text="Положення"/>
+</dialog_config_pip_ch2>
+
+<dialog_config_pip_size>
+ <uk text="Розмір"/>
+</dialog_config_pip_size>
+
+<dialog_config_pip_persent>
+ <uk text="у відсотках від головного вікна"/>
+</dialog_config_pip_persent>
+
+<dialog_config_pip_permanent>
+ <uk text="постійний"/>
+</dialog_config_pip_permanent>
+
+<dialog_config_pip_w_x_h>
+ <uk text="Висота X ширина"/>
+</dialog_config_pip_w_x_h>
+
+<dialog_config_pip_show_epg>
+ <uk text="показувати програму"/>
+</dialog_config_pip_show_epg>
+
+<dialog_config_pip_border>
+ <uk text="Рамка"/>
+</dialog_config_pip_border>
+
+<dialog_config_pip_border_depends_size>
+ <uk text="залежить від розміру"/>
+</dialog_config_pip_border_depends_size>
+ 
+<dialog_config_pip_allways>
+ <uk text="завжди"/>
+</dialog_config_pip_allways>
+
+<dialog_config_pip_anim>
+ <uk text="анімація"/>
+</dialog_config_pip_anim>
+ 
+<dialog_config_pip_use_adr>
+ <uk text="використовувати адресу MPiP/PiP"/>
+</dialog_config_pip_use_adr>
+ 
+<!-- Config dialog MPIP -->
+
+<dialog_config_mpip_ch1>
+ <uk text="Мульти PiP"/>
+</dialog_config_mpip_ch1>
+
+<dialog_config_mpip_num_win>
+ <uk text="Кількість вікон"/>
+</dialog_config_mpip_num_win>
+ 
+<dialog_config_mpip_max_size>
+ <uk text="Максимальний розмір вікна"/>
+</dialog_config_mpip_max_size>
+
+<!-- Config dialog control panel -->
+
+<dialog_config_cpanel_ch1>
+ <uk text="Панель керування"/>
+</dialog_config_cpanel_ch1>
+ 
+<dialog_config_cpanel_show>
+ <uk text="Показувати"/>
+</dialog_config_cpanel_show>
+
+<dialog_config_cpanel_pos>
+ <uk text="Розташування"/>
+</dialog_config_cpanel_pos>
+
+<dialog_config_cpanel_effect>
+ <uk text="Ефект"/>
+</dialog_config_cpanel_effect>
+
+<dialog_config_cpanel_allways>
+ <uk text="Завжди"/>
+</dialog_config_cpanel_allways>
+
+<dialog_config_cpanel_main_panel_off>
+ <uk text="Якщо відключена головна панель"/>
+</dialog_config_cpanel_main_panel_off>
+
+<dialog_config_cpanel_fullscr>
+ <uk text="У повноекранному режимі"/>
+</dialog_config_cpanel_fullscr>
+
+<dialog_config_cpanel_disabled>
+ <uk text="Відключено"/>
+</dialog_config_cpanel_disabled>
+
+<dialog_config_cpanel_up>
+ <uk text="Зверху"/>
+</dialog_config_cpanel_up>
+
+<dialog_config_cpanel_down>
+ <uk text="Знизу"/>
+</dialog_config_cpanel_down>
+
+<dialog_config_cpanel_scrool>
+ <uk text="Згортання"/>
+</dialog_config_cpanel_scrool>
+
+<dialog_config_cpanel_fade>
+ <uk text="Прозорість(Vista і вище)"/>
+</dialog_config_cpanel_fade>
+
+<dialog_config_cpanel_compression>
+ <uk text="Стиснення(Vista і вище)"/>
+</dialog_config_cpanel_compression>
+
+<!-- Config dialog control panel -->
+
+<dialog_config_wallpaper_ch1>
+ <uk text="Логотип"/>
+</dialog_config_wallpaper_ch1>
+ 
+<dialog_config_wallpaper_type>
+ <uk text="Тип картинки"/>
+</dialog_config_wallpaper_type>
+
+<dialog_config_wallpaper_orig_size>
+ <uk text="оригінальний розмір"/>
+</dialog_config_wallpaper_orig_size>
+
+<dialog_config_wallpaper_stretch>
+ <uk text="розтягувати на повний екран"/>
+</dialog_config_wallpaper_stretch>
+
+<dialog_config_wallpaper_pict>
+ <uk text="Шлях"/>
+</dialog_config_wallpaper_pict>
+
+<dialog_config_wallpaper_back>
+ <uk text="Фон"/>
+</dialog_config_wallpaper_back>
+ 
+<dialog_config_wallpaper_fcolor>
+ <uk text="Початковий колір"/>
+</dialog_config_wallpaper_fcolor>
+ 
+<dialog_config_wallpaper_scolor>
+ <uk text="Кінцевий колір"/>
+</dialog_config_wallpaper_scolor>
+ 
+<!-- Config dialog playlist -->
+
+<dialog_config_pls_ch1>
+ <uk text="Налаштування списку відтворення"/>
+</dialog_config_pls_ch1>
+ 
+<dialog_config_pls_fav>
+ <uk text="Використовувати &quot;Улюблені канали&quot;"/>
+</dialog_config_pls_fav>
+
+<dialog_config_pls_on_top>
+ <uk text="Список відтворення завжди зверху головного вікна"/>
+</dialog_config_pls_on_top>
+
+<dialog_config_pls_without_group>
+ <uk text="Без груп"/>
+</dialog_config_pls_without_group>
+
+<dialog_config_pls_logo_size>
+ <uk text="Розмір іконки"/>
+</dialog_config_pls_logo_size>
+
+<dialog_config_pls_ch_font>
+ <uk text="Вибрати шрифт"/>
+</dialog_config_pls_ch_font>
+
+<dialog_config_pls_font>
+ <uk text="Шрифт"/>
+</dialog_config_pls_font>
+
+<!-- Config dialog skin -->
+<dialog_config_skin_ch1>
+ <uk text="Інтерфейс"/>
+</dialog_config_skin_ch1>
+
+<dialog_config_skin_author>
+ <uk text="Автор"/>
+</dialog_config_skin_author>
+
+<dialog_config_skin_file_filter>
+ <uk text="Інтерфейс(*.xml)|*.xml|Всі файли(*.*)|*.*||"/>
+</dialog_config_skin_file_filter>
+
+<!-- Config dialog sound -->
+
+<dialog_config_sound_ch1>
+ <uk text="Налаштування звуку"/>
+</dialog_config_sound_ch1>
+
+<dialog_config_sound_output_module>
+ <uk text="Модуль виводу"/>
+</dialog_config_sound_output_module>
+
+<dialog_config_sound_output_directx>
+ <uk text="Звуковий пристрій DirectX"/>
+</dialog_config_sound_output_directx>
+
+<dialog_config_sound_output_wave>
+ <uk text="Звуковий пристрій Wave"/>
+</dialog_config_sound_output_wave>
+ 
+<dialog_config_sound_use_eq>
+ <uk text="Еквалайзер"/>
+</dialog_config_sound_use_eq>
+ 
+<dialog_config_sound_two_pass_eq>
+ <uk text="Еквалайзер два проходи"/>
+</dialog_config_sound_two_pass_eq>
+ 
+<!-- Config dialog vout -->
+
+<dialog_config_vout_ch1>
+ <uk text="Вивід"/>
+</dialog_config_vout_ch1>
+ 
+<dialog_config_vout_module>
+ <uk text="Модуль виводу"/>
+</dialog_config_vout_module>
+ 
+<dialog_config_vout_pip_module>
+ <uk text="Модуль виводу (PiP)"/>
+</dialog_config_vout_pip_module>
+ 
+<dialog_config_vout_mpip_module>
+ <uk text="Модуль виводу (Мульти PiP)"/>
+</dialog_config_vout_mpip_module>
+  
+<dialog_config_vout_use_overlay>
+ <uk text="Використовувати оверлей"/>
+</dialog_config_vout_use_overlay>
+ 
+<dialog_config_vout_scale>
+ <uk text="Масштабування відео"/>
+</dialog_config_vout_scale>
+
+<dialog_config_vout_scale_0>
+ <uk text="Швидке білінійне"/>
+</dialog_config_vout_scale_0>
+ 
+<dialog_config_vout_scale_1>
+ <uk text="Білінійне"/>
+</dialog_config_vout_scale_1>
+
+<dialog_config_vout_scale_2>
+ <uk text="Бікубічне (гарна якість)"/>
+</dialog_config_vout_scale_2>
+ 
+<dialog_config_vout_scale_3>
+ <uk text="Експериментальне"/>
+</dialog_config_vout_scale_3>
+ 
+ <dialog_config_vout_scale_4>
+ <uk text="Найближчий сусід (погана якість)"/>
+</dialog_config_vout_scale_4>
+ 
+<dialog_config_vout_scale_5>
+ <uk text="Обласне"/>
+</dialog_config_vout_scale_5>
+
+<dialog_config_vout_scale_6>
+ <uk text="Бікуб.по яскравості/білін.по кольоровості"/>
+</dialog_config_vout_scale_6>
+ 
+<dialog_config_vout_scale_7>
+ <uk text="Гаусове"/>
+</dialog_config_vout_scale_7>
+
+<dialog_config_vout_scale_8>
+ <uk text="SincR"/>
+</dialog_config_vout_scale_8>
+ 
+<dialog_config_vout_scale_9>
+ <uk text="Lanczos"/>
+</dialog_config_vout_scale_9>
+ 
+ <dialog_config_vout_scale_10>
+ <uk text="Бікубічне кривими"/>
+</dialog_config_vout_scale_10>
+ 
+<!-- Config dialog directx -->
+
+<dialog_config_directx_ch1>
+ <uk text="DirectX"/>
+</dialog_config_directx_ch1>
+ 
+<dialog_config_directx_3buff>
+ <uk text="Потрійна буферизація"/>
+</dialog_config_directx_3buff>
+ 
+<dialog_config_directx_hw>
+ <uk text="Апаратне перетворення hw-yuv"/>
+</dialog_config_directx_hw>
+ 
+<dialog_config_directx_sysmem>
+ <uk text="Відео буфери у системній пам'яті"/>
+</dialog_config_directx_sysmem>
+ 
+<!-- Config dialog modules -->
+
+<dialog_config_modules_ch1>
+ <uk text="Модулі"/>
+</dialog_config_modules_ch1>
+  
+<dialog_config_modules_vabj>
+ <uk text="Відключити модуль налаштувань зображення (менше завантаження ЦП)"/>
+</dialog_config_modules_vabj>
+
+<dialog_config_modules_deint>
+ <uk text="Відключити модуль деінтерлейс (менше завантаження ЦП)"/>
+</dialog_config_modules_deint>
+
+<dialog_config_modules_sharp>
+ <uk text="Відключити модуль чіткості (менше завантаження ЦП)"/>
+</dialog_config_modules_sharp>
+
+<dialog_config_modules_ext_filters>
+ <uk text="Список додаткових відео фільтрів"/>
+</dialog_config_modules_ext_filters>
+ 
+<!-- Config dialog decoders -->
+
+<dialog_config_decodres_ch1>
+ <uk text="Декодери - загальне"/>
+</dialog_config_decodres_ch1>
+ 
+<dialog_config_decodres_use_dmo>
+ <uk text="Використовувати системні модулі (DMO) замість VLC"/>
+</dialog_config_decodres_use_dmo>
+ 
+ <!-- Config dialog decoders ffmpeg-->
+
+<dialog_config_ffmpeg_ch1>
+ <uk text="ffmpeg - зміна налаштувань сильно впливає на швидкість / якість"/>
+</dialog_config_ffmpeg_ch1>
+ 
+<dialog_config_ffmpeg_skip_frame>
+ <uk text="Пропускати кадри"/>
+</dialog_config_ffmpeg_skip_frame>
+ 
+<dialog_config_ffmpeg_skip_idct>
+ <uk text="Пропускати idct"/>
+</dialog_config_ffmpeg_skip_idct>
+
+<dialog_config_ffmpeg_skip_filter>
+ <uk text="Пропускати петлевий фільтр"/>
+</dialog_config_ffmpeg_skip_filter>
+
+<dialog_config_ffmpeg_res>
+ <uk text="Роздільність"/>
+</dialog_config_ffmpeg_res>
+
+<dialog_config_ffmpeg_gpu_enc>
+ <uk text="Апаратне декодування"/>
+</dialog_config_ffmpeg_gpu_enc>
+
+<dialog_config_ffmpeg_gpu_enc_pip>
+ <uk text="Апаратне декодування(PiP)"/>
+</dialog_config_ffmpeg_gpu_enc_pip>
+
+<dialog_config_ffmpeg_post_processing>
+ <uk text="Якість пост-обробки"/>
+</dialog_config_ffmpeg_post_processing>
+
+<!-- Config dialog record-->
+
+<dialog_config_record_ch1>
+ <uk text="Налаштування запису"/>
+</dialog_config_record_ch1>
+ 
+<dialog_config_record_ch2>
+ <uk text="Запис"/>
+</dialog_config_record_ch2>
+ 
+<dialog_config_record_rec_folder>
+ <uk text="Папка"/>
+</dialog_config_record_rec_folder>
+ 
+<dialog_config_record_profile>
+ <uk text="Профіль"/>
+</dialog_config_record_profile>
+ 
+<dialog_config_record_wake>
+ <uk text="Дозволити будити із сплячого режиму"/>
+</dialog_config_record_wake>
+ 
+<dialog_config_record_pause>
+ <uk text="Режим паузы"/>
+</dialog_config_record_pause>
+ 
+<dialog_config_record_rec_icon>
+ <uk text="Показувати індикатор на OSD"/>
+</dialog_config_record_rec_icon>
+ 
+<dialog_config_record_margin>
+ <uk text="Таймер з запасом"/>
+</dialog_config_record_margin>
+
+<dialog_config_record_ch3>
+ <uk text="Знімки"/>
+</dialog_config_record_ch3>
+ 
+<dialog_config_record_sn_folder>
+ <uk text="Папка"/>
+</dialog_config_record_sn_folder>
+ 
+<dialog_config_record_format>
+ <uk text="Формат"/>
+</dialog_config_record_format>
+ 
+<dialog_config_record_preview>
+ <uk text="Попередній перегляд"/>
+</dialog_config_record_preview>
+ 
+<dialog_config_record_width>
+ <uk text="Ширина"/>
+</dialog_config_record_width>
+ 
+<dialog_config_record_height>
+ <uk text="Висота"/>
+</dialog_config_record_height>
+ 
+<dialog_config_record_choose_dir>
+ <uk text="Виберіть папку для запису"/>
+</dialog_config_record_choose_dir>
+ 
+<dialog_config_record_choose_dir_snapshot>
+ <uk text="Виберіть папку для знімків"/>
+</dialog_config_record_choose_dir_snapshot>
+ 
+<!-- Config dialog epg-->
+
+<dialog_config_epg_ch1>
+ <uk text="Програма"/>
+</dialog_config_epg_ch1>
+ 
+<dialog_config_epg_delete>
+ <uk text="Видаляти записи старше"/>
+</dialog_config_epg_delete>
+
+<dialog_config_epg_weeks>
+ <uk text="тижнів(я)"/>
+</dialog_config_epg_weeks>
+
+<dialog_config_epg_offset>
+ <uk text="Зміщення часу"/>
+</dialog_config_epg_offset>
+
+<dialog_config_epg_load>
+ <uk text="Завантажувати тільки прив'язані канали"/>
+</dialog_config_epg_load>
+
+<dialog_config_epg_qiuck>
+ <uk text="Швидке завантаження"/>
+</dialog_config_epg_qiuck>
+
+<dialog_config_epg_warn1>
+ <uk text="(база буде очищена перед завантаженням)"/>
+</dialog_config_epg_warn1>
+
+<dialog_config_epg_sourse1>
+ <uk text="Джерело 1"/>
+</dialog_config_epg_sourse1>
+
+<dialog_config_epg_sourse2>
+ <uk text="Джерело 2"/>
+</dialog_config_epg_sourse2>
+ 
+<dialog_config_epg_sourse3>
+ <uk text="Джерело 3"/>
+</dialog_config_epg_sourse3>
+
+<dialog_config_epg_sourse4>
+ <uk text="Джерело 4"/>
+</dialog_config_epg_sourse4>
+
+<dialog_config_epg_sourse5>
+ <uk text="Джерело 5"/>
+</dialog_config_epg_sourse5>
+
+<dialog_config_epg_sourse6>
+ <uk text="Джерело 6"/>
+</dialog_config_epg_sourse6>
+
+<dialog_config_epg_sourse7>
+ <uk text="Джерело 7"/>
+</dialog_config_epg_sourse7>
+
+<dialog_config_epg_sourse8>
+ <uk text="Джерело 8"/>
+</dialog_config_epg_sourse8>
+
+<dialog_config_epg_sourse9>
+ <uk text="Джерело 9"/>
+</dialog_config_epg_sourse9>
+
+<dialog_config_epg_sourse10>
+ <uk text="Джерело 10"/>
+</dialog_config_epg_sourse10>
+
+<dialog_config_epg_clear>
+ <uk text="Очистити базу"/>
+</dialog_config_epg_clear>
+
+<dialog_config_epg_update>
+ <uk text="Оновити"/>
+</dialog_config_epg_update>
+
+<dialog_config_epg_file_filter>
+ <uk text="xml(*.xml)|*.xml|Всі файли(*.*)|*.*||"/>
+</dialog_config_epg_file_filter>
+
+<dialog_config_epg_hour>
+ <uk text="г"/>
+</dialog_config_epg_hour>
+
+<dialog_config_epg_warn2>
+ <uk text="Після зміни джерел - натисніть 'Оновити' !"/>
+</dialog_config_epg_warn2>
+
+<!-- Config dialog playback-->
+ 
+<dialog_config_playback_ch1>
+ <uk text="Налаштування відтворення"/>
+</dialog_config_playback_ch1>
+
+<dialog_config_playback_jump>
+ <uk text="Час стрибка"/>
+</dialog_config_playback_jump>
+
+<dialog_config_playback_long_jump>
+ <uk text="Час довгого стрибка"/>
+</dialog_config_playback_long_jump>
+
+<dialog_config_playback_speed>
+ <uk text="Швидка швидкість"/>
+</dialog_config_playback_speed>
+
+<dialog_config_playback_speed_add>
+ <uk text="Збільшення швидкості"/>
+</dialog_config_playback_speed_add>
+
+<dialog_config_playback_save_pos>
+ <uk text="Запам'ятовувати позицію"/>
+</dialog_config_playback_save_pos>
+
+<dialog_config_playback_dont_stop>
+ <uk text="Не зупиняти при згортанні в трей"/>
+</dialog_config_playback_dont_stop>
+
+<dialog_config_playback_recall>
+ <uk text="Перезапуск відтворення при повторному виклику"/>
+</dialog_config_playback_recall>
+
+<dialog_config_playback_play_to_norm_speed>
+ <uk text="Кнопка 'Відтворення' - повернення до нормальної швидкості"/>
+</dialog_config_playback_play_to_norm_speed>
+
+<dialog_config_playback_dont_autostart_last>
+ <uk text="Не починати грати останній канал при запуску"/>
+</dialog_config_playback_dont_autostart_last>
+
+
+<!-- Config dialog timeshift-->
+ 
+<dialog_config_timeshift_ch1>
+ <uk text="Таймшіфт"/>
+</dialog_config_timeshift_ch1>
+ 
+<dialog_config_timeshift_folder>
+ <uk text="Папка"/>
+</dialog_config_timeshift_folder>
+ 
+<dialog_config_timeshift_max_size>
+ <uk text="Максимальний розмір тимчасових файлів"/>
+</dialog_config_timeshift_max_size>
+ 
+<dialog_config_timeshift_byte>
+ <uk text="байт (0 - авто)"/>
+</dialog_config_timeshift_byte>
+ 
+<!-- Config dialog system-->
+ 
+<dialog_config_system_ch1>
+ <uk text="Системні налаштування"/>
+</dialog_config_system_ch1>
+ 
+<dialog_config_system_watchdog>
+ <uk text="Включити сторожового пса"/>
+</dialog_config_system_watchdog>
+
+<dialog_config_system_wtimer>
+ <uk text="Таймер сторожового пса"/>
+</dialog_config_system_wtimer>
+  
+<!-- Config dialog import-->
+ 
+<dialog_config_import_ch1>
+ <uk text="Імпорт налаштувань"/>
+</dialog_config_import_ch1>
+
+<dialog_config_import_file>
+ <uk text="Файл"/>
+</dialog_config_import_file>
+ 
+<dialog_config_import_pls>
+ <uk text="Завантажити список відтворення"/>
+</dialog_config_import_pls>
+
+<dialog_config_import_setting>
+ <uk text="Завантажити налаштування"/>
+</dialog_config_import_setting>
+
+<dialog_config_import_control>
+ <uk text="Завантажити керування"/>
+</dialog_config_import_control>
+
+<dialog_config_import_ext_filter>
+ <uk text="Завантажити розширений фільтр"/>
+</dialog_config_import_ext_filter>
+
+<dialog_config_import_logo>
+ <uk text="Завантажити логотипи"/>
+</dialog_config_import_logo>
+
+<dialog_config_import_button_load>
+ <uk text="Завантажити"/>
+</dialog_config_import_button_load>
+
+<dialog_config_import_file_filter>
+ <uk text="7z(*.7z)|*.7z|mdb(*.mdb)|*.mdb|Всі файли(*.*)|*.*||"/>
+</dialog_config_import_file_filter>
+
+<dialog_config_import_error>
+ <uk text="Помилка при імпорті налаштувань"/>
+</dialog_config_import_error>
+
+<dialog_config_import_cant_load_logo>
+ <uk text="Логотипи не можуть бути завантажені, Продовжити?"/>
+</dialog_config_import_cant_load_logo>
+
+<dialog_config_import_select_more>
+ <uk text="Відзначте що треба імпортувати"/>
+</dialog_config_import_select_more>
+
+<!-- Config dialog export-->
+ 
+<dialog_config_export_ch1>
+ <uk text="Експорт налаштувань"/>
+</dialog_config_export_ch1>
+ 
+<dialog_config_export_file>
+ <uk text="Файл"/>
+</dialog_config_export_file>
+
+<dialog_config_export_button_exp>
+ <uk text="Зберегти"/>
+</dialog_config_export_button_exp>
+
+<dialog_config_export_error>
+ <uk text="Помилка при експорті налаштувань"/>
+</dialog_config_export_error>
+ 
+<dialog_config_export_complete>
+ <uk text="Експорт завершено"/>
+</dialog_config_export_complete>
+ 
+<dialog_config_export_file_filter>
+ <uk text="7z(*.7z)|*.7z|Всі файли(*.*)|*.*||"/>
+</dialog_config_export_file_filter>
+
+<!--  Input Name -->
+<input_name_common_header>
+ <uk text="------Загальне керування------"/>
+</input_name_common_header>
+
+<input_name_common_left_arrow>
+ <uk text="Стрілка вліво/Канал назад"/>
+</input_name_common_left_arrow>
+ 
+<input_name_common_right_arrow>
+ <uk text="Стрілка вправо/Канал вперед"/>
+</input_name_common_right_arrow>
+
+<input_name_common_up_arrow>
+ <uk text="Стрілка вгору"/>
+</input_name_common_up_arrow>
+
+<input_name_common_down_arrow>
+ <uk text="Стрілка вниз"/>
+</input_name_common_down_arrow>
+
+<input_name_common_channel_back>
+ <uk text="Канал назад"/>
+</input_name_common_channel_back>
+
+<input_name_common_channel_forward>
+ <uk text="Канал вперед"/>
+</input_name_common_channel_forward>
+
+<input_name_common_prev_channel>
+ <uk text="Попередній канал"/>
+</input_name_common_prev_channel>
+
+<input_name_common_ok>
+ <uk text="Enter/Гаразд"/>
+</input_name_common_ok>
+
+<input_name_common_esc>
+ <uk text="Esc/Повертати"/>
+</input_name_common_esc>
+
+<input_name_common_type_pls>
+ <uk text="Переключити тип списку відтворення"/>
+</input_name_common_type_pls>
+
+<input_name_common_fav>
+ <uk text="Улюблені канали"/>
+</input_name_common_fav>
+
+<input_name_common_setting>
+ <uk text="Налаштування"/>
+</input_name_common_setting>
+
+<input_name_common_exit>
+ <uk text="Вихід з програми"/>
+</input_name_common_exit>
+  
+<input_name_view_header>
+ <uk text="-------------Вигляд------------------"/>
+</input_name_view_header>
+
+<input_name_view_min_to_tray>
+ <uk text="Згорнути в трей"/>
+</input_name_view_min_to_tray>
+ 
+<input_name_view_minimize>
+ <uk text="Згорнути вікно"/>
+</input_name_view_minimize>
+ 
+<input_name_view_fullscr>
+ <uk text="Вкл/викл повноекранний режим"/>
+</input_name_view_fullscr>
+ 
+<input_name_view_compact>
+ <uk text="Вкл/викл компактний режим"/>
+</input_name_view_compact>
+ 
+ <input_name_view_on_top>
+ <uk text="Зверху всіх вікон"/>
+</input_name_view_on_top>
+ 
+<input_name_view_show_pls>
+ <uk text="Показати/сховати список відтворення"/>
+</input_name_view_show_pls>
+ 
+<input_name_view_cpanel>
+ <uk text="Панель керування"/>
+</input_name_view_cpanel>
+ 
+<input_name_power_header>
+ <uk text="------------Вимкнення---------"/>
+ </input_name_power_header>
+  
+<input_name_power_sleep>
+ <uk text="Таймер сну"/>
+</input_name_power_sleep>
+
+<input_name_power_exit>
+ <uk text="Таймер виходу"/>
+</input_name_power_exit>
+  
+<input_name_power_hibernates>
+ <uk text="Сон/Гібернація"/>
+</input_name_power_hibernates>
+
+<input_name_power_off>
+ <uk text="Вимкнути комп'ютер"/>
+</input_name_power_off>
+
+<input_name_playback_header>
+ <uk text="------Відтворення-------"/>
+</input_name_playback_header>
+   
+<input_name_playback_restart>
+ <uk text="Перезапустити"/>
+</input_name_playback_restart>
+
+<input_name_playback_stop>
+ <uk text="Зупинити"/>
+</input_name_playback_stop>
+
+<input_name_playback_play>
+ <uk text="Відтворення/Пауза"/>
+</input_name_playback_play>
+
+<input_name_playback_faster>
+ <uk text="Швидше"/>
+</input_name_playback_faster>
+
+<input_name_playback_slow>
+ <uk text="Повільніше"/>
+</input_name_playback_slow>
+
+<input_name_playback_jump_ff>
+ <uk text="Стрибок вперед"/>
+</input_name_playback_jump_ff>
+ 
+<input_name_playback_jump_rew>
+ <uk text="Стрибок назад"/>
+</input_name_playback_jump_rew>
+
+<input_name_playback_ljump_ff>
+ <uk text="Довгий стрибок вперед"/>
+</input_name_playback_ljump_ff>
+ 
+<input_name_playback_ljump_rew>
+ <uk text="Довгий стрибок назад"/>
+</input_name_playback_ljump_rew>
+ 
+<input_name_playback_norm_speed>
+ <uk text="Нормальна швидкість"/>
+</input_name_playback_norm_speed>
+ 
+<input_name_playback_fast_speed>
+ <uk text="Швидка швидкість"/>
+</input_name_playback_fast_speed>
+ 
+<input_name_playback_add_bookmark>
+ <uk text="Додати закладку"/>
+</input_name_playback_add_bookmark>
+
+<input_name_playback_open_file>
+ <uk text="Відкрити файл"/>
+</input_name_playback_open_file>
+
+<input_name_playback_open_url>
+ <uk text="Відкрити адресу"/>
+</input_name_playback_open_url>
+
+ 
+<input_name_record_header>
+ <uk text="-------------Запис----------------"/>
+</input_name_record_header>
+  
+<input_name_record_quick>
+ <uk text="Швидка запис"/>
+</input_name_record_quick>
+
+<input_name_record_quick_pip>
+ <uk text="Швидка запис з PiP"/>
+</input_name_record_quick_pip>
+
+<input_name_record_stop_quick>
+ <uk text="Зупинити швидку запис"/>
+</input_name_record_stop_quick>
+
+<input_name_record_snapshow>
+ <uk text="Зробити знімок"/>
+</input_name_record_snapshow>
+
+<input_name_record_dump>
+ <uk text="Копіювати потік"/>
+</input_name_record_dump>
+
+<input_name_audio_header>
+ <uk text="---------------Звук----------------"/>
+</input_name_audio_header>
+
+<input_name_audio_track>
+ <uk text="Переключити звукову доріжку"/>
+</input_name_audio_track>
+
+<input_name_audio_type>
+ <uk text="Переключити тип аудіо"/>
+</input_name_audio_type>
+
+<input_name_audio_mute>
+ <uk text="Вимкнути звук"/>
+</input_name_audio_mute>
+
+<input_name_audio_volume_add>
+ <uk text="Гучність +"/>
+</input_name_audio_volume_add>
+
+<input_name_audio_volume_sub>
+ <uk text="Гучність -"/>
+</input_name_audio_volume_sub>
+
+<input_name_video_header>
+ <uk text="----------Зображення----------"/>
+</input_name_video_header>
+ 
+<input_name_video_brightness_add>
+ <uk text="Яскравість +"/>
+</input_name_video_brightness_add>
+ 
+<input_name_video_brightness_sub>
+ <uk text="Яскравість -"/>
+</input_name_video_brightness_sub>
+ 
+<input_name_video_contrast_add>
+ <uk text="Контрастність +"/>
+</input_name_video_contrast_add>
+ 
+<input_name_video_contrast_sub>
+ <uk text="Контрастність -"/>
+</input_name_video_contrast_sub>
+ 
+<input_name_video_color_add>
+ <uk text="Насиченість +"/>
+</input_name_video_color_add>
+ 
+<input_name_video_color_sub>
+ <uk text="Насиченість -"/>
+</input_name_video_color_sub>
+ 
+<input_name_video_hue_add>
+ <uk text="Відтінок +"/>
+</input_name_video_hue_add>
+ 
+<input_name_video_hue_sub>
+ <uk text="Відтінок -"/>
+</input_name_video_hue_sub>
+ 
+<input_name_video_gamma_add>
+ <uk text="Гамма +"/>
+</input_name_video_gamma_add>
+ 
+<input_name_video_gamma_sub>
+ <uk text="Гамма -"/>
+</input_name_video_gamma_sub>
+ 
+<input_name_video_scale_add>
+ <uk text="Масштаб +"/>
+</input_name_video_scale_add>
+ 
+<input_name_video_scale_sub>
+ <uk text="Масштаб -"/>
+</input_name_video_scale_sub>
+ 
+<input_name_video_sharpness_add>
+ <uk text="Чіткість +"/>
+</input_name_video_sharpness_add>
+ 
+<input_name_video_sharpness_sub>
+ <uk text="Чіткість -"/>
+</input_name_video_sharpness_sub>
+ 
+<input_name_video_track>
+ <uk text="Переключити відео доріжку"/>
+</input_name_video_track>
+ 
+<input_name_video_deint>
+ <uk text="Переключити деінтерлейс"/>
+</input_name_video_deint>
+  
+<input_name_video_crop>
+ <uk text="Переключити обрізку"/>
+</input_name_video_crop>
+    
+<input_name_video_ratio>
+ <uk text="Переключити співвідношення сторін"/>
+</input_name_video_ratio>
+ 
+<input_name_pip_header>
+ <uk text="----------------PiP-----------------"/>
+</input_name_pip_header>
+ 
+<input_name_pip_show>
+ <uk text="Показати/сховати PiP"/>
+</input_name_pip_show>
+ 
+<input_name_pip_show_mpip>
+ <uk text="Показати/сховати Мульти PiP"/>
+</input_name_pip_show_mpip>
+ 
+<input_name_pip_pos>
+ <uk text="Розташування PiP"/>
+</input_name_pip_pos>
+ 
+<input_name_pip_swap>
+ <uk text="PiP обмін"/>
+</input_name_pip_swap>
+ 
+<input_name_pip_ch_up>
+ <uk text="PiP канал вперед"/>
+</input_name_pip_ch_up>
+ 
+<input_name_pip_ch_down>
+ <uk text="PiP канал назад"/>
+</input_name_pip_ch_down>
+ 
+<input_name_pip_size_add>
+ <uk text="Розмір +"/>
+</input_name_pip_size_add>
+ 
+<input_name_pip_size_sub>
+ <uk text="Розмір -"/>
+</input_name_pip_size_sub>
+ 
+<input_name_osd_header>
+ <uk text="---------------OSD----------------"/>
+</input_name_osd_header>
+
+<input_name_osd_pls>
+ <uk text="Список відтворення"/>
+</input_name_osd_pls>
+
+<input_name_osd_info>
+ <uk text="Поточна інформація"/>
+</input_name_osd_info>
+
+<input_name_osd_info_type>
+ <uk text="Коротка інформація"/>
+</input_name_osd_info_type>
+
+<input_name_osd_sw_qproc>
+ <uk text="Переключити швидку програму"/>
+</input_name_osd_sw_qproc>
+
+<input_name_osd_epg>
+ <uk text="Вся програма"/>
+</input_name_osd_epg>
+
+<input_name_osd_show_record>
+ <uk text="Поточні записи"/>
+</input_name_osd_show_record>
+
+<input_name_osd_update_epg>
+ <uk text="Оновити програму"/>
+</input_name_osd_update_epg>
+
+<input_name_osd_update_epg_current>
+ <uk text="Оновити програму для поточного каналу"/>
+</input_name_osd_update_epg_current>
+
+<input_name_osd_channel_info>
+ <uk text="Інформація каналу"/>
+</input_name_osd_channel_info>
+
+<input_name_osd_time>
+ <uk text="Показати/сховати час"/>
+</input_name_osd_time>
+
+<input_name_osd_pageup>
+ <uk text="Сторінка вгору"/>
+</input_name_osd_pageup>
+
+<input_name_osd_pagedown>
+ <uk text="Сторінка вниз"/>
+</input_name_osd_pagedown>
+
+<input_name_osd_home>
+ <uk text="Початок"/>
+</input_name_osd_home>
+
+<input_name_osd_end>
+ <uk text="Кінець"/>
+</input_name_osd_end>
+
+<input_name_osd_option>
+ <uk text="Налаштування на OSD"/>
+</input_name_osd_option>
+
+<input_name_osd_extfilter>
+ <uk text="Розширений фільтр"/>
+</input_name_osd_extfilter>
+
+<input_name_osd_bookmark>
+ <uk text="Закладки на OSD"/>
+</input_name_osd_bookmark>
+
+<input_name_osd_multiadr>
+ <uk text="Список серій"/>
+</input_name_osd_multiadr>
+  
+<input_name_osd_atrack>
+ <uk text="Аудіо доріжка"/>
+</input_name_osd_atrack>
+
+<input_name_osd_vtack>
+ <uk text="Відео доріжка"/>
+</input_name_osd_vtack>
+
+<input_name_osd_sub>
+ <uk text="Субтитри"/>
+</input_name_osd_sub>
+
+<input_name_osd_deint>
+ <uk text="Деінтерлейс"/>
+</input_name_osd_deint>
+  
+<input_name_osd_crop>
+ <uk text="Обрізати"/>
+</input_name_osd_crop>
+  
+<input_name_osd_ratio>
+ <uk text="Співвідношення сторін"/>
+</input_name_osd_ratio>
+
+<input_name_digist_header>
+ <uk text="-------------Цифри--------------"/>
+</input_name_digist_header>
+   
+<!-- Dialog First run -->
+<dialog_first_run_first_run>
+ <uk text="Перший запуск SimpleTV."/>
+</dialog_first_run_first_run>
+ 
+<dialog_first_run_store_mode>
+ <uk text="Виберіть, як зберігати змінювані файли"/>
+</dialog_first_run_store_mode>
+ 
+<dialog_first_run_user_dir>
+ <uk text="У папці користувача"/>
+</dialog_first_run_user_dir>
+ 
+<dialog_first_run_work_dir>
+ <uk text="У папці з програмою"/>
+</dialog_first_run_work_dir>
+ 
+<dialog_first_run_load_from_prev>
+ <uk text="Завантажити список каналів/налаштування з попередньої версії?"/>
+</dialog_first_run_load_from_prev>
+
+<!--  -->
+ <ext_filter_str_new>
+ <uk text="Новий"/>
+</ext_filter_str_new>
+ 
+<!--  -->
+<common_str_import_pls_error_tmp>
+ <uk text="Помилка при очищенні папки tmp"/>
+</common_str_import_pls_error_tmp>
+
+<common_str_import_pls_error_download>
+ <uk text="Неможливо отримати файл (%i)"/>
+</common_str_import_pls_error_download>
+
+<common_str_import_pls_error_open_file>
+ <uk text="Неможливо відкрити файл"/>
+</common_str_import_pls_error_open_file>
+
+<common_str_import_pls_error_not_m3u>
+ <uk text="Файл не 'm3u'"/>
+</common_str_import_pls_error_not_m3u>
+
+<common_str_import_pls_error_file_corrupt>
+ <uk text="Файл пошкоджен"/>
+</common_str_import_pls_error_file_corrupt>
+
+<common_str_import_pls_del_all>
+ <uk text="Всі поточні канали будуть видалені. Продовжити?"/>
+</common_str_import_pls_del_all>
+
+<!--  -->
+<dialog_config_system_type_off>
+ <uk text="Спосіб вимкнення"/>
+</dialog_config_system_type_off>
+
+<dialog_config_system_ask_before_off>
+ <uk text="Питати перед вимиканням"/>
+</dialog_config_system_ask_before_off>
+
+
+<dialog_config_system_fullscr_monitor>
+ <uk text="Екран для повноекранного режиму"/>
+</dialog_config_system_fullscr_monitor>
+
+<!-- Parent control -->
+<config_tree_parent_control>
+ <uk text="Батьківський контроль"/>
+</config_tree_parent_control>
+
+<dialog_parent_code_enter>
+ <uk text="Введіть батьківський код"/>
+</dialog_parent_code_enter>
+
+<dialog_parent_warn>
+ <uk text="Неправильний код"/>
+</dialog_parent_warn>
+
+<dialog_config_pcontrol_ch1>
+ <uk text="Батьківський контроль"/>
+</dialog_config_pcontrol_ch1>
+
+<dialog_config_pcontrol_use>
+ <uk text="Включити"/>
+</dialog_config_pcontrol_use>
+
+<dialog_config_pcontrol_code>
+ <uk text="Код"/>
+</dialog_config_pcontrol_code>
+
+<dialog_pls_config_parent_protect>
+ <uk text="Батьківський контроль"/>
+</dialog_pls_config_parent_protect>
+
+<dialog_suspend_question>
+ <uk text="Вимкнути комп'ютер ?"/>
+</dialog_suspend_question>
+
+<!--     -->
+<group_for_found_channels>
+ <uk text="Знайдені канали"/>
+</group_for_found_channels>
+
+<!--     -->
+<skin_str_play_mode_next>
+ <uk text="Режим відтворення - наступний"/>
+</skin_str_play_mode_next>
+ 
+<skin_str_play_mode_repeat>
+ <uk text="Режим відтворення - повтор папки"/>
+</skin_str_play_mode_repeat>
+
+<skin_str_play_mode_repeat1>
+ <uk text="Режим відтворення - повтор"/>
+</skin_str_play_mode_repeat1>
+
+<skin_str_play_mode_once>
+ <uk text="Режим відтворення - один раз"/>
+</skin_str_play_mode_once>
+ 
+<skin_str_play_mode_stop_on_error_yes>
+ <uk text="Режим відтворення - зупинитися на помилці"/>
+</skin_str_play_mode_stop_on_error_yes>
+   
+<skin_str_play_mode_stop_on_error_no>
+ <uk text="Режим відтворення - не зупинятися на помилці"/>
+</skin_str_play_mode_stop_on_error_no>
+ 
+ <!--     -->
+<osd_common_channel_error>
+ <uk text="Помилка - %i"/>
+</osd_common_channel_error>
+<!--     -->
+  
+<main_menu_channels_play_type>
+ <uk text="Режим відтворення"/>
+</main_menu_channels_play_type>
+ 
+<main_menu_channels_play_type_next>
+ <uk text="Наступний"/>
+</main_menu_channels_play_type_next>
+
+<main_menu_channels_play_type_repeat>
+ <uk text="Повтор папки"/>
+</main_menu_channels_play_type_repeat>
+ 
+<main_menu_channels_play_type_repeat1>
+ <uk text="Повтор"/>
+</main_menu_channels_play_type_repeat1>
+ 
+<main_menu_channels_play_type_once>
+ <uk text="Один раз"/>
+</main_menu_channels_play_type_once>
+ 
+<main_menu_channels_play_type_stop_on_error>
+  <uk text="Зупинитися на помилці"/>
+</main_menu_channels_play_type_stop_on_error>
+ <!--     -->
+ 
+<dialog_config_pls_simple_background>
+  <uk text="Простий фон"/>
+</dialog_config_pls_simple_background>
+
+<dialog_config_view_allow_change_window_name>
+  <uk text="Дозволити змінювати назви головного вікна"/>
+</dialog_config_view_allow_change_window_name>
+ 
+<dialog_config_sound_lang>
+  <uk text="Мова аудіо"/>
+</dialog_config_sound_lang >
+ 
+<tooltip_config_sound_lang>
+  <uk text="Бажана мова аудіо-доріжки(вкажіть через кому двох- або трьохбуквені коди країн та 'none', якщо перемикання на іншу мову небажано)" />
+</tooltip_config_sound_lang>
+ 
+<!--     -->
+<input_name_file_open_clipboard>
+ <uk text="Відкрити з буфера обміну"/>
+</input_name_file_open_clipboard>
+ 
+<main_menu_file_open_clipboard>
+ <uk text="Відкрити з буфера обміну"/>
+</main_menu_file_open_clipboard>
+ 
+<dialog_scan_use_ip>
+ <uk text="Використовувати IP"/>
+</dialog_scan_use_ip>
+
+<playlist_menu_misc_serf>
+ <uk text="Серфінг по вибраних каналах"/>
+</playlist_menu_misc_serf>
+ 
+<serf_toolbar_rescan>
+ <uk text="Пересканувати"/>
+</serf_toolbar_rescan>
+
+<serf_toolbar_play>
+ <uk text="Відтворення"/>
+</serf_toolbar_play>
+ 
+<serf_toolbar_edit>
+ <uk text="Редагувати"/>
+</serf_toolbar_edit>
+ 
+<dialog_config_view_base>
+ <uk text="Вигляд"/>
+</dialog_config_view_base>
+
+<dialog_config_view_allow_hide_main_win>
+ <uk text="Сховати головне вікно при відтворенні радіо"/>
+</dialog_config_view_allow_hide_main_win>
+
+<dialog_config_record_rec_profile_on_osd>
+ <uk text="Вибір профілю запису на OSD"/>
+</dialog_config_record_rec_profile_on_osd>
+ 
+<osd_preferences_str_record_profile>
+ <uk text="Профіль запису"/>
+</osd_preferences_str_record_profile>
+ 
+<config_tree_system_off>
+ <uk text="Вимкнення"/>
+</config_tree_system_off>
+ 
+<dialog_config_off_interval>
+ <uk text="Інтервал таймера сну"/>
+</dialog_config_off_interval>
+
+<dialog_config_off_max>
+ <uk text="Максимальне значення таймера сну"/>
+</dialog_config_off_max>
+ 
+<dialog_config_system_off_ch1>
+<uk text="Налаштування вимкнення"/>
+</dialog_config_system_off_ch1>
+
+<!--     -->
+<dialog_media_info_caption>
+ <uk text="Медіа інформація"/>
+</dialog_media_info_caption>
+
+<dialog_media_info_tab_codecs>
+ <uk text="Кодек"/>
+</dialog_media_info_tab_codecs>
+ 
+<dialog_media_info_tab_stats>
+ <uk text="Статистика"/>
+</dialog_media_info_tab_stats>
+
+<dialog_media_info_tab_tsinfo>
+ <uk text="Torrent Stream"/>
+</dialog_media_info_tab_tsinfo>
+<!--     -->
+<main_menu_media_info>
+ <uk text="Медіа інформація"/>
+</main_menu_media_info>
+ 
+<main_menu_tools>
+ <uk text="Інструменти"/>
+</main_menu_tools>
+ 
+<main_menu_channels_openplsOSD>
+ <uk text="Показати/Сховати список відтворення на OSD"/>
+</main_menu_channels_openplsOSD>
+ 
+<main_menu_lua_ext>
+ <uk text="Додатково"/>
+</main_menu_lua_ext>
+ 
+<dialog_unload_ext_option>
+ <uk text="Зберегти налаштування каналу"/>
+</dialog_unload_ext_option>
+ 
+<dialog_config_view_compact_no_border>
+ <uk text="Без рамки у компактному режимі"/>
+</dialog_config_view_compact_no_border>
+ 
+ <!--  torrentstream messages   --> 
+<streamtorrent_mess_1>
+  <uk text="На даний момент немає активних пірів"/>
+</streamtorrent_mess_1>
+
+<streamtorrent_mess_2>
+  <uk text="Рекламний блок"/>
+</streamtorrent_mess_2>
+
+<streamtorrent_mess_3>
+  <uk text="Головний контент"/>
+</streamtorrent_mess_3>
+
+<streamtorrent_cant_connect>
+  <uk text="Не вдається підключитися до движку"/>
+</streamtorrent_cant_connect>
+
+<streamtorrent_buffering>
+  <uk text="буферизація"/>
+</streamtorrent_buffering>
+
+<streamtorrent_checking>
+  <uk text="перевірка"/>
+</streamtorrent_checking>
+
+<streamtorrent_torrent_no_media>
+  <uk text="Торрент файл не містить медіа-контенту."/>
+</streamtorrent_torrent_no_media>
+ 
+<streamtorrent_empty_torrent>
+  <uk text="Порожній торрент файл."/>
+</streamtorrent_empty_torrent>
+  
+<streamtorrent_cant_find_exe>
+  <uk text="Не можу знайти виконуваний файл движка."/>
+</streamtorrent_cant_find_exe>
+  
+<streamtorrent_starting_engine>
+  <uk text="Запуск движка..."/>
+</streamtorrent_starting_engine>
+  
+<streamtorrent_cant_start_engine>
+  <uk text="Не можливо запустити движок."/>
+</streamtorrent_cant_start_engine>
+  
+<streamtorrent_cant_find_port>
+  <uk text="Не можу знайти порт."/>
+</streamtorrent_cant_find_port>
+  
+<streamtorrent_cant_find_path>
+  <uk text="Не можу знайти папку движка."/>
+</streamtorrent_cant_find_path>
+  
+<streamtorrent_torrent_cant_load>
+  <uk text="Не можливо завантажити торрент файл."/>
+</streamtorrent_torrent_cant_load>
+  
+<!--     --> 
+<menu_last_media>
+ <uk text="Відкрити з останнього"/>
+</menu_last_media>
+
+<menu_last_media_clear_all>
+  <uk text="очистити"/>
+</menu_last_media_clear_all>
+ 
+<dialog_config_pls_fav_ignore_ext_filter>
+  <uk text="Улюблені канали - ігнорувати розширений фільтр"/>
+</dialog_config_pls_fav_ignore_ext_filter> 
+  
+</SimpleTVlang>
