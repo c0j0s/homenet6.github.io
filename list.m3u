@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1, tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV-1综合HD"  group-title="央视频道",CCTV-1综合HD
 http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
