@@ -171,7 +171,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 #EXTINF:-1, tvg-id="1976" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" tvg-name="全纪实"  group-title="港台频道",全纪实
 http://itv.ahau.edu.cn/hls/documentaryhd.m3u8
 
-#EXTINF:-1, tvg-id="-1", tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" tvg-name="瑞克和莫蒂 24/7" group-title="其他", 瑞克和莫蒂 24/7
+#EXTINF:-1, tvg-id="-1" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" tvg-name="瑞克和莫蒂 24/7" group-title="其他", 瑞克和莫蒂 24/7
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1, tvg-id="9000" tvg-logo="Logo N/A" tvg-name="5 频道"  group-title="新加坡",5 频道
