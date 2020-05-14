@@ -19,7 +19,7 @@ http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 
 #EXTINF:-1, tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV-7国防军事"  group-title="央视频道",CCTV-7国防军事
-http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
 
 #EXTINF:-1, tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV-8高清"  group-title="央视频道",CCTV-8高清
 http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
@@ -52,7 +52,7 @@ http://itv.ahau.edu.cn/hls/hunanhd.m3u8
 http://itv.ahau.edu.cn/hls/zjhd.m3u8
 
 #EXTINF:-1, tvg-id="-1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江6套高清"  group-title="卫视频道",浙江6套
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
 #EXTINF:-1, tvg-id="29" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视高清"  group-title="卫视频道",江苏卫视高清
 http://itv.ahau.edu.cn/hls/jshd.m3u8
@@ -152,9 +152,6 @@ http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 
 #EXTINF:-1, tvg-id="6080" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-name="东森电影"  group-title="港台频道",东森电影
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-
-#EXTINF:-1, tvg-id="6039" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" tvg-name="动物星球"  group-title="港台频道",动物星球
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 #EXTINF:-1, tvg-id="6037" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-name="探索发现频道"  group-title="港台频道",探索发现频道
 http://itv.ahau.edu.cn/hls/discovery.m3u8

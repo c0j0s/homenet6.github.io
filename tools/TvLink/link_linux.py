@@ -48,6 +48,7 @@ configs = [
 
 @app.route('/<int:stream_id>')
 def stream(stream_id):
+    start_time = time.time()
     if(stream_id > len(configs) - 1):
         return "No stream found"
 
@@ -59,13 +60,14 @@ def stream(stream_id):
 
         log("[/stream "+ stream_session +"] fetching:", ori_url)
         events = getLogs(webdriver, ori_url)
+        print("M --- %s seconds ---" % (time.time() - start_time))
 
-        events = [event for event in events if 'Network.responseReceived' in event['method'] and 'response' in event['params']] 
-        events = [event for event in events if 'url' in event['params']['response']]
-        events = [event for event in events if configs[stream_id][1] in event['params']['response']['url']]
+        events = [event for event in events if 'Network.responseReceived' in event['method'] and 'response' in event['params'] and 'url' in event['params']['response'] and configs[stream_id][1] in event['params']['response']['url']] 
+
         if len(events) > 0:
             session[stream_session] = str(events[0]['params']['response']['url'])
 
+    print("E --- %s seconds ---" % (time.time() - start_time))
     log("[/stream "+ stream_session +"] return:",session.get(stream_session))
     return redirect(session.get(stream_session))
 
@@ -81,5 +83,6 @@ def log(title,message):
 if __name__ == '__main__':
     app.secret_key = 'stream'
     app.config['SESSION_TYPE'] = 'filesystem'
+    app.debug = False 
     app.run(host='0.0.0.0', port=80)
 
