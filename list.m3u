@@ -129,29 +129,14 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1, tvg-id="7122" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" tvg-name="香港有线新闻"  group-title="港台频道",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 
-#EXTINF:-1, tvg-id="7135" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" tvg-name="民视"  group-title="港台频道",民视
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
 #EXTINF:-1, tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" tvg-name="中视"  group-title="港台频道",中视
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-
-#EXTINF:-1, tvg-id="6068" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-name="年代新闻"  group-title="港台频道",年代新闻
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-
-#EXTINF:-1, tvg-id="6046" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-name="八大综合台"  group-title="港台频道",八大综合台
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
 #EXTINF:-1, tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-name="中天综合"  group-title="港台频道",中天综合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
-#EXTINF:-1, tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-name="中天娱乐"  group-title="港台频道",中天娱乐
-http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-
-#EXTINF:-1, tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-name="东森新闻"  group-title="港台频道",东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-
-#EXTINF:-1, tvg-id="6080" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-name="东森电影"  group-title="港台频道",东森电影
-http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1, tvg-id="6068" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-name="年代新闻"  group-title="港台频道",年代新闻
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 #EXTINF:-1, tvg-id="6037" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-name="探索发现频道"  group-title="港台频道",探索发现频道
 http://itv.ahau.edu.cn/hls/discovery.m3u8
@@ -185,3 +170,6 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="CNA 亚洲新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="新加坡",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1, tvg-id="-1" tvg-logo="Logo N/A" tvg-name="CCTV 4K"  group-title="测试", CCTV 4K,
+https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8

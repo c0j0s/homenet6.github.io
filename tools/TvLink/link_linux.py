@@ -3,13 +3,13 @@ import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from webdriver_manager.chrome import ChromeDriverManager
 import time 
 
-def initDriver():
-    chrome_driver_path = '/home/opc/tvlink/chromedriver'
 
-    chrome_options = Options()
-    chrome_options.binary_location = '/usr/bin/google-chrome-stable'  
+
+def initDriver():
+    chrome_options = Options() 
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
@@ -17,9 +17,8 @@ def initDriver():
     caps = DesiredCapabilities.CHROME
     caps['goog:loggingPrefs'] = {'performance': 'ALL'}
 
-    return webdriver.Chrome(
-        executable_path=chrome_driver_path, options=chrome_options,desired_capabilities=caps
-    )
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options, desired_capabilities=caps)
+    return driver
 
 def getLogs(webdriver,url):
     with webdriver as driver:
@@ -84,5 +83,6 @@ if __name__ == '__main__':
     app.secret_key = 'stream'
     app.config['SESSION_TYPE'] = 'filesystem'
     app.debug = False 
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='127.0.0.1', port=5000)
+    #app.run(host='0.0.0.0', port=80)
 
