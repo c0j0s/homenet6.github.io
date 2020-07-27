@@ -76,7 +76,7 @@ http://itv.ahau.edu.cn/hls/szhd.m3u8
 http://itv.ahau.edu.cn/hls/gdhd.m3u8
 
 #EXTINF:-1, tvg-id="7125" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-name="广东珠江高清"  group-title="卫视频道",广东珠江高清
-http://152.67.109.29/1
+http://152.67.109.29/1.m3u8
 
 #EXTINF:-1, tvg-id="39" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-name="天津卫视高清"  group-title="卫视频道",天津卫视高清
 http://itv.ahau.edu.cn/hls/tjhd.m3u8
@@ -109,7 +109,10 @@ http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 #EXTINF:-1, tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-name="无线新闻"  group-title="港台频道",无线新闻
-http://152.67.109.29/0
+http://152.67.109.29/0.m3u8
+
+#EXTINF:-1, tvg-id="239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-name="无线财经"  group-title="港台频道",无线财经
+http://152.67.109.29/2.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" tvg-name="星空卫视"  group-title="港台频道",星空卫视
 http://iptv.pdsu.edu.cn/hls/startv.m3u8
