@@ -19,7 +19,7 @@ http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 
 #EXTINF:-1, tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV-7国防军事"  group-title="央视频道",CCTV-7国防军事
-http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+http://39.134.157.205/PLTV/88888888/224/3221225661/index.m3u8
 
 #EXTINF:-1, tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV-8高清"  group-title="央视频道",CCTV-8高清
 http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
@@ -156,6 +156,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 #EXTINF:-1, tvg-id="1976" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" tvg-name="全纪实"  group-title="港台频道",全纪实
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225697/1.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="上海纪实人文"  group-title="港台频道",上海纪实人文
+http://39.134.157.205/PLTV/88888888/224/3221225657/index.m3u8
+
 #EXTINF:-1, tvg-id="-1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-name="NHK 日本华语世界"  group-title="日韩频道",NHK 日本华语世界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
@@ -171,11 +174,17 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1, tvg-id="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-name="CNA 亚洲新闻台"  group-title="新加坡",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1, tvg-id="-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV 4K"  group-title="测试",CCTV 4K
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+#EXTINF:-1,英国 Skynews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1, tvg-id="-1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-name="HBO 亚洲"  group-title="其他",HBO 亚洲
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:-1, tvg-id="-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="纯享4K"  group-title="测试", 纯享4K
+http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8
+
+#EXTINF:-1, tvg-id="-1" tvg-logo="" tvg-name="黑莓电影"  group-title="其他",黑莓电影
+http://39.134.157.205/PLTV/88888888/224/3221225664/index.m3u8
+
+#EXTINF:-1, tvg-id="-1" tvg-logo="" tvg-name="NewTV超级电影"  group-title="其他",NewTV超级电影
+http://39.134.157.205/PLTV/88888888/224/3221225656/index.m3u8
 
 #EXTINF:-1, tvg-id="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" tvg-name="Animax动漫"  group-title="其他",Animax动漫
 https://cdn.jpus206.jpnettv.live/jptv/janimax_720/index.m3u8
