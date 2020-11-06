@@ -1,2 +1,0 @@
-
-ExecuteFilesByReason('onconfig')
