@@ -109,7 +109,10 @@ http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 #EXTINF:-1, tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-country="HK" tvg-name="无线新闻"  group-title="港台频道",无线新闻
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8
+http://152.67.109.29/0.m3u8
+
+#EXTINF:-1, tvg-id="239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-country="HK" tvg-name="无线财经"  group-title="港台频道",无线财经
+http://152.67.109.29/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="General",A1台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
