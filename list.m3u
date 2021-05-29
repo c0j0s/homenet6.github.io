@@ -76,7 +76,10 @@ http://hdtv.lzu6.edu.cn/hls/szhd.m3u8
 http://hdtv.lzu6.edu.cn/hls/gdhd.m3u8
 
 #EXTINF:-1, tvg-id="7125" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-language="Chinese" tvg-country="CN" tvg-name="广东珠江高清"  group-title="卫视频道",广东珠江高清
-http://152.67.113.182:20020/2.m3u8
+http://149.129.100.78/guangdong.php?id=44
+
+#EXTINF:-1, tvg-id="7125" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-language="Chinese" tvg-country="CN" tvg-name="广东河源综合"  group-title="卫视频道",广东河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 #EXTINF:-1, tvg-id="39" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-language="Chinese" tvg-country="CN" tvg-name="天津卫视高清"  group-title="卫视频道",天津卫视高清
 http://hdtv.lzu6.edu.cn/hls/tjhd.m3u8
@@ -90,9 +93,6 @@ http://hdtv.lzu6.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1, tvg-id="40" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-language="Chinese" tvg-country="CN" tvg-name="重庆卫视高清"  group-title="卫视频道",重庆卫视高清
 http://hdtv.lzu6.edu.cn/hls/cqhd.m3u8
 
-#EXTINF:-1, tvg-id="43" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-language="Chinese" tvg-country="CN" tvg-name="广西卫视"  group-title="卫视频道",广西卫视
-http://hdtv.lzu6.edu.cn/hls/gxtv.m3u8
-
 #EXTINF:-1, tvg-id="58" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-language="Chinese" tvg-country="CN" tvg-name="云南卫视"  group-title="卫视频道",云南卫视
 http://hdtv.lzu6.edu.cn/hls/yntv.m3u8
 
@@ -103,10 +103,10 @@ http://hdtv.lzu6.edu.cn/hls/jxtv.m3u8
 http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
 
 #EXTINF:-1, tvg-id="141" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文"  group-title="港台频道" tvg-country="HK",凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+http://itv.ahau.edu.cn/hls/fhzw.m3u8
 
 #EXTINF:-1, tvg-id="143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="凤凰香港"  group-title="港台频道" tvg-country="HK",凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1, tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-country="HK" tvg-name="无线新闻"  group-title="港台频道",无线新闻
 http://152.67.113.182:20020/0.m3u8
@@ -114,8 +114,11 @@ http://152.67.113.182:20020/0.m3u8
 #EXTINF:-1, tvg-id="239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-country="HK" tvg-name="无线财经"  group-title="港台频道",无线财经
 http://152.67.113.182:20020/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="General",A1台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1, tvg-country="HK" group-title="港台频道", TVB翡翠台
+http://61.238.6.49:8000/bysid/1
+
+#EXTINF:-1, tvg-country="HK" group-title="港台频道",TVB明珠台
+http://61.238.6.49:8001/bysid/2.mpeg
 
 #EXTINF:-1, tvg-id="412" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-name="香港卫视"  group-title="港台频道" tvg-country="HK",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -132,16 +135,16 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1, tvg-id="7122" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" tvg-name="香港有线新闻"  group-title="港台频道",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 
-#EXTINF:-1, tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" tvg-name="中视"  group-title="港台频道",中视
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1, tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" tvg-name="中视新闻"  group-title="港台频道",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
 
-#EXTINF:-1, tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-name="中天综合"  group-title="港台频道",中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1, tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-name="中天新闻"  group-title="港台频道",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 #EXTINF:-1, tvg-id="305" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" tvg-name="TVBS新闻台"  group-title="港台频道",TVBS新闻台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
-#EXTINF:-1, tvg-id="6037" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-name="探索发现频道"  group-title="港台频道",探索发现频道
+#EXTINF:-1, tvg-id="6037" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-name="探索频道"  group-title="港台频道",探索频道
 http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
 
 #EXTINF:-1, tvg-id="691" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" tvg-name="国家地理"  group-title="港台频道",国家地理
@@ -159,6 +162,9 @@ http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225697/1
 #EXTINF:-1 group-title="港台频道" tvg-name="星空卫视",星空卫视
 http://hdtv.lzu6.edu.cn/hls/startv.m3u8
 
+#EXTINF:-1 group-title="港台频道" tvg-name="TVB星河频道",TVB星河频道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
 #EXTINF:-1 group-title="港台频道" tvg-name="金鹰纪实 HD",金鹰纪实 HD
 http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
 
@@ -171,23 +177,17 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1, tvg-id="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-name="CNA 亚洲新闻台"  group-title="新马",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" tvg-country="MY" tvg-url="新马" group-title="",8TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="Chinese" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" tvg-country="TW" tvg-url="" group-title="其他",HBO Asia
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-
-#EXTINF:-1 group-title="港台频道" tvg-name="大众影视 HD",大众影视 HD
+#EXTINF:-1 group-title="其他" tvg-name="大众影视 HD",大众影视 HD
 http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-name="家庭影院 HD",家庭影院 HD
+#EXTINF:-1 group-title="其他" tvg-name="家庭影院 HD",家庭影院 HD
 http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-name="CHC高清 HD",CHC高清 HD
+#EXTINF:-1 group-title="其他" tvg-name="CHC高清 HD",CHC高清 HD
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 
-#EXTINF:-1, tvg-id="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" tvg-name="Animax动漫"  group-title="其他",Animax动漫
-https://cdn.jpus206.jpnettv.live/jptv/janimax_720/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-name="黑莓电影" ,黑莓电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 
 #EXTINF:-1, tvg-id="-1" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" tvg-name="瑞克和莫蒂 24/7"  group-title="其他",瑞克和莫蒂 24/7
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
